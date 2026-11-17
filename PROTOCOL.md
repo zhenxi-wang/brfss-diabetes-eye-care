@@ -26,4 +26,4 @@ Primary complete-pair analysis; report unknown/refused/missing separately for bo
 
 ## Outputs and interpretation
 
-Retain raw archives, source documentation, SHA-256 manifest, variable coding ledger, all cross-tabulations, full model coefficients/covariance, diagnostics and reproducible code. Produce an English manuscript under 5000 main-text words, tables, high-resolution 600-dpi and vector scientific figures, and a supplement. All results are reported regardless of statistical significance. Any later deviation or data-availability change must be logged. Search novelty against paired-modality BRFSS analyses and related screening-surveillance literature; do not guarantee global priority or editorial acceptance.
+Retain raw archives, source documentation, SHA-256 manifest, variable coding ledger, all cross-tabulations, full model coefficients/covariance, diagnostics and reproducible code.

@@ -1,7 +1,5 @@
 # Paired ascertainment of diabetes eye care in BRFSS
 
-Local analysis specification recorded 12 November 2026 before downloading or examining the focused BRFSS records. Not publicly preregistered. Literature and questionnaire feasibility review preceded this specification. Earlier workspace studies are not pooled into this analysis.
-
 ## Question
 
 How much self-reported retinal-photography contact is invisible to a dilation-only eye-care metric, and does the measurement choice change apparent geographic and socioeconomic inequalities? This is a measurement and service-contact study, not a validation of screening quality, an AI implementation study, or a treatment-effect analysis. It is distinct from the earlier receptor atlas and incretin eye-examination projects.

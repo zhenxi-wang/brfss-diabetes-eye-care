@@ -8,7 +8,7 @@ Reproducibility materials for the 2025 and 2022 Behavioral Risk Factor Surveilla
 | --- | --- |
 | [code](code) | CDC data acquisition, variable extraction, paired survey analysis, multinomial models, nonresponse analyses, tables, figures, and verification |
 | [data/derived](data/derived) | Selected variables and analysis files generated from the CDC public-use records, with the survey design variables needed for domain variance |
-| [results](results) | Machine-readable aggregate estimates, coefficients, covariance matrices, sensitivity analyses, Tables 1–2 and Supplementary Tables S1–S20 |
+| [results](results) | Machine-readable aggregate estimates, sensitivity analyses, Tables 1–2 and Supplementary Tables S1–S20, and [coefficients and covariance matrices](results/model_parameters) |
 | [figures](figures) | Three main and three supplementary figures as PDF, PNG, and SVG |
 | [sources](sources) | Official data URLs and archived checksums, extraction manifests, questionnaires, codebooks, and state-module eligibility |
 | [qa](qa) | Statistical verification and artifact checks for the 17 November 2026 analysis release |
@@ -25,6 +25,8 @@ python code/write_content.py
 ```
 
 The procedure runs the paired descriptive analysis, joint multinomial and binary sensitivity models, inverse response weighting with and without insulin, ranked weight-influence diagnostics, MAR/MNAR imputation, and the common-state year comparison. The reference outputs include [the adjusted contrasts](results/adjusted_contrasts.csv), [nonresponse estimates](results/nonresponse_sensitivity.csv), [module response patterns](results/module_missingness.csv), and [ranked weight influence](results/ipw_ranked_influence.csv).
+
+The model-parameter JSON files list fitted coefficients and their covariance matrices in the same parameter order. The analysis locally generates model caches used by the verification script.
 
 ## Reconstruct the extracts from official public-use data
 

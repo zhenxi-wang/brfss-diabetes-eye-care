@@ -89,6 +89,7 @@ def table(d,t,newpage=True):
     for run in p.runs:run.font.size=Pt(10.5)
 
 def main():
+    OUT.mkdir(parents=True, exist_ok=True)
     x=json.loads((ROOT/'manuscript/manuscript.json').read_text(encoding='utf8'));d=make(x['title'],True)
     p=para(d,x['subtitle']);p.paragraph_format.line_spacing=1.15
     p=para(d,f"Main text {x['main_word_count']} words | Abstract {x['abstract_word_count']} words");p.paragraph_format.line_spacing=1.15

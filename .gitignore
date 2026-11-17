@@ -14,3 +14,4 @@ __pycache__/
 /MANIFEST.json
 /PACKAGE_SHA256.txt
 ~$*
+/results/*.npz

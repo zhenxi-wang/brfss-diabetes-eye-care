@@ -34,6 +34,7 @@ def pretty_group(group):
  if c=='type':return 'Reported '+v.lower()
  return c.capitalize()+' '+v
 def main():
+ M.mkdir(parents=True, exist_ok=True)
  title='Retinal photography and the ascertainment of diabetes eye care'
  reference_list=[ref(k) for k in ['ada2026','burden','telemedicine','implementation','pivotalAI','accessRCT','equity2024','followup2026','rural2025','Wagner2025']]
  reference_list.extend([

@@ -21,7 +21,6 @@ Use Python 3.12. Run these commands from the repository root with the included p
 python -m pip install -r requirements.txt
 python code/analyse.py
 python code/figures.py
-python code/write_content.py
 ```
 
 The procedure runs the paired descriptive analysis, joint multinomial and binary sensitivity models, inverse response weighting with and without insulin, ranked weight-influence diagnostics, MAR/MNAR imputation, and the common-state year comparison. The reference outputs include [the adjusted contrasts](results/adjusted_contrasts.csv), [nonresponse estimates](results/nonresponse_sensitivity.csv), [module response patterns](results/module_missingness.csv), and [ranked weight influence](results/ipw_ranked_influence.csv).
@@ -44,4 +43,4 @@ The Python verification independently recomputes key design-based estimates and 
 
 ## Interpretation
 
-The reported outcomes are service contacts. Their clinical adequacy and appropriateness cannot be determined from BRFSS. Estimates refer to eligible participating-state domains. Probability weighting and imputation require assumptions about unobserved responses. The analyses and repository have no CDC endorsement.
+The reported outcomes are service contacts. Their clinical adequacy and appropriateness cannot be determined from BRFSS. Estimates refer to eligible participating-state domains. Probability weighting and imputation require assumptions about unobserved responses.

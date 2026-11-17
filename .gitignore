@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.Rhistory
+.RData
+/data/raw/
+/deliverables/
+/manuscript/
+/qa/Manuscript/
+/qa/Supplement/
+/Research_package_*.zip
+/MANIFEST.json
+/PACKAGE_SHA256.txt
+~$*

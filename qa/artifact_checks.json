@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "figures": [
+    {
+      "file": "Figure1_paired_eye_care_classification.png",
+      "pixels": [
+        7067,
+        3554
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "file": "Figure2_photography_only_by_group.png",
+      "pixels": [
+        7937,
+        5076
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "file": "Figure3_adjusted_contact_disparities.png",
+      "pixels": [
+        7569,
+        3603
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "file": "FigureS1_participant_flow.png",
+      "pixels": [
+        5748,
+        4142
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "file": "FigureS2_state_specific_increment.png",
+      "pixels": [
+        4932,
+        5300
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "file": "FigureS3_missingness_and_sensitivity.png",
+      "pixels": [
+        7645,
+        3674
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    }
+  ],
+  "main_text": 2310,
+  "abstract": 266,
+  "references": 20,
+  "main_tables": 2,
+  "supplementary_tables": 21,
+  "pages": {
+    "Manuscript": 10,
+    "Supplement": 34
+  },
+  "module_patterns": "PASS",
+  "zero_support_when_earlier_module_blank": true,
+  "joint_gap_identity": "PASS",
+  "maximum_mcse_to_se": 0.09387007078139745
+}

@@ -1,0 +1,41 @@
+2025: DIABEYE1
+SAS Variable Name: DIABEYE1 Question Prologue: Question: When was the last time doctor, nurse or other health professional took a photo of the back of your eye with a specialized camera? Value Value Label Frequency Percentage Weighted Percentage 1 Within the past month (anytime less than 1 month ago) 3,143 14.76 14.55 2 Within the past year (1 month but less than 12 months ago) 9,715 45.62 44.30 3 Within the past 2 years (1 year but less than 2 years ago) 2,209 10.37 10.97 4 2 or more years ago 2,099 9.86 9.89 7 Don’t know/Not sure 2,285 10.73 9.49 8 Never 1,806 8.48 10.71 9 Refused 37 0.17 0.08 BLANK Not asked or Missing Notes: Section 07.12, DIABETE4, is coded 2, 3, 4, 7, 9, or Missing 334,864 . . 
+
+2025: EYEEXAM1
+SAS Variable Name: EYEEXAM1 Question Prologue: Question: When was the last time you had an eye exam in which the pupils were dilated, making you temporarily sensitive to bright light? Value Value Label Frequency Percentage Weighted Percentage 1 Within the past month (anytime less than 1 month ago) 3,883 18.23 17.94 2 Within the past year (1 month but less than 12 months ago) 11,055 51.89 48.89 3 Within the past 2 years (1 year but less than 2 years ago) 2,524 11.85 11.97 4 2 or more years ago 2,498 11.73 12.40 7 Don’t know/Not sure 466 2.19 2.42 8 Never 844 3.96 6.21 9 Refused 33 0.15 0.16 BLANK Not asked or Missing Notes: Section 07.12, DIABETE4, is coded 2, 3, 4, 7, 9, or Missing 334,855 . . 
+
+2025: _RACEGR3
+SAS Variable Name: _RACEGR3 Question Prologue: Question: Five-level race/ethnicity category Value Value Label Frequency Percentage Weighted Percentage 1 White only, Non-Hispanic 258,095 72.47 58.79 2 Black only, Non-Hispanic 26,043 7.31 12.21 3 Other race only, Non-Hispanic 19,885 5.58 7.12 4 Multiracial, Non-Hispanic 8,729 2.45 2.79 5 Hispanic 35,081 9.85 16.60 9 Don’t know/Not sure/Refused 8,322 2.34 2.50 BLANK Missing 3 . . 
+
+2025: _RACEGR4
+NOT FOUND
+
+2025: _IMPRACE
+SAS Variable Name: _IMPRACE Question Prologue: Question: Imputed race/ethnicity value (This value is the reported race/ethnicity or an imputed race/ethnicity, if the respondent refused to give a race/ethnicity. The value of the imputed race/ethnicity will be the most common race/ethnicity response for that region of the state) Value Value Label Frequency Percentage Weighted Percentage 1 White, Non-Hispanic 265,196 74.46 60.65 2 Black, Non-Hispanic 26,308 7.39 12.35 3 Asian, Non-Hispanic 10,075 2.83 4.80 4 American Indian/Alaskan Native, Non-Hispanic 5,193 1.46 1.14 5 Hispanic 35,296 9.91 16.75 6 Other race, Non-Hispanic 14,090 3.96 4.32 
+
+2025: INCOME3
+SAS Variable Name: INCOME3 Question Prologue: Question: Is your annual household income from all sources: (If respondent refuses at any income level, code ´Refused. ´) Value Value Label Frequency Percentage Weighted Percentage 1 Less than $10,000 7,723 2.21 2.68 2 Less than $15,000 ($10,000 to < $15,000) 7,971 2.28 2.09 3 Less than $20,000 ($15,000 to < $20,000) 10,285 2.95 2.85 4 Less than $25,000 ($20,000 to < $25,000) 15,257 4.37 4.17 5 Less than $35,000 ($25,000 to < $35,000) 31,691 9.08 8.84 6 Less than $50,000 ($35,000 to < $50,000) 37,977 10.88 10.41 7 Less than $75,000 ($50,000 to < $75,000) 46,329 13.27 12.38 8 Less than $100,000 ($75,000 to < $100,000) 39,932 11.44 10.99 9 Less than $150,000 ($100,000 to < $150,000) 43,403 12.44 12.40 10 Less than $200,000 ($150,000 to < $200,000) 21,174 6.07 6.58 11 $200,000 or more 23,366 6.69 7.72 77 Don’t know/Not sure 29,831 8.55 9.63 99 Refused 34,081 9.76 9.26 BLANK Not asked or Missing 7,138 . . 
+
+2025: _METSTAT
+SAS Variable Name: _METSTAT Question Prologue: Question: Metropolitan Status Value Value Label Frequency Percentage Weighted Percentage 1 Metropolitan counties (_URBNRRL = 1,2,3,4) 251,124 71.71 84.50 2 Nonmetropolitan counties (_URBNRRL = 5,6) 99,067 28.29 15.50 BLANK Not defined or Missing 5,967 . . 
+
+2022: DIABEYE1
+SAS Variable Name: DIABEYE1 Question Prologue: Question: When was the last time a doctor, nurse or other health professional took a photo of the back of your eye with a specialized camera? Value Value Label Frequency Percentage Weighted Percentage 1 Within the past month (anytime less than 1 month ago) 2,495 19.80 18.48 2 Within the past year (1 month but less than 12 months ago) 4,710 37.38 36.03 3 Within the past 2 years (1 year but less than 2 years ago) 1,333 10.58 10.83 4 2 or more years ago 1,293 10.26 10.98 7 Don’t know/Not sure 1,633 12.96 12.85 8 Never 1,126 8.94 10.76 9 Refused 10 0.08 0.08 BLANK Not asked or Missing Notes: Section 07.12, DIABETE4, is coded 2, 3, 4, 7, 9, or Missing 432,532 . . 
+
+2022: EYEEXAM1
+SAS Variable Name: EYEEXAM1 Question Prologue: Question: When was the last time you had an eye exam in which the pupils were dilated, making you temporarily sensitive to bright light? Value Value Label Frequency Percentage Weighted Percentage 1 Within the past month (anytime less than 1 month ago) 3,287 26.09 23.98 2 Within the past year (1 month but less than 12 months ago) 5,566 44.17 42.19 3 Within the past 2 years (1 year but less than 2 years ago) 1,577 12.52 12.91 4 2 or more years ago 1,469 11.66 13.39 7 Don’t know/Not sure 272 2.16 2.65 8 Never 421 3.34 4.78 9 Refused 8 0.06 0.10 BLANK Not asked or Missing Notes: Section 07.12, DIABETE4, is coded 2, 3, 4, 7, 9, or Missing 432,532 . . 
+
+2022: _RACEGR3
+NOT FOUND
+
+2022: _RACEGR4
+SAS Variable Name: _RACEGR4 Question Prologue: Question: Five-level race/ethnicity category Value Value Label Frequency Percentage Weighted Percentage 1 White only, Non-Hispanic Notes: _RACE1=1 320,421 71.98 56.43 2 Black only, Non-Hispanic Notes: _RAC1E=2 35,446 7.96 11.49 3 Other race only, Non-Hispanic Notes: _RACE1=3, 4, 5 22,713 5.10 7.69 4 Multiracial, Non-Hispanic Notes: _RACE1=6 9,578 2.15 3.07 5 Hispanic Notes: _RACE1=7 42,917 9.64 18.18 9 Don’t know/Not sure/Refused Notes: _RACE1=9 14,055 3.16 3.15 BLANK Missing 2 . . 
+
+2022: _IMPRACE
+SAS Variable Name: _IMPRACE Question Prologue: Question: Imputed race/ethnicity value (This value is the reported race/ethnicity or an imputed race/ethnicity, if the respondent refused to give a race/ethnicity. The value of the imputed race/ethnicity will be the most common race/ethnicity response for that region of the state) Value Value Label Frequency Percentage Weighted Percentage 1 White, Non-Hispanic 333,514 74.92 59.20 2 Black, Non-Hispanic 35,876 8.06 11.62 3 Asian, Non-Hispanic 13,487 3.03 6.11 4 American Indian/Alaskan Native, Non-Hispanic 7,120 1.60 1.21 5 Hispanic 42,977 9.65 18.25 6 Other race, Non-Hispanic 12,158 2.73 3.60 
+
+2022: INCOME3
+SAS Variable Name: INCOME3 Question Prologue: Question: Is your annual household income from all sources: (If respondent refuses at any income level, code ´Refused.´) Value Value Label Frequency Percentage Weighted Percentage 1 Less than $10,000 10,341 2.39 2.95 2 Less than $15,000 ($10,000 to < $15,000) 11,031 2.55 2.43 3 Less than $20,000 ($15,000 to < $20,000) 14,300 3.31 3.44 4 Less than $25,000 ($20,000 to < $25,000) 20,343 4.71 4.71 5 Less than $35,000 ($25,000 to < $35,000) 42,294 9.79 9.92 6 Less than $50,000 ($35,000 to < $50,000) 46,831 10.84 10.20 7 Less than $75,000 ($50,000 to < $75,000) 59,148 13.69 12.42 8 Less than $100,000? ($75,000 to < $100,000) 48,436 11.21 10.42 9 Less than $150,000? ($100,000 to < $150,000)? 50,330 11.65 11.19 10 Less than $200,000? ($150,000 to < $200,000) 22,553 5.22 5.39 11 $200,000 or more 23,478 5.43 6.13 77 Don’t know/Not sure 36,114 8.36 10.44 99 Refused 47,001 10.87 10.37 BLANK Not asked or Missing 12,932 . . 
+
+2022: _METSTAT
+SAS Variable Name: _METSTAT Question Prologue: Question: Metropolitan Status Value Value Label Frequency Percentage Weighted Percentage 1 Metropolitan counties (_URBNRRL = 1,2,3,4) 318,082 73.00 85.32 2 Nonmetropolitan counties (_URBNRRL = 5,6) 117,642 27.00 14.68 BLANK Not defined or Missing 9,408 . . 

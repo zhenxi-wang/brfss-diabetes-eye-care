@@ -1,0 +1,15 @@
+Year,Quantity,Value
+2025,All-state design records,"149,032"
+2025,Design strata,813
+2025,PSU minus stratum df,"148,219"
+2025,Singleton strata,28
+2022,All-state design records,"90,901"
+2022,Design strata,492
+2022,PSU minus stratum df,"90,409"
+2022,Singleton strata,16
+2025,Dilation SE centered / omitted,0.809697 / 0.809660
+2025,Either SE centered / omitted,0.787478 / 0.787434
+2025,Photography only SE centered / omitted,0.329727 / 0.329726
+2022,Dilation SE centered / omitted,0.780169 / 0.780169
+2022,Either SE centered / omitted,0.743467 / 0.743467
+2022,Photography only SE centered / omitted,0.390344 / 0.390344

@@ -1,0 +1,37 @@
+Characteristic,2025 complete %,2025 incomplete %,2025 SMD,2022 complete %,2022 incomplete %,2022 SMD
+Age | 18–44,12.1,17.7,-0.16,11.5,12.4,-0.03
+Age | 45–64,41.5,36.2,+0.11,43.2,42.8,+0.01
+Age | ≥65,46.4,46.1,+0.01,45.4,44.8,+0.01
+Sex | Female,47.3,49.1,-0.04,49.0,49.2,-0.00
+Sex | Male,52.7,50.9,+0.04,51.0,50.8,+0.00
+Race and ethnicity | Black NH,17.0,15.2,+0.05,22.1,19.3,+0.07
+Race and ethnicity | Hispanic,16.9,22.2,-0.14,6.6,8.0,-0.05
+Race and ethnicity | Other/multiracial NH,8.1,9.9,-0.07,6.5,7.9,-0.05
+Race and ethnicity | Unknown,2.6,2.0,+0.04,2.7,4.3,-0.08
+Race and ethnicity | White NH,55.5,50.6,+0.10,62.0,60.5,+0.03
+Education | <High school,15.5,19.9,-0.11,16.0,17.5,-0.04
+Education | College graduate,24.1,21.6,+0.06,20.9,19.8,+0.03
+Education | High school,27.0,28.8,-0.04,31.4,32.0,-0.01
+Education | Some college,32.6,28.9,+0.08,31.4,30.3,+0.03
+Education | Unknown,0.7,0.8,-0.01,0.2,0.5,-0.04
+"Income | $35,000–74,999",24.6,22.5,+0.05,25.3,22.3,+0.07
+"Income | <$35,000",28.7,29.7,-0.02,33.1,29.0,+0.09
+Income | Unknown,19.3,24.4,-0.12,20.8,26.8,-0.14
+"Income | ≥$75,000",27.4,23.4,+0.09,20.8,21.9,-0.03
+Nonmetropolitan | No,79.5,79.3,+0.01,72.2,73.8,-0.04
+Nonmetropolitan | Yes,20.5,20.7,-0.01,27.8,26.2,+0.04
+Cost barrier | No,86.6,85.5,+0.03,89.0,87.5,+0.05
+Cost barrier | Unknown,0.4,0.8,-0.05,0.3,0.3,-0.00
+Cost barrier | Yes,13.0,13.7,-0.02,10.7,12.2,-0.05
+Insulin use | No,69.6,40.3,+0.61,65.2,49.8,+0.32
+Insulin use | Unknown,0.3,43.2,-1.22,0.3,26.9,-0.84
+Insulin use | Yes,30.1,16.5,+0.33,34.5,23.3,+0.25
+Serious vision difficulty | No,85.0,82.6,+0.06,83.6,83.7,-0.00
+Serious vision difficulty | Unknown,3.9,6.5,-0.12,5.6,6.4,-0.03
+Serious vision difficulty | Yes,11.2,11.0,+0.01,10.8,10.0,+0.03
+Annual routine checkup | No,4.7,6.2,-0.07,6.2,7.0,-0.03
+Annual routine checkup | Unknown,0.6,1.9,-0.12,0.8,1.2,-0.04
+Annual routine checkup | Yes,94.7,91.9,+0.11,93.0,91.8,+0.04
+Personal health care provider | No,4.9,7.4,-0.10,5.4,8.0,-0.10
+Personal health care provider | Unknown,0.6,1.8,-0.11,0.9,1.0,-0.01
+Personal health care provider | Yes,94.5,90.8,+0.14,93.8,91.0,+0.10

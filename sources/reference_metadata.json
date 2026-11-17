@@ -1,0 +1,1449 @@
+{
+  "ada2026": {
+    "title": "12. Retinopathy, Neuropathy, and Foot Care: Standards of Care in Diabetes-2026.",
+    "doi": "10.2337/dc26-s012",
+    "pubYear": "2026",
+    "authorList": {
+      "author": [
+        {
+          "collectiveName": "American Diabetes Association Professional Practice Committee for Diabetes*"
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "Suppl 1",
+      "volume": "49",
+      "journalIssueId": 4220069,
+      "dateOfPublication": "2026 Jan",
+      "monthOfPublication": 1,
+      "yearOfPublication": 2026,
+      "journal": {
+        "medlineAbbreviation": "Diabetes Care",
+        "title": "Diabetes care",
+        "essn": "1935-5548",
+        "issn": "0149-5992",
+        "isoabbreviation": "Diabetes Care",
+        "nlmid": "7805975"
+      },
+      "printPublicationDate": "2026-01-01"
+    },
+    "pageInfo": "S261-S276",
+    "id": "41358886",
+    "source": "MED"
+  },
+  "telemedicine": {
+    "title": "Long-term Comparative Effectiveness of Telemedicine in Providing Diabetic Retinopathy Screening Examinations: A Randomized Clinical Trial.",
+    "doi": "10.1001/jamaophthalmol.2015.1",
+    "pubYear": "2015",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Mansberger SL",
+          "lastName": "Mansberger",
+          "firstName": "Steven L",
+          "initials": "SL",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-5208-3544"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Devers Eye Institute/Discoveries in Sight, Legacy Health, Portland, Oregon2Department of Public Health and Preventive Medicine, Oregon Health & Science University, Portland."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Sheppler C",
+          "lastName": "Sheppler",
+          "firstName": "Christina",
+          "initials": "C",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Devers Eye Institute/Discoveries in Sight, Legacy Health, Portland, Oregon."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Barker G",
+          "lastName": "Barker",
+          "firstName": "Gordon",
+          "initials": "G",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Devers Eye Institute/Discoveries in Sight, Legacy Health, Portland, Oregon."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Gardiner SK",
+          "lastName": "Gardiner",
+          "firstName": "Stuart K",
+          "initials": "SK",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-9139-4943"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Devers Eye Institute/Discoveries in Sight, Legacy Health, Portland, Oregon."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Demirel S",
+          "lastName": "Demirel",
+          "firstName": "Shaban",
+          "initials": "S",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0003-3855-6461"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Devers Eye Institute/Discoveries in Sight, Legacy Health, Portland, Oregon."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Wooten K",
+          "lastName": "Wooten",
+          "firstName": "Kathleen",
+          "initials": "K",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Hunter Health Clinic, Diabetes Care Center, Wichita, Kansas."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Becker TM",
+          "lastName": "Becker",
+          "firstName": "Thomas M",
+          "initials": "TM",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Public Health and Preventive Medicine, Oregon Health & Science University, Portland."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "5",
+      "volume": "133",
+      "journalIssueId": 2284989,
+      "dateOfPublication": "2015 May",
+      "monthOfPublication": 5,
+      "yearOfPublication": 2015,
+      "journal": {
+        "medlineAbbreviation": "JAMA Ophthalmol",
+        "title": "JAMA ophthalmology",
+        "essn": "2168-6173",
+        "issn": "2168-6165",
+        "nlmid": "101589539",
+        "isoabbreviation": "JAMA Ophthalmol"
+      },
+      "printPublicationDate": "2015-05-01"
+    },
+    "pageInfo": "518-525",
+    "id": "25741666",
+    "source": "MED"
+  },
+  "implementation": {
+    "title": "Implementation and Evaluation of a Large-Scale Teleretinal Diabetic Retinopathy Screening Program in the Los Angeles County Department of Health Services.",
+    "doi": "10.1001/jamainternmed.2017.0204",
+    "pubYear": "2017",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Daskivich LP",
+          "lastName": "Daskivich",
+          "firstName": "Lauren P",
+          "initials": "LP",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Ophthalmology and Eye Health Programs, Department of Health Services, Los Angeles County, Los Angeles, California."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Vasquez C",
+          "lastName": "Vasquez",
+          "firstName": "Carolina",
+          "initials": "C",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Medicine, David Geffen School of Medicine, UCLA (University of California, Los Angeles)3Department of Health Policy and Management, UCLA Fielding School of Public Health, University of California, Los Angeles."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Martinez C Jr",
+          "lastName": "Martinez",
+          "firstName": "Carlos",
+          "initials": "C",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Charles R. Drew University of Medicine and Science, Los Angeles, California."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Tseng CH",
+          "lastName": "Tseng",
+          "firstName": "Chi-Hong",
+          "initials": "CH",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Medicine, David Geffen School of Medicine, UCLA (University of California, Los Angeles)3Department of Health Policy and Management, UCLA Fielding School of Public Health, University of California, Los Angeles."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Mangione CM",
+          "lastName": "Mangione",
+          "firstName": "Carol M",
+          "initials": "CM",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Medicine, David Geffen School of Medicine, UCLA (University of California, Los Angeles)."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "5",
+      "volume": "177",
+      "journalIssueId": 2551840,
+      "dateOfPublication": "2017 May",
+      "monthOfPublication": 5,
+      "yearOfPublication": 2017,
+      "journal": {
+        "medlineAbbreviation": "JAMA Intern Med",
+        "title": "JAMA internal medicine",
+        "essn": "2168-6114",
+        "issn": "2168-6106",
+        "nlmid": "101589534",
+        "isoabbreviation": "JAMA Intern Med"
+      },
+      "printPublicationDate": "2017-05-01"
+    },
+    "pageInfo": "642-649",
+    "id": "28346590",
+    "source": "MED"
+  },
+  "pivotalAI": {
+    "title": "Pivotal trial of an autonomous AI-based diagnostic system for detection of diabetic retinopathy in primary care offices.",
+    "doi": "10.1038/s41746-018-0040-6",
+    "pubYear": "2018",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Abr\u00e0moff MD",
+          "lastName": "Abr\u00e0moff",
+          "firstName": "Michael D",
+          "initials": "MD",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-3490-0037"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "1Department of Ophthalmology and Visual Sciences, University of Iowa, Iowa City, IA 52242 USA."
+              },
+              {
+                "affiliation": "2Veterans Administration Medical Center, Iowa City, IA 52242 USA."
+              },
+              {
+                "affiliation": "IDx LLC, Coralville, IA 52241 USA."
+              },
+              {
+                "affiliation": "4Institute for Vision Research, University of Iowa, Iowa City, IA 52242 USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Lavin PT",
+          "lastName": "Lavin",
+          "firstName": "Philip T",
+          "initials": "PT",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Boston Biostatistics Research Foundation, Inc., 3 Cahill Park Drive, Framingham, MA 01702 USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Birch M",
+          "lastName": "Birch",
+          "firstName": "Michele",
+          "initials": "M",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "6Department of Family Medicine, Director of Academic Services, University of North Carolina School of Medicine, Charlotte, NC 28204 USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Shah N",
+          "lastName": "Shah",
+          "firstName": "Nilay",
+          "initials": "N",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "7The Emmes Corporation, 401 North Washington Street, Suite 700, Rockville, MD 20850 USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Folk JC",
+          "lastName": "Folk",
+          "firstName": "James C",
+          "initials": "JC",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-6271-2906"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "1Department of Ophthalmology and Visual Sciences, University of Iowa, Iowa City, IA 52242 USA."
+              },
+              {
+                "affiliation": "2Veterans Administration Medical Center, Iowa City, IA 52242 USA."
+              },
+              {
+                "affiliation": "IDx LLC, Coralville, IA 52241 USA."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "journalInfo": {
+      "volume": "1",
+      "journalIssueId": 2788689,
+      "dateOfPublication": "2018 ",
+      "monthOfPublication": 0,
+      "yearOfPublication": 2018,
+      "journal": {
+        "medlineAbbreviation": "NPJ Digit Med",
+        "title": "NPJ digital medicine",
+        "essn": "2398-6352",
+        "issn": "2398-6352",
+        "isoabbreviation": "NPJ Digit Med",
+        "nlmid": "101731738"
+      },
+      "printPublicationDate": "2018-01-01"
+    },
+    "pageInfo": "39",
+    "id": "31304320",
+    "source": "MED"
+  },
+  "accessRCT": {
+    "title": "Autonomous artificial intelligence increases screening and follow-up for diabetic retinopathy in youth: the ACCESS randomized control trial.",
+    "doi": "10.1038/s41467-023-44676-z",
+    "pubYear": "2024",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Wolf RM",
+          "lastName": "Wolf",
+          "firstName": "Risa M",
+          "initials": "RM",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-7674-520X"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Pediatrics, Division of Endocrinology, Johns Hopkins School of Medicine, Baltimore, MD, USA. RWolf@jhu.edu."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Channa R",
+          "lastName": "Channa",
+          "firstName": "Roomasa",
+          "initials": "R",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Ophthalmology and Visual Sciences, University of Wisconsin, Madison, WI, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Liu TYA",
+          "lastName": "Liu",
+          "firstName": "T Y Alvin",
+          "initials": "TYA",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Wilmer Eye Institute at the Johns Hopkins School of Medicine, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Zehra A",
+          "lastName": "Zehra",
+          "firstName": "Anum",
+          "initials": "A",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Pediatrics, Division of Endocrinology, Johns Hopkins School of Medicine, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Bromberger L",
+          "lastName": "Bromberger",
+          "firstName": "Lee",
+          "initials": "L",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Pediatrics, Division of Endocrinology, Johns Hopkins School of Medicine, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Patel D",
+          "lastName": "Patel",
+          "firstName": "Dhruva",
+          "initials": "D",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Pediatrics, Division of Endocrinology, Johns Hopkins School of Medicine, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Ananthakrishnan A",
+          "lastName": "Ananthakrishnan",
+          "firstName": "Ajaykarthik",
+          "initials": "A",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-3981-180X"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Pediatrics, Division of Endocrinology, Johns Hopkins School of Medicine, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Brown EA",
+          "lastName": "Brown",
+          "firstName": "Elizabeth A",
+          "initials": "EA",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-1137-664X"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Pediatrics, Division of Endocrinology, Johns Hopkins School of Medicine, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Prichett L",
+          "lastName": "Prichett",
+          "firstName": "Laura",
+          "initials": "L",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-6029-6902"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Johns Hopkins School of Medicine Biostatistics, Epidemiology and Data Management (BEAD) Core, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Lehmann HP",
+          "lastName": "Lehmann",
+          "firstName": "Harold P",
+          "initials": "HP",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Section on Biomedical Informatics and Data Science, Johns Hopkins University, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Abramoff MD",
+          "lastName": "Abramoff",
+          "firstName": "Michael D",
+          "initials": "MD",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-3490-0037"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Ophthalmology and Visual Sciences, The University of Iowa, Iowa City, IA, USA."
+              },
+              {
+                "affiliation": "Digital Diagnostics Inc, Coralville, IA, USA."
+              },
+              {
+                "affiliation": "Iowa City VA Medical Center, Iowa City, IA, USA."
+              },
+              {
+                "affiliation": "Department of Biomedical Engineering, The University of Iowa, Iowa City, IA, USA."
+              },
+              {
+                "affiliation": "Department of Electrical and Computer Engineering, The University of Iowa, Iowa City, IA, USA."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "1",
+      "volume": "15",
+      "journalIssueId": 3689398,
+      "dateOfPublication": "2024 Jan",
+      "monthOfPublication": 1,
+      "yearOfPublication": 2024,
+      "journal": {
+        "medlineAbbreviation": "Nat Commun",
+        "title": "Nature communications",
+        "essn": "2041-1723",
+        "issn": "2041-1723",
+        "nlmid": "101528555",
+        "isoabbreviation": "Nat Commun"
+      },
+      "printPublicationDate": "2024-01-01"
+    },
+    "pageInfo": "421",
+    "id": "38212308",
+    "source": "MED"
+  },
+  "equity2024": {
+    "title": "Autonomous artificial intelligence for diabetic eye disease increases access and health equity in underserved populations.",
+    "doi": "10.1038/s41746-024-01197-3",
+    "pubYear": "2024",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Huang JJ",
+          "lastName": "Huang",
+          "firstName": "Jane J",
+          "initials": "JJ",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-5219-1617"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Channa R",
+          "lastName": "Channa",
+          "firstName": "Roomasa",
+          "initials": "R",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "University of Wisconsin-Madison School of Medicine and Public Health, Madison, WI, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Wolf RM",
+          "lastName": "Wolf",
+          "firstName": "Risa M",
+          "initials": "RM",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-7674-520X"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Johns Hopkins Pediatric Diabetes Center, Johns Hopkins University School of Medicine, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Dong Y",
+          "lastName": "Dong",
+          "firstName": "Yiwen",
+          "initials": "Y",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0009-0008-6474-1824"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Biostatistics, Johns Hopkins University, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Liang M",
+          "lastName": "Liang",
+          "firstName": "Mavis",
+          "initials": "M",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-8762-7396"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Biostatistics, Johns Hopkins University, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Wang J",
+          "lastName": "Wang",
+          "firstName": "Jiangxia",
+          "initials": "J",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Biostatistics, Johns Hopkins University, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Abramoff MD",
+          "lastName": "Abramoff",
+          "firstName": "Michael D",
+          "initials": "MD",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-3490-0037"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Ophthalmology and Visual Sciences, University of Iowa, Iowa City, IA, USA."
+              },
+              {
+                "affiliation": "Department of Electrical and Computer Engineering, University of Iowa, Iowa City, IA, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Liu TYA",
+          "lastName": "Liu",
+          "firstName": "T Y Alvin",
+          "initials": "TYA",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD, USA. tliu25@jhmi.edu."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "1",
+      "volume": "7",
+      "journalIssueId": 3793152,
+      "dateOfPublication": "2024 Jul",
+      "monthOfPublication": 7,
+      "yearOfPublication": 2024,
+      "journal": {
+        "medlineAbbreviation": "NPJ Digit Med",
+        "title": "NPJ digital medicine",
+        "essn": "2398-6352",
+        "issn": "2398-6352",
+        "isoabbreviation": "NPJ Digit Med",
+        "nlmid": "101731738"
+      },
+      "printPublicationDate": "2024-07-01"
+    },
+    "pageInfo": "196",
+    "id": "39039218",
+    "source": "MED"
+  },
+  "followup2026": {
+    "title": "Autonomous AI-assisted diabetic retinopathy screening at primary care is associated with increased presentation to eye care by at risk patients.",
+    "doi": "10.1038/s41746-026-02460-5",
+    "pubYear": "2026",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Leong A",
+          "lastName": "Leong",
+          "firstName": "Ariel",
+          "initials": "A",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "School of Medicine, Johns Hopkins University, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Wolf RM",
+          "lastName": "Wolf",
+          "firstName": "Risa M",
+          "initials": "RM",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "School of Medicine, Johns Hopkins University, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Channa R",
+          "lastName": "Channa",
+          "firstName": "Roomasa",
+          "initials": "R",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "University of Wisconsin-Madison School of Medicine and Public Health, Madison, WI, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Wang J",
+          "lastName": "Wang",
+          "firstName": "Jiangxia",
+          "initials": "J",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "School of Public Health, Johns Hopkins University, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Lehmann H",
+          "lastName": "Lehmann",
+          "firstName": "Harold",
+          "initials": "H",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "School of Medicine, Johns Hopkins University, Baltimore, MD, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Abramoff MD",
+          "lastName": "Abramoff",
+          "firstName": "Michael D",
+          "initials": "MD",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-3490-0037"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Ophthalmology and Visual Sciences, Baltimore, MD, USA."
+              },
+              {
+                "affiliation": "Electrical and Computer Engineering, University of Iowa, Iowa City, IA, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Liu TYA",
+          "lastName": "Liu",
+          "firstName": "T Y Alvin",
+          "initials": "TYA",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "School of Medicine, Johns Hopkins University, Baltimore, MD, USA. tliu25@jhmi.edu."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "1",
+      "volume": "9",
+      "journalIssueId": 4136189,
+      "dateOfPublication": "2026 Mar",
+      "monthOfPublication": 3,
+      "yearOfPublication": 2026,
+      "journal": {
+        "medlineAbbreviation": "NPJ Digit Med",
+        "title": "NPJ digital medicine",
+        "essn": "2398-6352",
+        "issn": "2398-6352",
+        "isoabbreviation": "NPJ Digit Med",
+        "nlmid": "101731738"
+      },
+      "printPublicationDate": "2026-03-01"
+    },
+    "pageInfo": "310",
+    "id": "41781569",
+    "source": "MED"
+  },
+  "Wagner2025": {
+    "title": "Racial and ethnic disparities in preventive care among adults with type 1 diabetes: findings from the 2022 Behavioural Risk Factor Surveillance System.",
+    "doi": "10.1136/bmjph-2024-002202",
+    "pubYear": "2025",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Wagner JA",
+          "lastName": "Wagner",
+          "firstName": "Julie A",
+          "initials": "JA",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-1439-8940"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Division of Behavioral Sciences and Community Health, University of Connecticut School of Dental Medicine, Farmington, Connecticut, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Berm\u00fadez-Mill\u00e1n A",
+          "lastName": "Berm\u00fadez-Mill\u00e1n",
+          "firstName": "Angela",
+          "initials": "A",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-7905-4575"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Public Health Sciences, University of Connecticut School of Medicine, Farmington, Connecticut, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Feinn R",
+          "lastName": "Feinn",
+          "firstName": "Richard",
+          "initials": "R",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-4158-7640"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Quinnipiac University, Hamden, Connecticut, USA."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "2",
+      "volume": "3",
+      "journalIssueId": 3974337,
+      "dateOfPublication": "2025 ",
+      "monthOfPublication": 0,
+      "yearOfPublication": 2025,
+      "journal": {
+        "medlineAbbreviation": "BMJ Public Health",
+        "title": "BMJ public health",
+        "essn": "2753-4294",
+        "issn": "2753-4294",
+        "nlmid": "9918697578906676",
+        "isoabbreviation": "BMJ Public Health"
+      },
+      "printPublicationDate": "2025-01-01"
+    },
+    "pageInfo": "e002202",
+    "id": "40661251",
+    "source": "MED"
+  },
+  "rural2025": {
+    "title": "Prevalence of Diabetic Retinopathy and Dilated Fundus Examinations by Metropolitan Status from 2017-2021: An Assessment of the Behavioral Risk Factor Surveillance System.",
+    "doi": "10.1080/09286586.2024.2434247",
+    "pubYear": "2025",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Emmert R",
+          "lastName": "Emmert",
+          "firstName": "Ryan",
+          "initials": "R",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Office of Medical Student Research, Oklahoma State University College of Osteopathic Medicine at Cherokee Nation, Tahlequah, Oklahoma, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Thompson M",
+          "lastName": "Thompson",
+          "firstName": "Mackenzee",
+          "initials": "M",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Office of Medical Student Research, Oklahoma State University College of Osteopathic Medicine at Cherokee Nation, Tahlequah, Oklahoma, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Smith D",
+          "lastName": "Smith",
+          "firstName": "Dawsyn",
+          "initials": "D",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Office of Medical Student Research, Oklahoma State University College of Osteopathic Medicine at Cherokee Nation, Tahlequah, Oklahoma, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Marlar R",
+          "lastName": "Marlar",
+          "firstName": "Riley",
+          "initials": "R",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Office of Medical Student Research, Oklahoma State University Center for Health Sciences, Tulsa, Oklahoma, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "McPherson K",
+          "lastName": "McPherson",
+          "firstName": "Kristen",
+          "initials": "K",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Obstetrics and Gynecology, Oklahoma State University Medical Center, Tulsa, Oklahoma, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Demla S",
+          "lastName": "Demla",
+          "firstName": "Simran",
+          "initials": "S",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Internal Medicine Department, Baylor Scott and White All Saints Medical Center, Fort Worth, Texas, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Hartwell M",
+          "lastName": "Hartwell",
+          "firstName": "Micah",
+          "initials": "M",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Office of Medical Student Research, Oklahoma State University College of Osteopathic Medicine at Cherokee Nation, Tahlequah, Oklahoma, USA."
+              },
+              {
+                "affiliation": "Department of Psychiatry and Behavioral Sciences, Oklahoma State University Center for Health Sciences, Tulsa, Oklahoma, USA."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "5",
+      "volume": "32",
+      "journalIssueId": 4003997,
+      "dateOfPublication": "2025 Oct",
+      "monthOfPublication": 10,
+      "yearOfPublication": 2025,
+      "journal": {
+        "medlineAbbreviation": "Ophthalmic Epidemiol",
+        "title": "Ophthalmic epidemiology",
+        "essn": "1744-5086",
+        "issn": "0928-6586",
+        "isoabbreviation": "Ophthalmic Epidemiol",
+        "nlmid": "9435674"
+      },
+      "printPublicationDate": "2025-10-01"
+    },
+    "pageInfo": "476-479",
+    "id": "39693586",
+    "source": "MED"
+  },
+  "validation": {
+    "title": "Medical record validation of self-reported eye diseases and eye care utilization among older adults.",
+    "doi": "10.3109/02713683.2012.733054",
+    "pubYear": "2013",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "MacLennan PA",
+          "lastName": "MacLennan",
+          "firstName": "Paul A",
+          "initials": "PA",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Surgery, School of Medicine, University of Alabama at Birmingham, Birmingham, AL 35294-0016, USA. pmac@uab.edu"
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "McGwin G Jr",
+          "lastName": "McGwin",
+          "firstName": "Gerald",
+          "initials": "G"
+        },
+        {
+          "fullName": "Searcey K",
+          "lastName": "Searcey",
+          "firstName": "Karen",
+          "initials": "K"
+        },
+        {
+          "fullName": "Owsley C",
+          "lastName": "Owsley",
+          "firstName": "Cynthia",
+          "initials": "C"
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "1",
+      "volume": "38",
+      "journalIssueId": 1997980,
+      "dateOfPublication": "2013 Jan",
+      "monthOfPublication": 1,
+      "yearOfPublication": 2013,
+      "journal": {
+        "medlineAbbreviation": "Curr Eye Res",
+        "title": "Current eye research",
+        "essn": "1460-2202",
+        "issn": "0271-3683",
+        "nlmid": "8104312",
+        "isoabbreviation": "Curr Eye Res"
+      },
+      "printPublicationDate": "2013-01-01"
+    },
+    "pageInfo": "1-8",
+    "id": "23078191",
+    "source": "MED"
+  },
+  "agreement": {
+    "title": "Agreement between self-reports and medical records was only fair in a cross-sectional study of performance of annual eye examinations among adults with diabetes in managed care.",
+    "doi": "10.1097/mlr.0b013e3180ca95fa",
+    "pubYear": "2007",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Beckles GL",
+          "lastName": "Beckles",
+          "firstName": "Gloria L A",
+          "initials": "GL",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Division of Diabetes Translation, National Center for Chronic Disease Prevention and Health Promotion, Centers for Disease Control and Prevention, Atlanta, Georgia 30341, USA."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Williamson DF",
+          "lastName": "Williamson",
+          "firstName": "David F",
+          "initials": "DF"
+        },
+        {
+          "fullName": "Brown AF",
+          "lastName": "Brown",
+          "firstName": "Arleen F",
+          "initials": "AF",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-9948-8955"
+          }
+        },
+        {
+          "fullName": "Gregg EW",
+          "lastName": "Gregg",
+          "firstName": "Edward W",
+          "initials": "EW",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0003-2381-6822"
+          }
+        },
+        {
+          "fullName": "Karter AJ",
+          "lastName": "Karter",
+          "firstName": "Andrew J",
+          "initials": "AJ"
+        },
+        {
+          "fullName": "Kim C",
+          "lastName": "Kim",
+          "firstName": "Catherine",
+          "initials": "C",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-9237-0532"
+          }
+        },
+        {
+          "fullName": "Dudley RA",
+          "lastName": "Dudley",
+          "firstName": "R Adams",
+          "initials": "RA"
+        },
+        {
+          "fullName": "Safford MM",
+          "lastName": "Safford",
+          "firstName": "Monika M",
+          "initials": "MM"
+        },
+        {
+          "fullName": "Stevens MR",
+          "lastName": "Stevens",
+          "firstName": "Mark R",
+          "initials": "MR"
+        },
+        {
+          "fullName": "Thompson TJ",
+          "lastName": "Thompson",
+          "firstName": "Theodore J",
+          "initials": "TJ"
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "9",
+      "volume": "45",
+      "journalIssueId": 1457896,
+      "dateOfPublication": "2007 Sep",
+      "monthOfPublication": 9,
+      "yearOfPublication": 2007,
+      "journal": {
+        "medlineAbbreviation": "Med Care",
+        "title": "Medical care",
+        "essn": "1537-1948",
+        "issn": "0025-7079",
+        "nlmid": "0230027",
+        "isoabbreviation": "Med Care"
+      },
+      "printPublicationDate": "2007-09-01"
+    },
+    "pageInfo": "876-883",
+    "id": "17712258",
+    "source": "MED"
+  },
+  "STROBE": {
+    "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies.",
+    "doi": "10.1371/journal.pmed.0040296",
+    "pubYear": "2007",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "von Elm E",
+          "lastName": "von Elm",
+          "firstName": "Erik",
+          "initials": "E",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-7412-0406"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Institute of Social and Preventive Medicine (ISPM), University of Bern, Bern, Switzerland. strobe@ispm.unibe.ch"
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Altman DG",
+          "lastName": "Altman",
+          "firstName": "Douglas G",
+          "initials": "DG"
+        },
+        {
+          "fullName": "Egger M",
+          "lastName": "Egger",
+          "firstName": "Matthias",
+          "initials": "M",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-7462-5132"
+          }
+        },
+        {
+          "fullName": "Pocock SJ",
+          "lastName": "Pocock",
+          "firstName": "Stuart J",
+          "initials": "SJ"
+        },
+        {
+          "fullName": "G\u00f8tzsche PC",
+          "lastName": "G\u00f8tzsche",
+          "firstName": "Peter C",
+          "initials": "PC"
+        },
+        {
+          "fullName": "Vandenbroucke JP",
+          "lastName": "Vandenbroucke",
+          "firstName": "Jan P",
+          "initials": "JP",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0001-5668-6716"
+          }
+        },
+        {
+          "collectiveName": "STROBE Initiative"
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "10",
+      "volume": "4",
+      "journalIssueId": 1474201,
+      "dateOfPublication": "2007 Oct",
+      "monthOfPublication": 10,
+      "yearOfPublication": 2007,
+      "journal": {
+        "medlineAbbreviation": "PLoS Med",
+        "title": "PLoS medicine",
+        "essn": "1549-1676",
+        "issn": "1549-1277",
+        "nlmid": "101231360",
+        "isoabbreviation": "PLoS Med"
+      },
+      "printPublicationDate": "2007-10-01"
+    },
+    "pageInfo": "e296",
+    "id": "17941714",
+    "source": "MED"
+  },
+  "burden": {
+    "title": "Prevalence of Diabetic Retinopathy in the US in 2021.",
+    "doi": "10.1001/jamaophthalmol.2023.2289",
+    "pubYear": "2023",
+    "authorList": {
+      "author": [
+        {
+          "fullName": "Lundeen EA",
+          "lastName": "Lundeen",
+          "firstName": "Elizabeth A",
+          "initials": "EA",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "US Centers for Disease Control and Prevention, Division of Diabetes Translation, Vision Health Initiative, Atlanta, Georgia."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Burke-Conte Z",
+          "lastName": "Burke-Conte",
+          "firstName": "Zeb",
+          "initials": "Z",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0009-0005-8666-7141"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Rein DB",
+          "lastName": "Rein",
+          "firstName": "David B",
+          "initials": "DB",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "NORC, University of Chicago, Chicago, Illinois."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Wittenborn JS",
+          "lastName": "Wittenborn",
+          "firstName": "John S",
+          "initials": "JS",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "NORC, University of Chicago, Chicago, Illinois."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Saaddine J",
+          "lastName": "Saaddine",
+          "firstName": "Jinan",
+          "initials": "J",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "US Centers for Disease Control and Prevention, Division of Diabetes Translation, Vision Health Initiative, Atlanta, Georgia."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Lee AY",
+          "lastName": "Lee",
+          "firstName": "Aaron Y",
+          "initials": "AY",
+          "authorId": {
+            "type": "ORCID",
+            "value": "0000-0002-7452-1648"
+          },
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Department of Ophthalmology, University of Washington School of Medicine, Seattle."
+              }
+            ]
+          }
+        },
+        {
+          "fullName": "Flaxman AD",
+          "lastName": "Flaxman",
+          "firstName": "Abraham D",
+          "initials": "AD",
+          "authorAffiliationDetailsList": {
+            "authorAffiliation": [
+              {
+                "affiliation": "Institute for Health Metrics and Evaluation, University of Washington, Seattle."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "journalInfo": {
+      "issue": "8",
+      "volume": "141",
+      "journalIssueId": 3615339,
+      "dateOfPublication": "2023 Aug",
+      "monthOfPublication": 8,
+      "yearOfPublication": 2023,
+      "journal": {
+        "medlineAbbreviation": "JAMA Ophthalmol",
+        "title": "JAMA ophthalmology",
+        "essn": "2168-6173",
+        "issn": "2168-6165",
+        "nlmid": "101589539",
+        "isoabbreviation": "JAMA Ophthalmol"
+      },
+      "printPublicationDate": "2023-08-01"
+    },
+    "pageInfo": "747-754",
+    "id": "37318810",
+    "source": "MED"
+  }
+}

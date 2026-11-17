@@ -1,0 +1,9 @@
+{
+  "manifest_url": "https://stillhere.ai-ministries.com/data/brfss/manifest.json",
+  "inspected": "2026-11-12",
+  "purpose": "Additional comparison with published preservation hashes; actual input files downloaded from the official CDC host",
+  "files": {
+    "LLCP2025XPT.zip": {"bytes": 64642184, "sha256": "d26a8b391aa2966b58dc2a3ffddf8da050e9f38eb143d0f5ca7b3d21ece08f98"},
+    "LLCP2022XPT.zip": {"bytes": 84614105, "sha256": "b6319c949b7289f8020fc903c3c2d38fe7e0b28ad703dcd81547f5cd0c0dcfeb"}
+  }
+}

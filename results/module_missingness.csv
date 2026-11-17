@@ -1,0 +1,11 @@
+year,category,n,weighted_pct,completed_n,partial_n,other_disposition_n,partial_weighted_pct
+2025,Complete eye pair,17806,82.44163230862826,15928,1878,0,11.49014325824405
+2025,All module fields blank,925,7.511169499854494,4,921,0,99.71145863169686
+2025,Explicit eye unknown or refusal,2457,10.018984818397335,2130,327,0,12.65387983636725
+2025,Both eyes blank with other module data,16,0.017895990531479184,0,16,0,100.0
+2025,One eye blank with module data,7,0.010317382588411252,0,7,0,100.00000000000001
+2022,Complete eye pair,10568,81.27940693090231,9052,1516,0,17.03989233261101
+2022,All module fields blank,433,4.833068136759959,132,301,0,93.09473154149349
+2022,Explicit eye unknown or refusal,1767,13.887524932337712,1496,271,0,16.422470370401182
+2022,Both eyes blank with other module data,0,0.0,0,0,0,
+2022,One eye blank with module data,0,0.0,0,0,0,

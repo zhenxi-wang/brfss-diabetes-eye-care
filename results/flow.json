@@ -1,0 +1,39 @@
+{
+  "samples": [
+    {
+      "year": 2025,
+      "full_records": 356158,
+      "states": 20,
+      "state_sample": 149032,
+      "diabetes": 21211,
+      "complete_pair": 17806,
+      "weighted_complete": 10695614.889700567,
+      "psus": 149032,
+      "strata": 813,
+      "design_df": 148219,
+      "singleton_strata": 28
+    },
+    {
+      "year": 2022,
+      "full_records": 445132,
+      "states": 12,
+      "state_sample": 90901,
+      "diabetes": 12768,
+      "complete_pair": 10568,
+      "weighted_complete": 3459741.7591944453,
+      "psus": 90901,
+      "strata": 492,
+      "design_df": 90409,
+      "singleton_strata": 16
+    }
+  ],
+  "common_states": [
+    "Delaware",
+    "Georgia",
+    "Indiana",
+    "Maine",
+    "Missouri",
+    "North Dakota",
+    "Wisconsin"
+  ]
+}

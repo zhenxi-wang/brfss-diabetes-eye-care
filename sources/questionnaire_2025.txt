@@ -1,0 +1,6676 @@
+2025 BRFSS 
+Questionnaire 
+1 
+
+Table of Contents 
+OMB Header and Introductory Text ...........................................................................................................................4 
+Landline Introduction..................................................................................................................................................5 
+Cell Phone Introduction ........................................................................................................................................... 10 
+Core Section 1: Health Status .................................................................................................................................. 16 
+Core Section 2: Healthy Days ................................................................................................................................... 17 
+Core Section 3: Health Care Access ......................................................................................................................... 19 
+Core Section 4: Exercise........................................................................................................................................... 21 
+Core Section 5: Hypertension Awareness ................................................................................................................ 22 
+Core Section 6: Cholesterol Awareness ................................................................................................................... 23 
+Core Section 7: Chronic Health Conditions .............................................................................................................. 25 
+Core Section 8: Demographics................................................................................................................................. 28 
+Core Section 9: Disability ......................................................................................................................................... 33 
+Core Section 10: Inadequate Sleep .......................................................................................................................... 35 
+Core Section 11: Tobacco Use ................................................................................................................................. 35 
+Core Section 12: Alcohol Consumption.................................................................................................................... 36 
+Core Section 13: Immunization................................................................................................................................ 38 
+Core Section 14: Fruits and Vegetables ................................................................................................................... 40 
+Core Section 15: H.I.V./AIDS .................................................................................................................................... 42 
+Closing Statement/ Transition to Modules ............................................................................................................. 43 
+Optional Modules.................................................................................................................................................... 44 
+Module 1: Prediabetes ............................................................................................................................................ 45 
+Module 2: Diabetes ................................................................................................................................................. 47 
+Module 3 : Arthritis ................................................................................................................................................. 50 
+Module 4: Prostate Cancer Screening ..................................................................................................................... 52 
+Module 5: Cancer Survivorship: Type of Cancer ..................................................................................................... 55 
+Module 6: Cancer Survivorship: Course of Treatment............................................................................................ 58 
+Module 7: Cancer Survivorship: Pain Management................................................................................................ 61 
+Module 8: Cognitive Decline ................................................................................................................................... 62 
+Module 9: Caregiver ................................................................................................................................................ 65 
+Module 10: Tobacco Cessation ............................................................................................................................... 69 
+Module 11: Other Tobacco Use............................................................................................................................... 71 
+Module 12: Firearm Safety...................................................................................................................................... 71 
+2 
+
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+Module 
+: Industry and Occupation...................................................................................................................... 72 
+Module 
+: Home/ Self-measured Blood Pressure................................................................................................. 73 
+Module 
+: Sodium or Salt-Related Behavior ......................................................................................................... 75 
+Module 
+: Sexual Orientation ............................................................................................................................... 76 
+Module 
+: Marijuana Use...................................................................................................................................... 78 
+Module 
+: Adverse Childhood Experiences........................................................................................................... 81 
+Module 
+: Family Planning .................................................................................................................................... 85 
+Module 
+: HPV - Vaccination................................................................................................................................. 90 
+Module 
+: Shingles Vaccination ............................................................................................................................ 92 
+Module 
+: COVID Vaccination ............................................................................................................................... 93 
+Module 
+: Social Determinants ............................................................................................................................. 93 
+Module 
+: Random Child Selection ....................................................................................................................... 96 
+Module 
+: Childhood Asthma Prevalence ............................................................................................................. 99 
+Closing Statement ................................................................................................................................................. 100 
+3 
+
+OMB Header and Introductory Text 
+Read if necessary 
+Read 
+Interviewer instructions 
+(not read) 
+Public reporting burden of this 
+collection of information is 
+estimated to average 27 minutes 
+per response, including the time 
+for reviewing instructions, 
+searching existing data sources, 
+gathering and maintaining the 
+data needed, and completing and 
+reviewing the collection of 
+information. An agency may not 
+conduct or sponsor, and a person 
+is not required to respond to a 
+collection of information unless it 
+displays a currently valid OMB 
+control number. Send comments 
+regarding this burden estimate or 
+any other aspect of this collection 
+of information, including 
+suggestions for reducing this 
+burden to CDC/ATSDR Reports 
+Clearance Officer; 1600 Clifton 
+Road NE, MS D-74, Atlanta, 
+Georgia 30333; ATTN: PRA (0920-
+1061). 
+Form Approved 
+OMB No. 0920-1061 
+Exp. Date 04/30/2028 
+Interviewers do not need to 
+read any part of the burden 
+estimate nor provide the 
+OMB number unless asked 
+by the respondent for 
+specific information. If a 
+respondent asks for the 
+length of time of the 
+interview provide the most 
+accurate information based 
+on the version of the 
+questionnaire that will be 
+administered to that 
+respondent.  If the 
+interviewer is not sure, 
+provide the average time as 
+indicated in the burden 
+statement. If data collectors 
+have questions concerning 
+the BRFSS OMB process, 
+please contact Marquisette 
+Glass Lewis at 
+grp2@cdc.gov. 
+HELLO, I am calling for the [STATE 
+OF xxx] Department of Health.  My 
+name is (name).  We are gathering 
+information about the health of 
+US residents.  This project is 
+conducted by the health 
+department with assistance from 
+the Centers for Disease Control 
+and Prevention. Your telephone 
+number has been chosen 
+randomly, and I would like to ask 
+some questions about health and 
+health practices. 
+States may opt not to 
+mention the state name to 
+avoid refusals by out of 
+state residents in the cell 
+phone sample. 
+If cell phone respondent 
+objects to being contacted 
+by state where they have 
+never lived, say: 
+“This survey is conducted by 
+all states and your 
+information will be 
+forwarded to the correct 
+state of residence” 
+4 
+
+Landline Introduction 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer Note 
+Column(s) 
+Number 
+names 
+(DO NOT 
+CATI Note 
+(s) 
+READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+LL01. 
+Is this [PHONE 
+1 Yes 
+Go to LL02 
+NUMBER]? 
+2 No 
+TERMINATE 
+ 
+ 
+Thank you very 
+much, but I seem 
+to have dialed the 
+wrong number. 
+It’s possible that 
+your number may 
+be called at a 
+later time. 
+LL02. 
+Is this a private 
+1 Yes 
+Go to LL04 
+Read if necessary: 
+residence? 
+By private 
+residence we 
+mean someplace 
+like a house or 
+apartment. 
+Do not read: 
+Private residence 
+includes any 
+home where the 
+respondent 
+spends at least 30 
+days including 
+vacation homes, 
+RVs or other 
+locations in which 
+the respondent 
+lives for portions 
+of the year. 
+2 No 
+Go to LL03 
+If no, business 
+phone only: 
+thank you very 
+much but we are 
+only interviewing 
+persons on 
+residential 
+phones lines at 
+this time. 
+NOTE: Business 
+numbers which 
+are also used for 
+personal 
+5 
+
+ 
+communication 
+are eligible. 
+3 No, this is 
+a business 
+Read: Thank you 
+very much but we 
+are only 
+interviewing 
+persons on 
+residential 
+phones at this 
+time. 
+TERMINATE 
+LL03. 
+Do you live in 
+college housing? 
+1 Yes 
+Go to LL04 
+Read if necessary: 
+By college 
+housing we mean 
+dormitory, 
+graduate student 
+or visiting faculty 
+housing, or other 
+housing 
+arrangement 
+provided by a 
+college or 
+university. 
+2 No 
+TERMINATE 
+Read: Thank you 
+very much, but 
+we are only 
+interviewing 
+persons who live 
+in private 
+residences or 
+college housing at 
+this time. 
+LL04. 
+Do you currently 
+live 
+in__(state)____? 
+1 Yes 
+Go to LL05 
+2 No 
+TERMINATE 
+Thank you very 
+much but we are 
+only interviewing 
+persons who live 
+in [STATE] at this 
+time. 
+LL05. 
+Is this a cell 
+phone? 
+1 Yes, it is a 
+cell phone 
+TERMINATE 
+Read: Thank you 
+very much but we 
+are only 
+interviewing by 
+landline 
+telephones in 
+private 
+residences or 
+college housing at 
+this time. 
+6 
+
+ 
+2 Not a cell 
+phone 
+Go to LL06 
+Read if necessary: 
+By cell phone we 
+mean a 
+telephone that is 
+mobile and 
+usable outside 
+your 
+neighborhood. 
+Do not read: 
+Telephone 
+service over the 
+internet counts as 
+landline service 
+(includes Vonage, 
+Magic Jack and 
+other home-
+based phone 
+services). 
+LL06. 
+Are you 18 years 
+of age or older? 
+1 Yes 
+IF COLLEGE 
+HOUSING 
+(LL03) = “YES,” 
+GO TO LL09; 
+OTHERWISE 
+GO TO 
+NUMBER OF 
+ADULTS LL07 
+2 No 
+IF COLLEGE 
+HOUSING 
+(LL03) = “YES,” 
+Terminate; 
+OTHERWISE 
+GO TO 
+NUMBER OF 
+ADULTS LL07 
+Read: Thank you 
+very much but we 
+are only 
+interviewing 
+persons aged 18 
+or older at this 
+time. 
+LL07. 
+I need to 
+randomly select 
+one adult who 
+lives in your 
+household to be 
+interviewed. 
+Excluding adults 
+living away from 
+home, such as 
+1 
+Go to LL09 
+Read: Are you 
+that adult? 
+If yes: Then you 
+are the person I 
+need to speak 
+with. 
+If no: May I speak 
+with the adult in 
+the household? 
+7 
+
+8 
+students away at 
+ 
+college, how 
+many members 
+ 
+of your 
+household, 
+2-6 or more 
+ 
+ 
+Go to LL08. 
+ 
+ 
+If respondent 
+questions why 
+any specific 
+individual was 
+chosen, 
+including 
+yourself, are 18 
+years of age or 
+older? 
+emphasize that 
+the selection is 
+random and is 
+ 
+not limited to any 
+certain age group 
+or sex.  
+LL08. 
+The person in 
+your household 
+that I need to 
+speak with is the 
+adult with the 
+most recent 
+1 = Yes 
+ 
+  
+2 = No - Ask 
+  
+ 
+for correct 
+respondent 
+If person 
+indicates that 
+they are not 
+the selected 
+respondent, 
+ask for correct 
+birthday. Are 
+you the adult 
+ 
+with the most 
+recent birthday? 
+respondent 
+and re-ask 
+LL08. (See 
+CATI 
+programming) 
+LL09.  
+Are you? 
+ 
+Read: 
+1 Male 
+2 Female 
+Go to 
+Transition 
+We ask this 
+question to 
+ 
+ 
+determine which 
+health related 
+questions apply 
+to each 
+ 
+respondent.  For 
+example, males 
+might be asked 
+about prostate 
+health issues. 
+If LL09 = 
+  
+Missing then 
+TERMINATE 
+“Thank you for 
+your time, your 
+number may be 
+selected for 
+another survey in 
+the future.” 
+Transition to 
+I will not 
+Do not read:  
+Section 1.  
+ask for your 
+last name, 
+address, or 
+Introductory text 
+may be reread 
+when selected 
+other 
+personal 
+information 
+respondent is 
+reached.  
+ 
+
+that can 
+identify 
+you.  You 
+do not have 
+to answer 
+any 
+question 
+you do not 
+want to, 
+and you can 
+ 
+ 
+end the 
+interview at 
+any time.  
+Any 
+information 
+you give me 
+will not be 
+connected 
+to any 
+personal 
+information 
+If you have 
+any 
+questions 
+about the 
+survey, 
+please call 
+(give 
+appropriate 
+state 
+telephone 
+number). 
+Do not read: The 
+sentence “Any 
+information you 
+ 
+ 
+give me will not 
+ 
+be connected to 
+ 
+ 
+any personal 
+information” may 
+be replaced by 
+“Any personal 
+information that 
+ 
+you provide will 
+not be used to 
+identify you.” If 
+the state 
+coordinator 
+approves the 
+change.  
+9 
+
+ 
+Cell Phone Introduction 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer 
+Note (s) 
+Column(s) 
+CP01. 
+Is this a safe time 
+to talk with you? 
+1 Yes 
+Go to CP02 
+2 No 
+([set 
+appointment 
+if possible]) 
+TERMINATE] 
+Thank you 
+very much. 
+We will call 
+you back at a 
+more 
+convenient 
+time. 
+CP02. 
+Is this [PHONE 
+NUMBER]? 
+1 Yes 
+Go to CP03 
+2 No 
+TERMINATE 
+Thank you 
+very much, 
+but I seem to 
+have dialed 
+the wrong 
+number. It’s 
+possible that 
+your number 
+may be called 
+at a later 
+time 
+CP03. 
+Is this a cell 
+phone? 
+1 Yes 
+Go to CP04 
+2 No 
+TERMINATE 
+If "no”: thank 
+you very 
+much, but we 
+are only 
+interviewing 
+persons on 
+cell 
+telephones at 
+this time 
+CP04. 
+Are you 18 years 
+of age or older? 
+1 Yes 
+Go to CP05. 
+2 No 
+TERMINATE 
+Read: Thank 
+you very 
+much but we 
+are only 
+interviewing 
+persons aged 
+18 or older at 
+this time. 
+10 
+
+ 
+CP05. 
+Are you? 
+Please read: 
+1 Male 
+2 Female 
+Go to CP06. 
+We ask this 
+question to 
+determine 
+which health 
+related 
+questions 
+apply to each 
+respondent. 
+For example, 
+males might 
+be asked 
+about 
+prostate 
+health issues. 
+If CP05 = 
+Missing then 
+TERMINATE. 
+“Thank you 
+for your time, 
+your number 
+may be 
+selected for 
+another 
+survey in the 
+future.” 
+CP06. 
+Do you live in a 
+private 
+residence? 
+1 Yes 
+Go to CP08 
+2 No 
+Go to CP07 
+Read if 
+necessary: By 
+private 
+residence we 
+mean 
+someplace 
+like a house 
+or apartment 
+Do not read: 
+Private 
+residence 
+includes any 
+home where 
+the 
+respondent 
+spends at 
+least 30 days 
+including 
+vacation 
+homes, RVs 
+or other 
+locations in 
+which the 
+respondent 
+11 
+
+ 
+lives for 
+portions of 
+the year. 
+CP07. 
+Do you live in 
+college housing? 
+1 Yes 
+Go to CP08 
+Read if 
+necessary: 
+By college 
+housing we 
+mean 
+dormitory, 
+graduate 
+student or 
+visiting 
+faculty 
+housing, or 
+other housing 
+arrangement 
+provided by a 
+college or 
+university. 
+2 No 
+TERMINATE 
+Read: Thank 
+you very 
+much, but we 
+are only 
+interviewing 
+persons who 
+live in private 
+residences or 
+college 
+housing at 
+this time. 
+CP08. 
+Do you currently 
+live 
+in___(state)____? 
+1 Yes 
+Go to CP10 
+2 No 
+Go to CP09 
+12 
+
+ 
+CP09. 
+In what state do 
+you currently 
+live? 
+1 Alabama 
+2 Alaska 
+4 Arizona 
+5 Arkansas 
+6 California 
+8 Colorado 
+9 Connecticut 
+10 Delaware 
+11 District of 
+Columbia 
+12 Florida 
+13 Georgia 
+15 Hawaii 
+16 Idaho 
+17 Illinois 
+18 Indiana 
+19 Iowa 
+20 Kansas 
+21 Kentucky 
+22 Louisiana 
+23 Maine 
+24 Maryland 
+25 
+Massachusetts 
+26 Michigan 
+27 Minnesota 
+28 Mississippi 
+29 Missouri 
+30 Montana 
+31 Nebraska 
+32 Nevada 
+33 New 
+Hampshire 
+34 New Jersey 
+35 New Mexico 
+36 New York 
+37 North 
+Carolina 
+38 North 
+Dakota 
+39 Ohio 
+40 Oklahoma 
+41 Oregon 
+42 
+Pennsylvania 
+44 Rhode 
+Island 
+45 South 
+Carolina 
+13 
+
+ 
+46 South 
+Dakota 
+47 Tennessee 
+48 Texas 
+49 Utah 
+50 Vermont 
+51 Virginia 
+53 Washington 
+54 West 
+Virginia 
+55 Wisconsin 
+56 Wyoming 
+60 American 
+Samoa 
+64 Federated 
+States of 
+Micronesia 
+66 Guam 
+68 Marshall 
+Islands 
+69 Northern 
+Mariana 
+Islands 
+70 Palau 
+72 Puerto Rico 
+78 Virgin 
+Islands 
+77 Live outside 
+US and 
+participating 
+territories 
+99 Refused 
+TERMINATE 
+Read: Thank 
+you very 
+much, but we 
+are only 
+interviewing 
+persons who 
+live in the US. 
+CP10. 
+Do you also have 
+a landline 
+telephone in your 
+home that is used 
+to make and 
+receive calls? 
+1 Yes 
+2 No 
+7 Don’t know/ 
+Not sure 
+9 Refused 
+Read if 
+necessary: By 
+landline 
+telephone, 
+we mean a 
+regular 
+telephone in 
+your home 
+that is used 
+for making or 
+receiving 
+calls. Please 
+include 
+landline 
+phones used 
+for both 
+14 
+
+ 
+business and 
+personal use. 
+CP11. 
+How many 
+members of your 
+household, 
+including 
+yourself, are 18 
+years of age or 
+older? 
+_ _ Number 
+77 Don’t know/ 
+Not sure 
+99 Refused 
+If CP07 = yes 
+then number 
+of adults is 
+automatically 
+set to 1 
+Transition to 
+I will not ask 
+section 1. 
+for your last 
+name, address, 
+or other 
+personal 
+information 
+that can 
+identify you.  
+You do not 
+have to answer 
+any question 
+you do not 
+want to, and 
+you can end 
+the interview 
+at any time.  
+Any 
+information 
+you give me 
+will not be 
+connected to 
+any personal 
+information. If 
+you have any 
+questions 
+about the 
+survey, please 
+call (give 
+appropriate 
+state 
+telephone 
+number). 
+15 
+
+ 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note (s) 
+Column(s) 
+CHS.01 
+Would you say 
+that in general 
+your health 
+is— 
+Read: 
+1 Excellent 
+2 Very Good 
+3 Good 
+4 Fair 
+5 Poor 
+Do not read: 
+7 Don’t 
+know/Not 
+sure 
+9 Refused 
+Core Section 1: Health Status 
+16 
+
+Core Section 2: Healthy Days 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note (s) 
+Column(s) 
+OTHERWISE 
+NOTED) 
+CHD.01 
+Now thinking 
+about your 
+physical health, 
+which includes 
+physical illness 
+and injury, for 
+how many days 
+during the past 
+30 days was 
+your physical 
+health not 
+_ _ Number 
+of days (01-
+30) 
+88 None 
+77 Don’t 
+know/not 
+sure 
+99 Refused 
+88 may be coded if 
+respondent says 
+“never” or “none” It 
+is not necessary to 
+ask respondents to 
+provide a number if 
+they indicate that 
+this never occurs. 
+good? 
+CHD.02 
+Now thinking 
+about your 
+mental health, 
+which includes 
+stress, 
+depression, and 
+problems with 
+emotions, for 
+_ _ Number 
+of days (01-
+30) 
+88 None 
+77 Don’t 
+know/not 
+sure 
+99 Refused 
+88 may be coded if 
+respondent says 
+“never” or “none” It 
+is not necessary to 
+ask respondents to 
+provide a number if 
+they indicate that 
+this never occurs. 
+how many days 
+during the past 
+30 days was 
+your mental 
+health not 
+good? 
+Skip CHD.03 
+if CHD.01, is 
+88 and 
+CHD.02, is 
+88 
+CHD.03 
+During the past 
+30 days, for 
+about how 
+many days did 
+poor physical or 
+mental health 
+keep you from 
+doing your 
+usual activities, 
+_ _ Number 
+of days (01-
+30) 
+88 None 
+77 Don’t 
+know/not 
+sure 
+99 Refused 
+88 may be coded if 
+respondent says 
+“never” or “none” It 
+is not necessary to 
+ask respondents to 
+provide a number if 
+they indicate that 
+this never occurs. 
+such as self-
+17 
+
+care, work, or 
+ 
+recreation? 
+18 
+
+ 
+Core Section 3: Health Care Access 
+Question 
+Number 
+Question 
+text 
+Variable 
+Responses 
+names 
+(DO NOT READ 
+UNLESS OTHERWISE 
+NOTED) 
+SKIP 
+INFO/ 
+CATI 
+Note 
+Interviewer Note 
+(s) 
+Column(s) 
+CHCA.01 
+What is the 
+current 
+primary 
+source of 
+your health 
+care 
+coverage? 
+Read if necessary: 
+If respondent has 
+multiple sources 
+01 A plan purchased 
+of insurance, ask 
+through an employer 
+for the one used 
+or union (including 
+most often. 
+plans purchased 
+If respondents 
+through another 
+give the name of 
+person's employer) 
+a health plan 
+02 A private 
+rather than the 
+nongovernmental 
+type of coverage 
+plan that you or 
+ask whether this 
+another family 
+is insurance 
+member buys on 
+purchased 
+your own 
+independently, 
+03 Medicare 
+through their 
+04 Medigap 
+employer, or 
+05 Medicaid 
+whether it is 
+06 Children's Health 
+through Medicaid 
+Insurance Program 
+or CHIP. 
+(CHIP) 
+07 Military related 
+health care: TRICARE 
+(CHAMPUS) / VA 
+health care / CHAMP­
+VA 
+08 
+Indian Health 
+Service 
+09 
+State 
+sponsored health 
+plan 
+10 Other government 
+program 
+88 No coverage of 
+any type 
+77 Don’t Know/Not 
+Sure 99 Refused 
+CHCA.02 
+Do you have 
+one person 
+or a group 
+1 Yes, only one 
+2 More than one 
+3 No 
+If no, read: Is 
+there more than 
+one, or is there no 
+19 
+
+ 
+of doctors 
+that you 
+think of as 
+your 
+personal 
+health care 
+provider? 
+7 Don’t know / Not 
+sure 
+9 Refused 
+person who you 
+think of as your 
+personal doctor 
+or health care 
+provider? 
+NOTE: if the 
+respondent had 
+multiple doctor 
+groups then it 
+would be more 
+than one—but if 
+they had more 
+than one doctor 
+in the same group 
+it would be one. 
+CHCA.03 
+Was there a 
+time in the 
+past 12 
+months 
+when you 
+needed to 
+see a doctor 
+but could 
+not because 
+you could 
+not afford 
+it? 
+1 Yes 
+2 No 
+7 Don’t know / Not 
+sure 
+9 Refused 
+CHCA.04 
+About how 
+long has it 
+been since 
+you last 
+visited a 
+doctor for a 
+routine 
+checkup? 
+Read if necessary: 
+Read if necessary: 
+A routine checkup 
+is a general 
+physical exam, 
+not an exam for a 
+specific injury, 
+illness, or 
+condition. 
+1 Within the past 
+year (anytime less 
+than 12 months ago) 
+2 Within the past 2 
+years (1 year but less 
+than 2 years ago) 
+3 Within the past 5 
+years (2 years but 
+less than 5 years ago) 
+4 5 or more years ago 
+Do not read: 
+7 Don’t know / Not 
+sure 
+8 Never 
+9 Refused 
+20 
+
+Core Section 4: Exercise 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note (s) 
+Column(s) 
+CEXP.01 
+During the past 
+month, other 
+than your 
+regular job, did 
+you participate 
+in any physical 
+activities or 
+exercises such 
+as running, 
+calisthenics, 
+golf, gardening, 
+or walking for 
+exercise? 
+1 Yes 
+If respondent does not 
+have a regular job or is 
+retired, they may count 
+the physical activity or 
+exercise they spend the 
+most time doing in a 
+regular month. 
+Physical activity done 
+at a work gym during 
+the workday would 
+count 
+2 No 
+7 Don’t 
+know/Not 
+Sure 
+9 Refused 
+21 
+
+ 
+Core Section 5: Hypertension Awareness 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note (s) 
+Column(s) 
+CHYPA.01 Have you ever 
+been told by a 
+doctor, nurse, or 
+other health 
+professional 
+that you have 
+high blood 
+pressure? 
+1 Yes 
+If “Yes” and 
+respondent is 
+female, ask: “Was 
+this only when you 
+were pregnant?” 
+By other health 
+professional we 
+mean nurse 
+practitioner, a 
+physician assistant, 
+or some other 
+licensed health 
+professional. 
+2 Yes, but 
+female told 
+only during 
+pregnancy 
+3 No 
+4 Told 
+borderline 
+high or pre-
+hypertensive 
+or elevated 
+blood 
+pressure 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+Go to next 
+section 
+CHYPA.02 Are you 
+currently taking 
+prescription 
+medicine for 
+your high blood 
+pressure? 
+1 Yes 
+2 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+22 
+
+Core Section 6: Cholesterol Awareness 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note 
+(s) 
+Column(s) 
+CCHLA.01 Cholesterol is 
+a fatty 
+substance 
+found in the 
+blood. About 
+how long has 
+it been since 
+you last had 
+your blood 
+cholesterol 
+checked? 
+1 Never 
+Go to next 
+section 
+2 Within the 
+past year 
+(anytime less 
+than one year 
+ago) 
+3 Within the 
+past 2 years 
+(1 year but 
+less than 2 
+years ago) 
+4 Within the 
+past 3 years 
+(2 years but 
+less than 3 
+years ago) 
+5 Within the 
+past 4 years 
+(3 years but 
+less than 4 
+years ago) 
+6 Within the 
+past 5 years 
+(4 years but 
+less than 5 
+years ago) 
+8 5 or more 
+years ago 
+7 Don’t 
+know/ Not 
+sure 
+9 Refused 
+Go to next 
+section. 
+ 
+23 
+
+ 
+CCHLA.02 Have you ever 
+been told by a 
+doctor, nurse 
+or other 
+health 
+professional 
+that your 
+cholesterol is 
+high? 
+1 Yes 
+2 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+By other health 
+professional we 
+mean nurse 
+practitioner, a 
+physician assistant, 
+or some other 
+licensed health 
+professional. 
+CCHLA.03 Are you 
+currently 
+taking 
+medicine 
+prescribed by 
+your doctor or 
+other health 
+professional 
+for your 
+cholesterol? 
+1 Yes 
+2 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+If respondent 
+questions why they 
+might take drugs 
+without having 
+high cholesterol 
+read: Doctors 
+might prescribe 
+statin for those 
+without high 
+cholesterol but 
+with high 
+atherosclerotic 
+cardiovascular 
+disease risk 
+24 
+
+ 
+Core Section 7: Chronic Health Conditions 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note 
+(s) 
+Column(s) 
+UNLESS 
+OTHERWISE 
+NOTED) 
+Prologue: Has a doctor, nurse, or other health professional ever told you that you had any of the following? 
+For each, tell me Yes, No, Or You’re Not Sure. 
+CCHC.01 
+Ever told you 
+that you had a 
+heart attack 
+1 Yes 
+2 No 
+7 Don’t 
+also called a 
+myocardial 
+infarction? 
+know / Not 
+sure 
+9 Refused 
+CCHC.02 
+(Ever told) (you 
+had) angina or 
+coronary heart 
+disease? 
+1 Yes 
+2 No 
+7 Don’t 
+know / Not 
+sure 
+9 Refused 
+CCHC.03 
+(Ever told) (you 
+had) a stroke? 
+1 Yes 
+2 No 
+7 Don’t 
+know / Not 
+sure 
+9 Refused 
+CCHC.04 
+(Ever told) (you 
+had) asthma? 
+1 Yes 
+2 No 
+Go to 
+7 Don’t 
+CCHC.06 
+know / Not 
+sure 
+9 Refused 
+CCHC.05 
+Do you still 
+have asthma? 
+1 Yes 
+2 No 
+7 Don’t 
+know / Not 
+sure 
+9 Refused 
+CCHC.06 
+(Ever told) (you 
+had) skin 
+cancer that is 
+1 Yes 
+2 No 
+7 Don’t 
+not 
+melanoma? 
+know / Not 
+sure 
+9 Refused 
+CCHC.07 
+(Ever told) (you 
+had) 
+melanoma or 
+1 Yes 
+2 No 
+25 
+
+ 
+any other types 
+of cancer? 
+7 Don’t 
+know / Not 
+sure 
+9 Refused 
+CCHC.08 
+(Ever told) (you 
+had) C.O.P.D. 
+(chronic 
+obstructive 
+pulmonary 
+disease), 
+emphysema or 
+chronic 
+1 Yes 
+2 No 
+7 Don’t 
+know / Not 
+sure 
+9 Refused 
+bronchitis? 
+CCHC.09 
+(Ever told) (you 
+had) a 
+depressive 
+disorder 
+(including 
+depression, 
+major 
+depression, 
+dysthymia, or 
+minor 
+1 Yes 
+2 No 
+7 Don’t 
+know / Not 
+sure 
+9 Refused 
+depression)? 
+CCHC.10 
+Not including 
+kidney stones, 
+bladder 
+infection or 
+incontinence, 
+1 Yes 
+2 No 
+7 Don’t 
+know / Not 
+sure 
+Read if necessary: 
+Incontinence is not 
+being able to 
+control urine flow. 
+were you ever 
+told you had 
+kidney disease? 
+9 Refused 
+CCHC.11 
+(Ever told) (you 
+had) some 
+form of 
+1 Yes 
+2 No 
+7 Don’t 
+Do not read: 
+Arthritis diagnoses 
+include: 
+arthritis, 
+rheumatoid 
+arthritis, gout, 
+lupus, or 
+fibromyalgia? 
+know / Not 
+sure 
+9 Refused 
+rheumatism, 
+polymyalgia 
+rheumatic, 
+osteoarthritis (not 
+osteoporosis), 
+tendonitis, bursitis, 
+bunion, tennis 
+elbow, carpal 
+tunnel syndrome, 
+tarsal tunnel 
+syndrome, joint 
+infection, Reiter’s 
+syndrome, 
+ankylosing 
+spondylitis; 
+26 
+
+ 
+spondylosis, 
+rotator cuff 
+syndrome, 
+connective tissue 
+disease, 
+scleroderma, 
+polymyositis, 
+Raynaud’s 
+syndrome, 
+vasculitis, giant cell 
+arteritis, Henoch-
+Schonlein purpura, 
+Wegener’s 
+granulomatosis, 
+polyarteritis 
+nodosa) 
+CCHC.12 
+(Ever told) (you 
+had) diabetes? 
+1 Yes 
+If yes and 
+respondent is 
+female, ask: was 
+this only when you 
+were pregnant? If 
+respondent says 
+pre-diabetes or 
+borderline 
+diabetes, use 
+response code 4. 
+2 Yes, but 
+female told 
+only during 
+pregnancy 
+3 No 
+4 No, pre-
+diabetes or 
+borderline 
+diabetes 
+7 Don’t 
+know / Not 
+sure 
+9 Refused 
+Go to Pre-
+Diabetes 
+Optional 
+Module (if 
+used). 
+Otherwise, 
+go to next 
+section. 
+CCHC.13 
+How old were 
+you when you 
+were first told 
+you had 
+diabetes? 
+_ _ Code age 
+in years [97 
+= 97 and 
+older] 
+98 Don‘t 
+know / Not 
+sure 
+99 Refused 
+Go to 
+Diabetes 
+Module if 
+used, 
+otherwise 
+go to next 
+section. 
+27 
+
+Core Section 8: Demographics 
+Question 
+Number 
+Question 
+text 
+Variable 
+names 
+Responses 
+(DO NOT READ UNLESS 
+OTHERWISE NOTED) 
+SKIP INFO/ CATI 
+Note 
+Interviewer 
+Note (s) 
+Column(s) 
+CDEM.01 What is 
+your age? 
+_ _ Code age in years 
+07 Don’t know / Not sure 
+09 Refused 
+CDEM.02 Are you 
+Hispanic, 
+Latino/a, or 
+Spanish 
+origin? 
+If yes, read: Are you… 
+1 Mexican, Mexican 
+American, Chicano/a 
+2 Puerto Rican 
+3 Cuban 
+4 Another Hispanic, 
+Latino/a, or Spanish origin 
+Do not read: 
+5 No 
+7 Don’t know / Not sure 
+9 Refused 
+One or more 
+categories 
+may be 
+selected. 
+CDEM.03 Which one 
+or more of 
+the 
+following 
+would you 
+say is your 
+race? 
+Please read: 
+10 White 
+20 Black or African 
+American 
+30 American Indian or 
+Alaska Native 
+40 Asian 
+41 Asian Indian 
+42 Chinese 
+43 Filipino 
+44 Japanese 
+45 Korean 
+46 Vietnamese 
+47 Other Asian 
+50 Pacific Islander 
+51 Native Hawaiian 
+52 Guamanian or 
+Chamorro 
+53 Samoan 
+54 Other Pacific 
+Islander 
+Do not read: 
+60 Other 
+88 No additional choices 
+77 Don’t know / Not sure 
+99 Refused 
+If 40 (Asian) 
+or 50 (Pacific 
+Islander) is 
+selected read 
+and code 
+subcategories 
+underneath 
+major 
+heading. 
+One or more 
+categories 
+may be 
+selected. 
+If respondent 
+indicates that 
+they are 
+Hispanic for 
+race, please 
+read the race 
+choices. 
+CDEM.04 Are you… 
+Please read: 
+1 Married 
+2 Divorced 
+28 
+
+ 
+3 Widowed 
+4 Separated 
+5 Never married 
+Or 
+6 A member of an 
+unmarried couple 
+Do not read: 
+9 Refused 
+CDEM.05 What is the 
+highest 
+grade or 
+year of 
+school you 
+completed? 
+Read if necessary: 
+1 Never attended school or 
+only attended kindergarten 
+2 Grades 1 through 8 
+(Elementary) 
+3 Grades 9 through 11 
+(Some high school) 
+4 Grade 12 or GED (High 
+school graduate) 
+5 College 1 year to 3 years 
+(Some college or technical 
+school) 
+6 College 4 years or more 
+(College graduate) 
+Do not read: 
+9 Refused 
+CDEM.06 Do you 
+own or rent 
+your 
+home? 
+1 Own 
+2 Rent 
+3 Other arrangement 
+7 Don’t know / Not sure 
+9 Refused 
+Other 
+arrangement 
+may include 
+group home, 
+staying with 
+friends or 
+family 
+without 
+paying rent. 
+Home is 
+defined as 
+the place 
+where you 
+live most of 
+the time/the 
+majority of 
+the year.  
+Read if 
+necessary: 
+We ask this 
+question in 
+order to 
+compare 
+health 
+indicators 
+among 
+29 
+
+ 
+people with 
+different 
+housing 
+situations. 
+CDEM.07 In what 
+_ _ _ANSI County Code 
+county do 
+777 Don’t know / Not sure 
+you 
+999 Refused 
+currently 
+live? 
+888 County from another 
+state(cell phone data only) 
+CDEM.08 What is the 
+_ _ _ _ _ 
+ZIP Code 
+77777 Do not know 
+where you 
+99999 Refused 
+currently 
+live? 
+If cell interview 
+go to CDEM11 
+Not 
+1 Yes 
+CDEM.09 including 
+cell phones 
+2 No 
+Go to CDEM.11 
+or numbers 
+used for 
+7 Don’t know / Not sure 
+9 Refused 
+computers, 
+fax 
+machines 
+or security 
+systems, do 
+you have 
+more than 
+one 
+landline 
+telephone 
+number in 
+your 
+household? 
+CDEM.10 How many 
+__ Enter number (1-5) 
+of these 
+6 Six or more 
+landline 
+7 Don’t know / Not sure 
+telephone 
+8 None 
+numbers 
+9 Refused 
+are 
+residential 
+numbers? 
+CDEM.11 How many 
+__ Enter number (1-5) 
+Last question 
+Read if 
+cell phones 
+do you 
+6 Six or more 
+7 Don’t know / Not sure 
+needed for 
+partial complete. 
+necessary: 
+Include cell 
+have for 
+8 None 
+phones used 
+your 
+9 Refused 
+for both 
+30 
+
+ 
+personal 
+use? 
+business and 
+personal use. 
+CDEM.12 Have you 
+ever served 
+on active 
+duty in the 
+United 
+1 Yes 
+2 No 
+7 Don’t know / Not sure 
+9 Refused 
+Read if 
+necessary: 
+Active duty 
+does not 
+include 
+States 
+Armed 
+training for 
+the Reserves 
+Forces, 
+or National 
+either in 
+Guard, but 
+the regular 
+military or 
+in a 
+National 
+DOES include 
+activation, 
+for example, 
+for the 
+Guard or 
+Persian Gulf 
+military 
+War. 
+reserve 
+unit? 
+CDEM.13 Are you 
+currently…? 
+Read: 
+1 Employed for wages 
+2 Self-employed 
+3 Out of work for 1 year or 
+more 
+If more than 
+one, say 
+“select the 
+category 
+which best 
+4 Out of work for less than 
+describes 
+1 year 
+5 A Homemaker 
+you”. 
+6 A Student 
+7 Retired 
+Or 
+8 Unable to work 
+Do not read: 
+9 Refused 
+CDEM.14 How many 
+children 
+_ _ Number of children 
+88 None 
+less than 18 
+99 Refused 
+years of 
+age live in 
+your 
+household? 
+CDEM.15 Is your 
+annual 
+Read as necessary: 
+01 Less than $10,000? 
+SEE CATI 
+information of 
+If respondent 
+refuses at 
+household 
+income 
+from all 
+sources— 
+02 Less than $15,000? 
+($10,000 to less than 
+$15,000) 
+03 Less than $20,000? 
+($15,000 to less than 
+$20,000) 
+04 Less than $25,000 
+order of coding; 
+Start with 
+category 05 and 
+move up or down 
+categories. 
+ANY income 
+level, code 
+‘99’ (Refused) 
+31 
+
+ 
+($20,000 to less than 
+$25,000) 
+05 Less than $35,000 
+($25,000 to less than 
+$35,000) 
+06 Less than $50,000 
+($35,000 to less than 
+$50,000) 
+07 Less than $75,000? 
+($50,000 to less than 
+$75,000) 
+08 Less than $100,000? 
+($75,000 to less than 
+$100,000) 
+09 Less than $150,000? 
+($100,000 to less than 
+$150,000)? 
+10 Less than $200,000? 
+($150,000 to less than 
+$200,000) 
+11 $200,000 or more 
+Do not read: 
+77 Don’t know / Not sure 
+99 Refused 
+Skip to CDEM.17 
+if Male (Or Age 
+>49 
+CDEM.16 To your 
+knowledge, 
+are you 
+now 
+1 Yes 
+2 No 
+7 Don’t know / Not sure 
+9 Refused 
+pregnant? 
+CDEM.17 About how 
+much do 
+you weigh 
+without 
+_ _ _ _ Weight 
+(pounds/kilograms) 
+7777 Don’t know / Not sure 
+9999 Refused 
+If respondent 
+answers in 
+metrics, put 9 
+in first 
+shoes? 
+column. 
+Round 
+fractions up 
+CDEM.18 About how 
+tall are you 
+without 
+shoes? 
+_ _ / _ _ Height (ft / 
+inches/meters/centimeters) 
+77/ 77 Don’t know / Not 
+sure 
+If respondent 
+answers in 
+metrics, put 9 
+in first 
+99/ 99 Refused 
+column. 
+Round 
+fractions 
+down 
+32 
+
+ 
+Core Section 9: Disability 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT READ 
+UNLESS 
+SKIP 
+INFO/ 
+CATI Note 
+Interviewer Note 
+(s) 
+Column(s) 
+OTHERWISE 
+NOTED) 
+CDIS.01 
+Some people 
+who are deaf or 
+1 Yes 
+2 No 
+have serious 
+difficulty 
+hearing use 
+assistive devices 
+7 Don’t know / 
+Not sure 
+9 Refused 
+to communicate 
+by phone. Are 
+you deaf or do 
+you have 
+serious difficulty 
+hearing? 
+CDIS.02 
+Are you blind or 
+do you have 
+serious difficulty 
+seeing, even 
+when wearing 
+glasses? 
+1 Yes 
+2 No 
+7 Don’t know / 
+Not sure 
+9 Refused 
+CDIS.03 
+Because of a 
+1 Yes 
+physical, 
+mental, or 
+emotional 
+2 No 
+7 Don’t know / 
+Not sure 
+condition, do 
+9 Refused 
+you have 
+serious difficulty 
+concentrating, 
+remembering, 
+or making 
+decisions? 
+CDIS.04 
+Do you have 
+serious difficulty 
+walking or 
+climbing stairs? 
+1 Yes 
+2 No 
+7 Don’t know / 
+Not sure 
+9 Refused 
+CDIS.05 
+Do you have 
+difficulty 
+dressing or 
+bathing? 
+1 Yes 
+2 No 
+7 Don’t know / 
+Not sure 
+9 Refused 
+CDIS.06 
+Because of a 
+1 Yes 
+physical, 
+mental, or 
+emotional 
+2 No 
+7 Don’t know / 
+Not sure 
+33 
+
+ 
+condition, do 
+9 Refused 
+you have 
+difficulty doing 
+errands alone 
+such as visiting a 
+doctor’s office 
+or shopping? 
+34 
+
+ 
+Core Section 10: Inadequate Sleep 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer Note (s) 
+Column(s) 
+Number 
+names 
+(DO NOT 
+CATI Note 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+CIAD.01 
+On average, 
+_ _ Number of 
+Do not read: Enter 
+how many 
+hours [01-24] 
+hours of sleep in 
+hours of sleep 
+77 Don’t know 
+whole numbers, 
+do you get in a 
+/ Not sure 
+rounding 30 minutes 
+24-hour 
+99 Refused 
+(1/2 hour) or more 
+period? 
+up to the next whole 
+hour and dropping 
+29 or fewer minutes. 
+Core Section 11: Tobacco Use 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note 
+(s) 
+Column(s) 
+CTOB.01 
+Have you 
+smoked at 
+least 100 
+cigarettes in 
+your entire 
+life? 
+1 Yes 
+Do not include: 
+electronic 
+cigarettes (e-
+cigarettes, njoy, 
+bluetip, JUUL), 
+herbal cigarettes, 
+cigars, cigarillos, 
+little cigars, pipes, 
+bidis, kreteks, water 
+pipes (hookahs) or 
+marijuana. 
+5 packs = 100 
+cigarettes. 
+2 No 
+7 Don’t 
+know/Not 
+Sure 
+9 Refused 
+Go to 
+CTOB.03 
+CTOB.02 
+Do you now 
+smoke 
+cigarettes 
+every day, 
+some days, or 
+not at all? 
+1 Every day 
+2 Some days 
+3 Not at all  
+7 Don’t know 
+/ Not sure 
+9 Refused 
+35 
+
+ 
+CTOB.03 
+Do you 
+currently use 
+chewing 
+tobacco, snuff, 
+or snus every 
+day, some 
+days, or not at 
+all? 
+1 Every day 
+2 Some days 
+3 Not at all 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+Read if necessary: 
+Snus (Swedish for 
+snuff) is a moist 
+smokeless tobacco, 
+usually sold in small 
+pouches that are 
+placed under the lip 
+against the gum. 
+CTOB.04 
+Would you say 
+you have 
+never used e-
+cigarettes or 
+other 
+electronic 
+vaping 
+products in 
+your entire life 
+or now use 
+them every 
+day, use them 
+some days, or 
+used them in 
+the past but 
+do not 
+currently use 
+them at all? 
+1 Never used 
+e-cigarettes in 
+your entire 
+life 
+2 Use them 
+every day 
+3 Use them 
+some days 
+4 Used them 
+in the past 
+but do not 
+currently use 
+them at all 
+Do not read: 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+These questions 
+concern electronic 
+vaping products for 
+nicotine use. The 
+use of electronic 
+vaping products for 
+marijuana use is not 
+included in these 
+questions. 
+Electronic 
+cigarettes (e-
+cigarettes) and 
+other electronic 
+vaping products 
+include electronic 
+hookahs (e-
+hookahs), vape 
+pens, e-cigars, and 
+others. These 
+products are 
+battery-powered 
+and usually contain 
+nicotine and flavors 
+such as fruit, mint, 
+or candy. Brands 
+you may have 
+heard of are JUUL, 
+NJOY, or blu. 
+If respondent says 
+“Not at all” ask that 
+if they do not mean 
+“Never used e-cigs 
+in your entire life” 
+Core Section 12: Alcohol Consumption 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer Note 
+Column(s) 
+Number 
+names 
+(DO NOT 
+CATI Note 
+(s) 
+READ 
+UNLESS 
+36 
+
+OTHERWISE 
+NOTED) 
+Prologue: The next questions concern alcohol consumption. One drink of alcohol is equivalent to a 12-
+ounce beer, a 5-ounce glass of wine, or a drink with one shot of liquor. 
+CALC.01 
+During the past 
+30 days, how 
+many days per 
+week or per 
+1 _ _ Days 
+per week 
+2 _ _ Days in 
+past 30 days 
+Read if necessary: 
+A 40-ounce beer 
+would count as 3 
+drinks, or a 
+cocktail drink 
+with 2 shots 
+would count as 2 
+drinks. 
+month did you 
+have at least 
+one drink of 
+any alcoholic 
+beverage? 
+888 No 
+drinks in past 
+30 days 
+777 Don’t 
+know / Not 
+sure 
+999 Refused 
+Go to next 
+section 
+CALC.02 
+During the past 
+30 days, on the 
+days when you 
+drank, about 
+how many 
+drinks did you 
+drink on the 
+average? 
+_ _ Number 
+of drinks 
+88 None 
+77 Don’t 
+know / Not 
+sure 
+99 Refused 
+Read if necessary: 
+A 40-ounce beer 
+would count as 3 
+drinks, or a 
+cocktail drink 
+with 2 shots 
+would count as 2 
+drinks. 
+CALC.03 
+Considering all 
+types of 
+alcoholic 
+beverages, 
+how many 
+times during 
+the past 30 
+days did you 
+have X [CATI X 
+= 5 for men, X 
+= 4 for women] 
+or more drinks 
+on an 
+occasion? 
+_ _ Number 
+of times 
+77 Don’t 
+know / Not 
+sure 
+88 no days 
+99 Refused 
+CATI X = 5 
+for men, X 
+= 4 for 
+women 
+CALC.04 
+During the past 
+30 days, what 
+is the largest 
+number of 
+drinks you had 
+on any 
+occasion? 
+_ _ Number 
+of drinks 
+77 Don’t 
+know / Not 
+sure 
+99 Refused 
+37 
+
+ 
+Core Section 13: Immunization 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer Note 
+Column(s) 
+Number 
+names 
+(DO NOT 
+CATI Note 
+(s) 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+CIMM.01 
+During the past 
+1 Yes 
+Read if necessary: 
+12 months, 
+2 No 
+Go to 
+A new flu shot 
+have you had 
+7 Don’t know / 
+CIMM.03 
+came out in 2011 
+either a flu 
+Not sure 
+that injects 
+vaccine that 
+9 Refused 
+vaccine into the 
+was sprayed in 
+skin with a very 
+your nose or a 
+small needle. It is 
+flu shot 
+called Fluzone 
+injected into 
+Intradermal 
+your arm? 
+vaccine. This is 
+also considered a 
+flu shot. 
+CIMM.02 
+During what 
+_ _ / _ _ _ _ 
+month and 
+Month / Year 
+year did you 
+77 / 7777 
+receive your 
+Don’t know / 
+most recent flu 
+Not sure 
+vaccine that 
+09 / 9999 
+was sprayed in 
+Refused 
+your nose or flu 
+shot injected 
+into your arm? 
+CIMM.03 
+Have you ever 
+1 Yes 
+Read if necessary: 
+had a 
+2 No 
+There are two 
+pneumonia 
+7 Don’t know / 
+types of 
+shot also 
+Not sure 
+pneumonia shots: 
+known as a 
+9 Refused 
+polysaccharide, 
+pneumococcal 
+also known as 
+vaccine? 
+Pneumovax, and 
+conjugate, also 
+known as 
+Prevnar. 
+CIMM.04 
+Have you 
+1 Yes, received 
+If yes, ask: Was 
+received a 
+Tdap 
+this Tdap, the 
+tetanus shot in 
+tetanus shot that 
+the past 10 
+years? 
+2 Yes, received 
+tetanus shot, 
+but not Tdap 
+also has pertussis 
+or whooping 
+cough vaccine? 
+3 Yes, received 
+tetanus shot 
+38 
+
+ 
+but not sure 
+what type 
+4 No, did not 
+receive any 
+tetanus shot in 
+the past 10 
+years 
+7 Don’t 
+know/Not sure 
+9 Refused 
+39 
+
+ 
+Core Section 14: Fruits and Vegetables 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note (s) 
+Column(s) 
+CFV.01 
+Now think about 
+the foods you 
+ate or drank 
+during the past 
+month, that is, 
+the past 30 days, 
+including meals 
+and snacks. 
+Not including 
+juices, how often 
+did you eat fruit? 
+You can tell me 
+times per day, 
+times per week 
+or times per 
+month. 
+1_ _ Day 
+2_ _ Week 
+3_ _ Month 
+300 Less than 
+once a month 
+555 Never 
+777 Don’t 
+Know 
+999 Refused 
+If a respondent 
+indicates that they 
+consume a food 
+item every day then 
+enter the number of 
+times per day.  If the 
+respondent indicates 
+that they eat a food 
+less than daily, then 
+enter times per 
+week or time per 
+month. Do not 
+enter time per day 
+unless the 
+respondent reports 
+that he/she 
+consumed that food 
+item each day during 
+the past month. 
+Enter quantity in 
+times per day, week, 
+or month. 
+If respondent gives a 
+number without a 
+time frame, ask “was 
+that per day, week, 
+or month?” 
+Read if respondent 
+asks what to include 
+or says ‘i don’t 
+know’: include fresh, 
+frozen or canned 
+fruit. Do not include 
+dried fruits. 
+40 
+
+ 
+CFV.02 
+Not including 
+fruit-flavored 
+drinks or fruit 
+juices with 
+added sugar, 
+how often did 
+you drink 100% 
+fruit juice such 
+as apple or 
+orange juice? 
+1_ _ Day 
+2_ _ Week 
+3_ _ Month 
+300 Less than 
+once a month 
+555 Never 
+777 Don’t 
+Know 
+999 Refused 
+Read if respondent 
+asks about examples 
+of fruit-flavored 
+drinks: “do not 
+include fruit-
+flavored drinks with 
+added sugar like 
+cranberry cocktail, 
+Hi-C, lemonade, 
+Kool-Aid, Gatorade, 
+Tampico, and sunny 
+delight. Include only 
+100% pure juices or 
+100% juice blends.” 
+Enter quantity in 
+times per day, week, 
+or month. 
+If respondent gives a 
+number without a 
+time frame, ask 
+“Was that per day, 
+week, or month?” 
+CFV.03 
+How often did 
+you eat a green 
+leafy or lettuce 
+salad, with or 
+without other 
+vegetables? 
+1_ _ Day 
+2_ _ Week 
+3_ _ Month 
+300 Less than 
+once a month 
+555 Never 
+777 Don’t 
+Know 
+999 Refused 
+Enter quantity in 
+times per day, week, 
+or month. 
+If respondent gives a 
+number without a 
+time frame, ask 
+“Was that per day, 
+week, or month?” 
+Read if respondent 
+asks about spinach: 
+“Include spinach 
+salads.” 
+CFV.04 
+How often did 
+you eat any kind 
+of fried 
+potatoes, 
+including French 
+fries, home fries, 
+or hash browns? 
+1_ _ Day 
+2_ _ Week 
+3_ _ Month 
+300 Less than 
+once a month 
+555 Never 
+777 Don’t 
+Know 
+Enter quantity in 
+times per day, week, 
+or month. 
+If respondent gives a 
+number without a 
+time frame, ask 
+“Was that per day, 
+week, or month?” 
+41 
+
+ 
+999 Refused 
+Read if respondent 
+asks about potato 
+chips: “Do not 
+include potato 
+chips.” 
+CFV.05 
+How often did 
+you eat any 
+other kind of 
+potatoes, or 
+sweet potatoes, 
+such as baked, 
+boiled, mashed 
+potatoes, or 
+potato salad? 
+1_ _ Day 
+2_ _ Week 
+3_ _ Month 
+300 Less than 
+once a month 
+555 Never 
+777 Don’t 
+Know 
+999 Refused 
+Enter quantity in 
+times per day, week, 
+or month. 
+If respondent gives a 
+number without a 
+time frame, ask 
+“Was that per day, 
+week, or month?” 
+Read if respondent 
+asks about what 
+types of potatoes to 
+include: “Include all 
+types of potatoes 
+except fried. Include 
+potatoes au gratin, 
+scalloped potatoes.” 
+CFV.06 
+Not including 
+lettuce salads 
+and potatoes, 
+how often did 
+you eat other 
+vegetables? 
+1_ _ Day 
+2_ _ Week 
+3_ _ Month 
+300 Less than 
+once a month 
+555 Never 
+777 Don’t 
+Know 
+999 Refused 
+Enter quantity in 
+times per day, week, 
+or month. 
+If respondent gives a 
+number without a 
+time frame, ask 
+“Was that per day, 
+week, or month?” 
+Read if respondent 
+asks about what to 
+include: “Include 
+tomatoes, green 
+beans, carrots, corn, 
+cabbage, bean 
+sprouts, collard 
+greens, and broccoli. 
+Include raw, cooked, 
+canned, or frozen 
+vegetables. Do not 
+include rice.” 
+Core Section 15: H.I.V./AIDS 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer Note (s) 
+Column(s) 
+Number 
+names 
+CATI Note 
+42 
+
+ 
+(DO NOT 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+CHIV.01 
+Including fluid 
+testing from 
+1 Yes 
+Please remember 
+that your answers 
+are strictly 
+your mouth, 
+2 No 
+Go to Next 
+but not 
+7 Don’t 
+section 
+confidential and that 
+including tests 
+know/ not 
+you don’t have to 
+you may have 
+sure 
+answer every 
+had for blood 
+donation, have 
+you ever been 
+tested for 
+H.I.V? 
+9 Refused 
+question if you do 
+not want to. 
+Although we will ask 
+you about testing, 
+we will not ask you 
+about the results of 
+any test you may 
+have had. 
+CHIV.02 
+Not including 
+blood 
+donations, in 
+what month 
+and year was 
+your last H.I.V. 
+test? 
+_ _ /_ _ _ _ 
+Code month 
+and year 
+77/ 7777 
+Don’t know / 
+Not sure 99/ 
+9999 Refused 
+If response is 
+before 
+January 
+1985, code 
+"777777". 
+INTERVIEWER NOTE: 
+If the respondent 
+remembers the year 
+but cannot 
+remember the 
+month, code the 
+first two digits 77 
+and the last four 
+digits for the year. 
+Closing Statement/ Transition to Modules 
+Read if necessary 
+Read 
+CATI instructions 
+(not read) 
+That was my last question. Everyone’s 
+Read if no optional modules follow, otherwise 
+answers will be combined to help us provide 
+continue to optional modules. 
+information about the health practices of 
+people in this state. Thank you very much 
+for your time and cooperation. 
+43 
+
+Optional Modules 
+44 
+
+ 
+Module 1: Prediabetes 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note 
+(s) 
+Column(s) 
+Skip if CCHC.12 
+is coded 1. To 
+be asked 
+following Core 
+CCHC.12; 
+MPDIAB.01 When was the 
+last time you 
+had a blood test 
+for high blood 
+sugar or 
+diabetes by a 
+doctor, nurse, 
+or other health 
+professional? 
+1 Within the 
+past year 
+(anytime less 
+than 12 
+months ago) 
+2 Within the 
+last 2 years 
+(1 year but 
+less than 2 
+years ago) 
+3 Within the 
+last 3 years 
+(2 years but 
+less than 3 
+years ago) 
+4 Within the 
+last 5 years 
+(3 to 4 years 
+but less than 
+5 years ago) 
+5 Within the 
+last 10 years 
+(5 to 9 years 
+but less than 
+10 years ago) 
+6 10 years 
+ago or more 
+8 Never 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+Skip if CCHC.12 
+is coded 1; If 
+CCHC.12 is 
+coded 4 
+automatically 
+45 
+
+ 
+code 
+MPDIAB.02, 
+equal to 1 (yes) 
+MPDIAB.02 Has a doctor or 
+other health 
+professional 
+ever told you 
+that you had 
+prediabetes or 
+borderline 
+diabetes? 
+1 Yes 
+2 Yes, during 
+pregnancy 
+3 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+If Yes and 
+respondent is 
+female, ask: Was 
+this only when 
+you were 
+pregnant? 
+46 
+
+ 
+Module 2: Diabetes 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer Note 
+Column(s) 
+Number 
+names 
+(DO NOT 
+CATI Note 
+(s) 
+READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+Skip if 
+CCHC.12 is 
+not equal 
+to 1. 
+MDIAB.01 According to 
+1 Type 1 
+your doctor or 
+2 Type 2 
+other health 
+7 Don’t 
+professional, 
+know/ Not 
+what type of 
+sure 
+diabetes do you 
+9 Refused 
+have? 
+MDIAB.02 Insulin can be 
+1 Yes 
+taken by shot or 
+2 No 
+pump. Are you 
+7 Don’t 
+now taking 
+know/ not 
+insulin? 
+sure 
+9 Refused 
+MDIAB.03 About how 
+_ _  Number 
+Read if necessary: A 
+many times in 
+of times [76 = 
+test for A-one-C 
+the past 12 
+76 or more] 
+measures the 
+months has a 
+88 None 
+average level of 
+doctor, nurse, 
+98 Never 
+blood sugar over 
+or other health 
+heard of A-
+the past three 
+professional 
+one-C test 
+months. 
+checked you for 
+77 Don’t 
+A-one-C? 
+know / Not 
+sure 
+99 Refused 
+MDIAB.04 When was the 
+Read if 
+last time you 
+necessary: 
+had an eye 
+1 Within the 
+exam in which 
+past month 
+the pupils were 
+(anytime less 
+dilated, making 
+than 1 month 
+you temporarily 
+ago) 
+sensitive to 
+2 Within the 
+bright light? 
+past year (1 
+month but 
+less than 12 
+months ago) 
+47 
+
+ 
+3 Within the 
+past 2 years 
+(1 year but 
+less than 2 
+years ago) 
+4 2 or more 
+years ago 
+Do not read: 
+7 Don’t know 
+/ Not sure 
+8 Never 
+9 Refused 
+MDIAB.05 When was the 
+last time a 
+doctor, nurse or 
+other health 
+professional 
+took a photo of 
+the back of your 
+eye with a 
+specialized 
+camera? 
+Read if 
+necessary: 
+1 Within the 
+past month 
+(anytime less 
+than 1 month 
+ago) 
+2 Within the 
+past year (1 
+month but 
+less than 12 
+months ago) 
+3 Within the 
+past 2 years 
+(1 year but 
+less than 2 
+years ago) 
+4 2 or more 
+years ago 
+Do not read: 
+7 Don’t know 
+/ Not sure 
+8 Never 
+9 Refused 
+MDIAB.06 When was the 
+last time you 
+took a course or 
+class in how to 
+manage your 
+diabetes 
+yourself? 
+1 Within the 
+past year 
+(anytime less 
+than 12 
+months ago) 
+2 Within the 
+last 2 years (1 
+year but less 
+than 2 years 
+ago) 
+3 Within the 
+last 3 years (2 
+years but less 
+48 
+
+ 
+than 3 years 
+ago) 
+4 Within the 
+last 5 years (3 
+to 4 years but 
+less than 5 
+years ago) 
+5 Within the 
+last 10 years 
+(5 to 9 years 
+but less than 
+10 years ago) 
+6 10 years 
+ago or more 
+8 Never 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+MDIAB.07 Have you ever 
+had any sores 
+or irritations on 
+your feet that 
+took more than 
+four weeks to 
+heal? 
+1 Yes 
+2 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+49 
+
+ 
+Module 3 : Arthritis 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer 
+Note (s) 
+Column(s) 
+Asked only 
+if CCHC.11 
+= 1 (Only 
+of those 
+answering 
+yes to 
+arthritis 
+question) 
+MARTH.01 Has a doctor or 
+other health 
+professional 
+ever suggested 
+physical 
+activity or 
+exercise to 
+help your 
+arthritis or 
+joint 
+symptoms? 
+1 Yes 
+2 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+If the 
+respondent is 
+unclear about 
+whether this 
+means increase 
+or decrease in 
+physical activity, 
+this means 
+increase. 
+MARTH.02 Have you ever 
+1 Yes 
+2 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+taken an 
+educational 
+course or class 
+to teach you 
+how to manage 
+problems 
+related to your 
+arthritis or 
+joint 
+symptoms? 
+MARTH.03 Are you now 
+limited in any 
+way in any of 
+your usual 
+activities 
+because of 
+arthritis or 
+joint 
+symptoms? 
+1 Yes 
+2 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+If a respondent 
+question arises 
+about 
+medication, then 
+the interviewer 
+should reply: 
+"Please answer 
+the question 
+based on your 
+current 
+experience, 
+regardless of 
+50 
+
+whether you are 
+taking any 
+medication or 
+treatment” 
+MARTH.04 In the next 
+question, we 
+are referring to 
+work for pay. 
+Do arthritis or 
+joint symptoms 
+now affect 
+whether you 
+work, the type 
+of work you do 
+or the amount 
+of work you 
+do? 
+1 Yes 
+2 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+If respondent 
+gives an answer 
+to each issue 
+(whether works, 
+type of work, or 
+amount of 
+work), then if 
+any issue is "yes" 
+mark the overall 
+response as 
+"yes." If a 
+question arises 
+about 
+medications or 
+treatment, then 
+the interviewer 
+should say: 
+"Please answer 
+the question 
+based on your 
+current 
+experience, 
+regardless of 
+whether you are 
+taking any 
+medication or 
+treatment." 
+MARTH.05 Please think 
+about the past 
+30 days, 
+keeping in 
+mind all of your 
+joint pain or 
+aching and 
+whether or not 
+you have taken 
+medication.  
+During the past 
+30 days, how 
+bad was your 
+joint pain on 
+average on a 
+scale of 0 to 10 
+where 0 is no 
+pain and 10 is 
+pain or aching 
+__ __ Enter 
+number [00-
+10] 
+77 Don’t 
+know/ Not 
+sure 
+99 Refused 
+51 
+
+ 
+as bad as it can 
+be? 
+Module 4: Prostate Cancer Screening 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer 
+Column(s) 
+Number 
+names 
+(DO NOT 
+CATI Note 
+Note (s) 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+If 
+respondent 
+is ≤39 years 
+of age or is 
+Female, go 
+to next 
+MPCS.01 
+Have you ever 
+1 Yes 
+2 No 
+7 Don’t know 
+module. 
+Go to 
+MPCS.05 
+A P.S.A. test is 
+a blood test to 
+detect 
+had a P.S.A. 
+test? 
+/ Not sure 
+9 Refused 
+prostate 
+cancer. It is 
+also called a 
+prostate-
+specific 
+antigen test. 
+52 
+
+ 
+MPCS.02 
+About how 
+long has it 
+been since 
+Read if 
+necessary: 
+1 Within the 
+A P.S.A. test is 
+a blood test to 
+detect 
+your most 
+recent P.S.A. 
+test? 
+past year 
+(anytime less 
+than 12 
+months ago) 
+2 Within the 
+past 2 years 
+(1 year but 
+less than 2 
+years ago) 
+3 Within the 
+past 3 years 
+(2 years but 
+less than 3 
+years ago) 
+4 Within the 
+past 5 years 
+(3 years but 
+less than 5 
+years ago) 
+5 5 or more 
+prostate 
+cancer. It is 
+also called a 
+prostate-
+specific 
+antigen test. 
+years ago 
+Do not read: 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+MPCS.03 
+What was the 
+main reason 
+you had this 
+P.S.A. test – 
+was it …? 
+Read: 
+1 Part of a 
+routine exam 
+2 Because of a 
+problem 
+3. Other 
+A P.S.A. test is 
+a blood test to 
+detect 
+prostate 
+cancer. It is 
+also called a 
+reason 
+Do not read: 
+7 Don’t know 
+/ Not sure 
+prostate-
+specific 
+antigen test. 
+9 Refused 
+MPCS.04 
+Who first 
+suggested this 
+P.S.A. test: 
+you, your 
+doctor, or 
+someone 
+else? 
+1 Self 
+2 Doctor, 
+nurse, health 
+care 
+professional 
+3 Someone 
+else 
+7 Don’t Know 
+/ Not sure 
+9 Refused 
+53 
+
+ 
+MPCS.05 
+When you met 
+with a doctor, 
+nurse, or 
+other health 
+professional, 
+did they EVER 
+talk about the 
+advantages, 
+the 
+disadvantages, 
+or both 
+advantages 
+and 
+disadvantages 
+of the 
+prostate-
+specific 
+antigen or 
+P.S.A. test? 
+1 Advantages 
+2 
+Disadvantages 
+3 Both 
+Advantages 
+and 
+disadvantages 
+DO NOT READ 
+4. Neither 
+7 Don’t know/ 
+not sure 
+9 Refused 
+A P.S.A. test is 
+a blood test to 
+detect 
+prostate 
+cancer. It is 
+also called a 
+prostate-
+specific 
+antigen test. 
+54 
+
+ 
+Module 5: Cancer Survivorship: Type of Cancer 
+Question 
+Number 
+Question 
+text 
+Variable 
+names 
+Responses 
+(DO NOT READ 
+UNLESS OTHERWISE 
+SKIP INFO/ 
+CATI Note 
+Interviewer 
+Note (s) 
+Column(s) 
+NOTED) 
+If CCHC.06 
+or CCHC.07 
+= 1 (Yes) 
+continue, 
+else go to 
+next 
+module. 
+MTOC.01 
+You’ve told 
+us that you 
+have had 
+1 Only one 
+2 Two 
+3 Three or more 
+cancer.  I 
+would like to 
+ask you a 
+few more 
+7 Don’t know / Not 
+sure 
+Go to next 
+module 
+questions 
+about your 
+9 Refused 
+cancer. 
+How many 
+different 
+types of 
+cancer have 
+you had? 
+MTOC.02 
+At what age 
+were you 
+told that you 
+had cancer? 
+_ _ Age in Years (97 = 
+97 and older) 
+98 Don't know/Not 
+sure 
+99 Refused 
+If MTOC.01= 2 
+(Two) or 3 
+(Three or more), 
+ask: At what age 
+were you first 
+diagnosed with 
+cancer? 
+Read if 
+necessary: This 
+question refers 
+to the first time 
+they were told 
+about their first 
+cancer. 
+55 
+
+ 
+If CCHC.06 
+= 1 (Yes) 
+and 
+MTOC.01 = 
+1 (Only 
+one): ask 
+Was it 
+Melanoma 
+or other 
+skin 
+cancer? 
+then code 
+MTOC.03 as 
+a response 
+of 16 if 
+Melanoma 
+or 22 if 
+other skin 
+cancer 
+MTOC.03 
+What type 
+of cancer 
+was it? 
+Read if respondent 
+needs prompting for 
+cancer type: 
+01 Bladder 
+02 Blood 
+03 Bone 
+04 Brain 
+05 Breast 
+06 Cervix/Cervical 
+07 Colon 
+08 
+Esophagus/Esophageal 
+09 Gallbladder 
+10 Kidney 
+11 Larynx-trachea 
+12 Leukemia 
+13 Liver 
+14 Lung 
+15 Lymphoma 
+16 Melanoma 
+17 Mouth/tongue/lip 
+18 Ovary/Ovarian 
+19 
+Pancreas/Pancreatic 
+20 Prostate 
+21 Rectum/Rectal 
+22 Skin (non-
+melanoma) 
+23 Skin (don't know 
+what kind) 
+If MTOC.01 = 2 
+(Two) or 3 
+(Three or more), 
+ask: With your 
+most recent 
+diagnoses of 
+cancer, what 
+type of cancer 
+was it? 
+56 
+
+ 
+24 Soft tissue (muscle 
+or fat) 
+25 Stomach 
+26 Testis/Testicular 
+27 Throat - pharynx 
+28 Thyroid 
+29 Uterus/Uterine 
+30 Other 
+Do not read: 
+77 Don’t know / Not 
+sure 
+99 Refused 
+57 
+
+ 
+Module 6: Cancer Survivorship: Course of Treatment 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer Note 
+Column(s) 
+Number 
+names 
+(DO NOT READ 
+CATI Note 
+(s) 
+UNLESS 
+OTHERWISE 
+NOTED) 
+If CCHC.06 
+or CCHC.07 
+= 1 (Yes) 
+continue, 
+else go to 
+next 
+module. 
+MCOT.01 
+Are you 
+Read if 
+Go to next 
+Read if necessary: 
+currently 
+receiving 
+treatment for 
+necessary: 
+1 Yes 
+module 
+By treatment, we 
+mean surgery, 
+radiation therapy, 
+2 No, I’ve 
+Continue 
+cancer? 
+completed 
+treatment 
+chemotherapy, or 
+chemotherapy pills. 
+3 No, I’ve 
+Go to next 
+refused 
+module 
+treatment 
+4 No, I haven’t 
+started 
+treatment 
+5 Treatment 
+was not 
+necessary 
+7 Don’t know / 
+Not sure 
+9 Refused 
+MCOT.02 
+What type of 
+Read: 
+If the respondent 
+doctor 
+01 Cancer 
+requests 
+provides the 
+Surgeon 
+clarification of this 
+majority of 
+your health 
+02 Family 
+Practitioner 
+question, say: We 
+want to know 
+care? Is it a…. 
+03 General 
+which type of 
+Surgeon 
+doctor you see 
+04 Gynecologic 
+most often for 
+Oncologist 
+illness or regular 
+05 General 
+health care 
+Practitioner, 
+(Examples: annual 
+Internist  
+exams and/or 
+58 
+
+06 Plastic 
+Surgeon, 
+Reconstructive 
+Surgeon 
+07 Medical 
+Oncologist 
+08 Radiation 
+physicals, 
+treatment of colds, 
+etc.). 
+Read if necessary: 
+An oncologist is a 
+medical doctor 
+Oncologist 
+09 Urologist 
+10 Other 
+who manages a 
+person’s care and 
+treatment after a 
+Do not read: 
+77 Don’t know / 
+Not sure 
+cancer diagnosis. 
+99 Refused 
+MCOT.03 
+Did any 
+doctor, nurse, 
+or other health 
+professional 
+ever give you a 
+written 
+summary of all 
+the cancer 
+treatments 
+that you 
+received? 
+1 Yes 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+Read if necessary: 
+By ‘other 
+healthcare 
+professional’, we 
+mean a nurse 
+practitioner, a 
+physician’s 
+assistant, social 
+worker, or some 
+other licensed 
+professional. 
+MCOT.04 
+Have you ever 
+received 
+1 Yes 
+instructions 
+from a doctor, 
+nurse, or other 
+health 
+professional 
+about where 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+Go to 
+MCOT.06 
+you should 
+return or who 
+you should see 
+for routine 
+cancer check-
+ups after 
+completing 
+your 
+treatment for 
+cancer? 
+59 
+
+ 
+MCOT.05 
+Were these 
+instructions 
+written down 
+or printed on 
+paper for you? 
+1 Yes 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+MCOT.06 
+With your 
+most recent 
+diagnosis of 
+cancer, did 
+you have 
+health 
+insurance that 
+paid for all or 
+part of your 
+cancer 
+treatment? 
+1 Yes 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+Read if necessary: 
+Health insurance 
+also includes 
+Medicare, 
+Medicaid, or other 
+types of state 
+health programs. 
+MCOT.07 
+Were you ever 
+denied health 
+insurance or 
+life insurance 
+coverage 
+because of 
+your cancer? 
+1 Yes 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+MCOT.08 
+Did you 
+participate in a 
+clinical trial as 
+part of your 
+cancer 
+treatment? 
+1 Yes 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+60 
+
+ 
+Module 7: Cancer Survivorship: Pain Management 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer Note 
+Column(s) 
+Number 
+names 
+(DO NOT READ 
+CATI Note 
+(s) 
+UNLESS 
+OTHERWISE 
+NOTED) 
+If CCHC.06 or 
+CCHC.07 = 1 
+(Yes) 
+continue, 
+else go to 
+next module. 
+MCPM.01 Do you 
+1 Yes 
+currently have 
+2 No 
+Go to next 
+physical pain 
+caused by your 
+7 Don’t know/ 
+not sure 
+module 
+cancer or 
+9 Refused 
+cancer 
+treatment? 
+MCPM.02 Would you say 
+Read: 
+your pain is 
+1 With 
+currently under 
+medication (or 
+control…? 
+treatment) 
+2 Without 
+medication (or 
+treatment) 
+3 Not under 
+control, with 
+medication (or 
+treatment) 
+4 Not under 
+control, 
+without 
+medication (or 
+treatment) 
+Do not read: 
+7 Don’t know / 
+Not sure 
+9 Refused 
+61 
+
+Module 8: Cognitive Decline 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer 
+Note (s) 
+Column(s) 
+Prologue: The next few questions ask about difficulties in thinking or memory that can make a big 
+difference in everyday activities. We want to know how these difficulties may have impacted you. 
+If 
+respondent 
+is 45 years of 
+age or older 
+continue, 
+else go to 
+next 
+module. 
+MCOG.01 During the past 
+12 months, 
+have you 
+experienced 
+difficulties with 
+thinking or 
+memory that 
+are happening 
+more often or 
+are getting 
+worse? 
+1 Yes 
+2 No 
+7 Don’t 
+know/ not 
+sure 
+9 Refused 
+Go to next 
+module 
+62 
+
+ 
+MCOG.02 Are you 
+worried about 
+1 Yes 
+2 No 
+these 
+7 Don’t 
+difficulties with 
+thinking or 
+memory? 
+know/ not 
+sure 
+9 Refused 
+MCOG.03 Have you or 
+anyone else 
+discussed your 
+difficulties with 
+thinking or 
+memory with a 
+health care 
+1 Yes 
+2 No 
+7 Don’t 
+know/ not 
+sure 
+9 Refused 
+provider? 
+MCOG.04 During the past 
+12 months, 
+1 Yes 
+2 No 
+have your 
+difficulties with 
+thinking or 
+memory 
+interfered with 
+7 Don’t 
+know/ not 
+sure 
+9 Refused 
+day-to-day 
+activities, such 
+as managing 
+medications, 
+paying bills, or 
+keeping track 
+of 
+appointments? 
+MCOG.05 During the past 
+12 months, 
+have your 
+difficulties with 
+thinking or 
+memory 
+interfered with 
+1 Yes 
+2 No 
+7 Don’t 
+know/ not 
+sure 
+9 Refused 
+If respondent 
+indicates they 
+neither work 
+nor volunteer, 
+clarify with 
+respondent 
+whether 
+your ability to 
+work or 
+volunteer? 
+difficulties 
+with thinking 
+or memory 
+prevented 
+them from 
+working or 
+volunteering … 
+if yes, then 
+code as Yes. If 
+no, then code 
+as No. If 
+reasons for not 
+working 
+63 
+
+ 
+and/or 
+volunteering 
+are not related 
+to difficulties 
+with thinking 
+or memory, 
+code as No. 
+64 
+
+ 
+Module 9: Caregiver 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer 
+Column(s) 
+Number 
+names 
+(DO NOT READ 
+CATI Note 
+Note (s) 
+UNLESS OTHERWISE 
+NOTED) 
+MCARE.01 During the 
+1 Yes 
+If caregiving 
+past 30 days, 
+2 No 
+Go to next 
+recipient 
+did you 
+7 Don’t know/Not sure 
+module 
+has died in 
+provide 
+the past 30 
+regular care or 
+8 Caregiving recipient 
+Go to next 
+days, say: 
+assistance to a 
+died in past 30 days  
+module 
+I’m so sorry 
+friend or 
+for your 
+family 
+9 Refused 
+Go to next 
+loss and 
+member who 
+module 
+code 8 
+has a health 
+problem or 
+disability? 
+MCARE.02 What is their 
+1 Parent, stepparent, 
+If 
+relationship to 
+or parent-in-law 
+respondent 
+you? 
+2 Grandparent, step 
+provides 
+grandparent or 
+care for 
+grandparent-in-law 
+more than 
+3 Spouse or partner 
+one person, 
+4 Child or stepchild 
+say: “Please 
+5 Grandchild or step 
+refer to the 
+grandchild 
+person 
+6 Sibling, stepsibling, 
+whom you 
+or sibling-in-law 
+are 
+7 Other relative 
+providing 
+8 Friend or non-
+the most 
+relative 
+care.” Read 
+77 Don’t know/Not 
+selections if 
+sure 
+necessary 
+99 Refused 
+or unable 
+to code. 
+MCARE.03 What is the 
+1)Alzheimer’s disease, 
+If MCARE.03 
+main health 
+dementia, or other 
+= 1 
+problem or 
+cognitive impairment 
+(Alzheimer’s 
+disability that 
+2)Heart disease, 
+disease, 
+the person you 
+hypertension, or 
+dementia or 
+care for has? 
+stroke 
+other 
+3)Cancer 
+cognitive 
+4)Diabetes 
+impairment 
+5)Injuries including 
+disorder), 
+broken bones or 
+go to 
+traumatic brain injury 
+MCARE.05. 
+Otherwise, 
+continue 
+65 
+
+ 
+6)Mental illness such 
+as depression, anxiety, 
+or schizophrenia 
+7)Developmental 
+disorders such as 
+autism, Down 
+syndrome, or spina 
+bifida 
+8)Respiratory 
+conditions such as 
+asthma, emphysema, 
+or chronic obstructive 
+pulmonary disease 
+9)Arthritis/rheumatism 
+10)Hearing or vision 
+loss 
+11)Movement 
+disorders such as 
+Parkinson’s, spinal 
+cord injury, multiple 
+sclerosis or cerebral 
+palsy 
+12)Old age, infirmity, 
+or frailty 
+13)Other 
+77 Don’t know/Not 
+sure 
+99 Refused 
+MCARE.04 Does the 
+person you 
+care for also 
+have 
+Alzheimer’s 
+disease, 
+dementia or 
+other cognitive 
+impairment 
+disorder? 
+1 Yes 
+2 No 
+7 Don’t Know/Not 
+sure 
+9 Refused 
+MCARE.05 In the past 30 
+days, did you 
+provide 
+regular care 
+for this person 
+by helping 
+with nursing or 
+medical tasks 
+such as 
+injections, 
+wound care, or 
+tube feedings? 
+1 Yes 
+2 No 
+7 Don’t Know/Not 
+sure 
+9 Refused 
+66 
+
+ 
+MCARE.06 In the past 30 
+1 Yes 
+2 No 
+7 Don’t Know/Not 
+sure 
+9 Refused 
+days, did you 
+provide 
+regular care 
+for this person 
+by managing 
+personal care 
+such as 
+bathing, 
+getting to the 
+bathroom, or 
+helping to eat? 
+MCARE.07 In the past 30 
+days, did you 
+provide 
+regular care 
+for this person 
+by managing 
+household 
+tasks such as 
+help with 
+transportation, 
+shopping, or 
+managing 
+money? 
+1 Yes 
+2 No 
+7 Don’t Know/Not 
+sure 
+9 Refused 
+MCARE.08 In an average 
+week, how 
+many hours do 
+you provide 
+regular care or 
+assistance? 
+Would you 
+say… 
+Please read: 
+1) Less than 20 hours 
+per week (19 hours or 
+less) 
+2) Less than 40 hours 
+per week (more than 
+19 hours, but less than 
+40 hours) 
+3) 40 hours or more 
+per week 
+Do not read: 
+7 Don’t Know/ Not 
+Sure 
+9 Refused 
+MCARE.09 For how long 
+have you 
+provided 
+regular care to 
+this person? 
+Read if necessary: 
+1)  Within the past 30 
+days (anytime less 
+than 30 days ago) 
+2) Within the past 2 
+years (more than 30 
+days but less than 2 
+years ago) 
+3) Within the past 5 
+years (more than 2 
+67 
+
+ 
+years but less than 5 
+years ago) 
+4) 5 years or more 
+Do not read: 
+7 Don’t Know/ Not 
+Sure 
+9 Refused 
+68 
+
+ 
+Module 10: Tobacco Cessation 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP 
+INFO/ 
+CATI Note 
+Interviewer Note 
+(s) 
+Column(s) 
+Ask if 
+CTOB.01 
+= 1 and 
+CTOB.02 
+= 3 
+MTC.01 
+How long has it 
+been since you 
+last smoked a 
+cigarette, even 
+one or two 
+puffs? 
+Read if necessary: 
+01 Within the 
+past month (less 
+than 1 month 
+ago) 
+02 Within the 
+past 3 months (1 
+month but less 
+than 3 months 
+ago) 
+03 Within the 
+past 6 months (3 
+months but less 
+than 6 months 
+ago) 
+04 Within the 
+past year (6 
+months but less 
+than 1 year ago) 
+05 Within the 
+past 5 years (1 
+year but less than 
+5 years ago) 
+06 Within the 
+past 10 years (5 
+years but less 
+than 10 years 
+ago) 
+07 10 years or 
+more 
+08 Never smoked 
+regularly 
+77 Don’t know / 
+Not sure 
+99 Refused 
+Go to next 
+module 
+69 
+
+ 
+Ask if 
+CTOB.02 
+= 1 or 2. 
+MTC.02 
+During the past 
+1 Yes 
+12 months, have 
+2 No 
+you stopped 
+7 Don’t know / 
+smoking for one 
+Not sure 
+day or longer 
+9 Refused 
+because you 
+were trying to 
+quit smoking? 
+70 
+
+ 
+Module 11: Other Tobacco Use 
+Question 
+Number 
+Question text Variable 
+names 
+Responses 
+(DO NOT READ 
+UNLESS 
+SKIP INFO/ CATI 
+Note 
+Interviewer Note 
+(s) 
+Column(s) 
+OTHERWISE 
+NOTED) 
+ASK IF 
+CTOB.02 = 1,2 
+MOTU.01 
+Currently, 
+when you 
+smoke 
+cigarettes, do 
+you usually 
+smoke 
+1 Yes 
+2 No 
+7 Don’t know / 
+Not sure 
+9 Refused 
+menthol 
+cigarettes? 
+ASK IF CTOB.04 
+= 2, 3 
+MOTU.02 
+Currently, 
+when you use 
+e-cigarettes, 
+do you 
+usually use 
+menthol e-
+1 Yes 
+2 No 
+7 Don’t know / 
+Not sure 
+9 Refused 
+cigarettes? 
+Prologue 
+The next question is about heated tobacco products. Some people refer to these as 
+“heat not burn” tobacco products.  These heat tobacco sticks or capsules to produce 
+a vapor. Some brands of heated tobacco products include iQOS [eye-kos], Glo, and 
+Eclipse. 
+MOTU.03 
+Before today, 
+have you 
+heard of 
+heated 
+1 Yes 
+2 No 
+7 Don’t know / 
+Not sure 
+tobacco 
+9 Refused 
+products? 
+Module 12: Firearm Safety 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT READ 
+UNLESS 
+SKIP 
+INFO/ 
+CATI 
+Interviewer Note 
+(s) 
+Column(s) 
+OTHERWISE 
+Note 
+NOTED) 
+71 
+
+ 
+Prologue 
+The next questions are about safety and firearms. Some people keep guns for 
+recreational purposes such as hunting or sport shooting. People also keep guns 
+in the home for protection. Please include firearms such as pistols, revolvers, 
+shotguns, and rifles; but not BB guns or guns that cannot fire. Include those 
+kept in a garage, outdoor storage area, or motor vehicle. 
+MFS.01 
+Are any 
+firearms now 
+kept in or 
+around your 
+home? 
+1 Yes 
+Do not include 
+guns that cannot 
+fire; include those 
+kept in cars, or 
+outdoor storage. 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+Go to 
+Next 
+module 
+MFS.02 
+Are any of 
+these firearms 
+now loaded? 
+1 Yes 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+Go to 
+Next 
+module 
+MFS.03 
+Are any of 
+these loaded 
+firearms also 
+unlocked? 
+1 Yes 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+By unlocked, we 
+mean you do not 
+need a key or a 
+combination or a 
+hand/fingerprint to 
+get the gun or to 
+fire it. Don’t count 
+the safety as a lock. 
+Module 13: Industry and Occupation 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ CATI 
+Interviewer 
+Column(s) 
+Number 
+names 
+(DO NOT READ 
+Note 
+Note (s) 
+UNLESS 
+OTHERWISE 
+NOTED) 
+MIO.01 
+What kind of 
+_______Record 
+If CDEM.13 = 1 
+If respondent 
+work do you do? 
+answer 
+(Employed for 
+is unclear, ask: 
+For example, 
+registered 
+99 Refused 
+wages) or 2 (Self­
+employed) or 4 
+What is your 
+job title? 
+nurse, janitor, 
+(Employed for 
+wages or out of 
+work for less 
+If respondent 
+has more than 
+72 
+
+ 
+cashier, auto 
+than 1 year), 
+one job ask: 
+mechanic. 
+continue, else go 
+to next 
+module/section. 
+If CDEM.13 = 4 
+(Out of work for 
+less than 1 year) 
+ask, “What kind 
+of work did you 
+do? For example, 
+registered nurse, 
+janitor, cashier, 
+auto mechanic.” 
+Else go to next 
+module 
+What is your 
+main job? 
+MIO.02 
+What kind of 
+business or 
+industry do you 
+work in? For 
+example, 
+hospital, 
+elementary 
+school, clothing 
+manufacturing, 
+restaurant 
+_______Record 
+answer 
+99 Refused 
+If Core CDEM.13 
+= 4 (Out of work 
+for less than 1 
+year) ask, “What 
+kind of business 
+or industry did 
+you work in? For 
+example, 
+hospital, 
+elementary 
+school, clothing 
+manufacturing, 
+restaurant.” 
+Module 14: Home/ Self-measured Blood Pressure 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note (s) 
+Column(s) 
+MHBP.01 
+Has your doctor, 
+nurse or other 
+health 
+professional 
+recommended 
+you check your 
+blood pressure 
+outside of the 
+office or at 
+home? 
+1 Yes 
+2 No 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+By other healthcare 
+professional we 
+mean nurse 
+practitioner, a 
+physician assistant, 
+or some other 
+licensed health 
+professional. 
+MHBP.02 
+1 Yes 
+73 
+
+Do you regularly 
+2 No 
+Go to next 
+check your blood 
+7 Don’t know 
+module 
+pressure outside 
+/ Not sure 
+of your 
+9 Refused 
+healthcare 
+professional’s 
+office or at 
+home? 
+MHBP.03 
+Do you take it 
+1 At home 
+mostly at home 
+2 On a 
+or on a machine 
+machine at a 
+at a pharmacy, 
+pharmacy, 
+grocery or similar 
+grocery or 
+location? 
+similar 
+location 
+3 Do not 
+check it 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+MHBP.04 
+How do you share 
+Do not read: 
+your blood 
+1 Telephone 
+pressure numbers 
+2 Other 
+that you collected 
+methods such 
+with your health 
+as email, 
+professional? Is it 
+internet 
+mostly by 
+portal,  or fax, 
+telephone, other 
+or 
+methods such as 
+3 In person 
+emails, internet 
+Do not read: 
+portal or fax, or in 
+4 Do not 
+person? 
+share 
+information 
+7 Don’t know 
+/ Not sure 
+9 Refused 
+74 
+
+Module 15: Sodium or Salt-Related Behavior 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note (s) 
+Column(s) 
+MSRB.01 
+Are you 
+currently 
+watching or 
+reducing your 
+sodium or salt 
+intake? 
+1 Yes 
+2 No 
+7 Don’t 
+know/ Not 
+sure 
+9 Refused 
+MSRB.02 
+Has a doctor or 
+other health 
+professional 
+ever advised 
+you to reduce 
+sodium or salt 
+intake? 
+1 Yes 
+2 No 
+7 Don’t 
+know/ Not 
+sure 
+9 Refused 
+75 
+
+ 
+Module 16: Sexual Orientation 
+Question 
+Question text 
+Variable 
+Responses 
+Number 
+names 
+(DO NOT READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note 
+(s) 
+Column(s) 
+Prologue: The next question is about sexual orientation 
+If sex= male 
+continue, 
+otherwise 
+go to 
+MSO.02. 
+MSO.01 
+Which of the 
+following best 
+represents how 
+you think of 
+yourself? 
+1 = Gay 
+2 = Straight, 
+that is, not gay 
+3 = Bisexual 
+4 = Something 
+else 
+7 = I don't know 
+the answer 
+9 = Refused 
+Read if 
+necessary: We 
+ask this question 
+in order to better 
+understand the 
+health and health 
+care needs of 
+people with 
+different sexual 
+orientations. 
+Please say the 
+number before 
+the text 
+response. 
+Respondent can 
+answer with 
+either the 
+number or the 
+text/word. 
+76 
+
+ 
+If sex= 
+female 
+continue, 
+otherwise 
+go to next 
+module 
+MSO.02 
+Which of the 
+following best 
+represents how 
+you think of 
+yourself? 
+1 = Lesbian or 
+Gay 
+2 = Straight, 
+that is, not gay 
+3 = Bisexual 
+4 = Something 
+else 
+7 = I don't know 
+the answer 
+9 = Refused 
+. 
+Read if 
+necessary: We 
+ask this question 
+in order to better 
+understand the 
+health and health 
+care needs of 
+people with 
+different sexual 
+orientations. 
+Please say the 
+number before 
+the text 
+response. 
+Respondent can 
+answer with 
+either the 
+number or the 
+text/word. 
+77 
+
+ 
+Module 17: Marijuana Use 
+Question 
+Number 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer 
+names 
+(DO NOT READ 
+CATI Note 
+Note (s) 
+UNLESS 
+OTHERWISE 
+NOTED) 
+Column(s) 
+Prologue 
+The following questions are about marijuana or cannabis. Do not include hemp-
+based or CBD-only products in your responses. 
+MMU.01 
+During the past 30 
+days, on how 
+many days did you 
+_ _ 01-30 
+Number of days 
+Do not 
+include 
+hemp­
+88 None 
+Go to next 
+use marijuana or 
+77 Don’t 
+module 
+based CBD-
+cannabis? 
+know/not sure 
+only 
+99 Refused 
+products. 
+MMU.02 
+During the past 30 
+days, did you 
+smoke it (for 
+example, in a 
+joint, bong, pipe, 
+or blunt)? 
+1 Yes 
+2 No 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+Do not 
+include 
+hemp-
+based CBD-
+only 
+products. 
+MMU.03 
+Did you eat it or 
+drink it (for 
+example, in 
+brownies, cakes, 
+cookies, or candy, 
+or in tea, cola, or 
+alcohol)? 
+1 Yes 
+2 No 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+Do not 
+include 
+hemp-
+based CBD-
+only 
+products. 
+MMU.04 
+Did you vaporize it 
+(for example, in 
+an e-cigarette-like 
+vaporizer or 
+another 
+vaporizing device) 
+1 Yes 
+2 No 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+Do not 
+include 
+hemp-
+based CBD-
+only 
+products. 
+MMU.05 
+Did you dab it (for 
+example, using a 
+dabbing rig, knife, 
+or dab pen)? 
+1 Yes 
+2 No 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+Do not 
+include 
+hemp-
+based CBD-
+only 
+products. 
+MMU.06 
+Did you use it in 
+some other way? 
+1 Yes 
+2 No 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+Do not 
+include 
+hemp-
+based CBD-
+only 
+products. 
+78 
+
+ 
+If 
+respondent 
+answers yes 
+to only one 
+type of use, 
+skip 
+MMU.07 
+Create CATI 
+to only 
+show the 
+options of 
+use that the 
+respondents 
+chose in 
+earlier 
+questions 
+(MMU.02­
+MMU.06). 
+MMU.07 
+During the past 30 
+days, which one of 
+the following ways 
+did you use 
+marijuana the 
+most often? Did 
+you usually… 
+Read: 
+1 Smoke it (for 
+example, in a 
+joint, bong, 
+pipe, or blunt). 
+2 Eat it nor drink
+it (for example, 
+in brownies, 
+cakes, cookies, 
+or candy or in 
+tea, cola or 
+alcohol) 
+3 Vaporize it (for
+example, in an 
+e-cigarette-like 
+vaporizer or 
+another 
+vaporizing 
+device) 
+4 Dab it (for 
+example, using a
+dabbing rig, 
+knife, or dab 
+pen), or 
+5 Use it some 
+other way. 
+Do not read: 
+7 Don’t 
+know/not sure 
+9 Refused 
+Select one. 
+If 
+respondent 
+provides 
+more than 
+one say: 
+Which way 
+did you use 
+it most 
+often? 
+Do not 
+include 
+hemp-
+based CBD-
+only 
+products. 
+ 
+ 
+ 
+79 
+
+80 
+
+Module 18: Adverse Childhood Experiences 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP 
+INFO/ 
+CATI 
+Note 
+Interviewer 
+Note (s) 
+Column(s) 
+Prologue: I'd like to ask you some questions about events that happened during your childhood. This 
+information will allow us to better understand problems that may occur early in life and may help others 
+in the future. This is a sensitive topic and some people may feel uncomfortable with these questions. At 
+the end of this section, I will give you a phone number for an organization that can provide information 
+and referral for these issues. Please keep in mind that you can ask me to skip any question you do not 
+want to answer. All questions refer to the time period before you were 18 years of age. Now, looking 
+back before you were 18 years of age---. 
+Be aware of the 
+level of stress 
+introduced by 
+questions in this 
+section and be 
+familiar with the 
+crisis plan. 
+MACE.01 
+1) Did you live 
+with anyone who 
+was depressed, 
+mentally ill, or 
+suicidal? 
+1 Yes 
+2 No 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+MACE.02 
+Did you live with 
+anyone who was 
+a problem drinker 
+or alcoholic? 
+1 Yes 
+2 No 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+MACE.03 
+Did you live with 
+anyone who used 
+illegal street 
+drugs or who 
+abused 
+prescription 
+medications? 
+1 Yes 
+2 No 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+MACE.04 
+Did you live with 
+anyone who 
+served time or 
+was sentenced to 
+serve time in a 
+prison, jail, or 
+1 Yes 
+2 No 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+81 
+
+ 
+other correctional 
+facility? 
+MACE.05 
+Were your 
+parents 
+separated or 
+divorced? 
+1 Yes 
+2 No 
+8 Parents not 
+married 
+7 Don’t 
+Know/Not Sure 
+9 Refused 
+MACE.06 
+How often did 
+your parents or 
+adults in your 
+home ever slap, 
+hit, kick, punch or 
+beat each other 
+up? 
+Was it… 
+Read: 
+1 Never 
+2 Once 
+3 More than 
+once 
+Don’t Read: 
+7 Don’t 
+know/Not Sure 
+9 Refused 
+MACE.07 
+Not including 
+Read: 
+1 Never 
+2 Once 
+3 More than 
+once 
+Don’t Read: 
+7 Don’t 
+know/Not Sure 
+9 Refused 
+spanking, (before 
+age 18), how 
+often did a parent 
+or adult in your 
+home ever hit, 
+beat, kick, or 
+physically hurt 
+you in any way? 
+Was it— 
+MACE.08 
+How often did a 
+parent or adult in 
+your home ever 
+swear at you, 
+insult you, or put 
+you down? Was 
+it… 
+Read: 
+1 Never 
+2 Once 
+3 More than 
+once 
+Don’t Read: 
+7 Don’t 
+know/Not Sure 
+9 Refused 
+82 
+
+ 
+MACE.09 
+How often did 
+anyone at least 5 
+years older than 
+you or an adult, 
+ever touch you 
+sexually? Was it… 
+Read: 
+1 Never 
+2 Once 
+3 More than 
+once 
+Don’t Read: 
+7 Don’t 
+know/Not Sure 
+9 Refused 
+MACE.10 
+How often did 
+anyone at least 5 
+years older than 
+you or an adult, 
+try to make you 
+touch them 
+sexually? Was it… 
+Read: 
+1 Never 
+2 Once 
+3 More than 
+once 
+Don’t Read: 
+7 Don’t 
+know/Not Sure 
+9 Refused 
+MACE.11 
+How often did 
+anyone at least 5 
+years older than 
+you or an adult, 
+force you to have 
+sex? Was it… 
+Read: 
+1 Never 
+2 Once 
+3 More than 
+once 
+Don’t Read: 
+7 Don’t 
+know/Not Sure 
+9 Refused 
+MACE.12 For how much of 
+your childhood 
+was there an 
+adult in your 
+household who 
+made you feel 
+safe and 
+protected? 
+Would you say 
+never, a little of 
+the time, some 
+of the time, most 
+of the time, or all 
+of the time? 
+1. Never 
+2. A little of the 
+time 
+3. Some of the 
+time 
+4. Most of the 
+time 
+5. All of the 
+time 
+7 Don’t 
+Know/Not sure 
+9 Refused 
+83 
+
+MACE.13 
+Would you like 
+for me to provide 
+a toll-free 
+number for an 
+organization that 
+can provide 
+information and 
+referral for the 
+issues in the last 
+few questions. 
+If yes provide 
+number [STATE 
+TO INSERT 
+NUMBER HERE] 
+For how much of 
+your childhood 
+was there an 
+adult in your 
+household who 
+tried hard to 
+make sure your 
+basic needs were 
+met? Would you 
+say never, a little 
+of the time, 
+some of the 
+time, most of the 
+time, or all of the 
+time? 
+1. Never 
+2. A little of the 
+time 
+3. Some of the 
+time 
+4. Most of the 
+time 
+5. All of the time
+7 Don’t 
+Know/Not sure 
+9 Refused 
+84 
+
+ 
+Module 19: Family Planning 
+Question 
+Number 
+Question 
+Responses 
+SKIP INFO/ CATI Note 
+Interviewer 
+Column( 
+text 
+(DO NOT 
+Note (s) 
+s) 
+READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+If respondent greater 
+than 49 years of age, IS 
+CDEM.16 (PREGNANT), 
+or if respondent is male, 
+GO TO THE NEXT 
+MODULE 
+PROLOG 
+UE 
+The next set of questions asks you about your experiences preventing pregnancy and using birth 
+control, also known as family planning. Questions that ask about sexual intercourse are referring to 
+sex where a penis is inserted into the vagina. 
+MFP.01 
+In the past 
+12 months, 
+did you 
+have sexual 
+intercourse 
+? 
+1 Yes 
+2 No 
+7 Don’t 
+know/ not 
+sure 
+9 Refused 
+Go to next module 
+MFP.02 
+Some 
+things 
+people do 
+to keep 
+from 
+getting 
+pregnant 
+include not 
+having sex 
+at certain 
+1 Yes 
+. 
+2 No 
+GO TO MFP.04 
+7 Don’t 
+know/ not 
+sure 
+9 Refused 
+Go to next module 
+85 
+
+ 
+times of 
+the month, 
+pulling out, 
+using birth 
+control 
+methods 
+such as the 
+pill, 
+implant, 
+shots, 
+condoms, 
+or IUD, 
+having 
+their tubes 
+tied, or 
+having a 
+vasectomy. 
+The last 
+time you 
+had sexual 
+intercourse 
+, did you or 
+your 
+partner do 
+anything to 
+keep you 
+from 
+getting 
+pregnant? 
+MFP.03 
+The last 
+Read if 
+Go to next module 
+If respondent 
+time you 
+necessary: 
+reports using 
+had sexual 
+01 Female 
+two methods, 
+intercourse 
+sterilization 
+please code 
+, what did 
+(Tubal 
+the method 
+you or your 
+ligation, 
+that occurs 
+partner do 
+Essure, or 
+first on the 
+to keep 
+Adiana) 
+list. 
+you from 
+02 Male 
+getting 
+sterilization 
+If respondent 
+pregnant? 
+(vasectomy) 
+reports using 
+03 
+“pills”, ask 
+Contraceptiv 
+respondent to 
+e implant 
+clarify 
+(Implanon, 
+between 
+Nexplanon) 
+prescription 
+04 
+birth control 
+Intrauterine 
+pills and over 
+device or IUD 
+the counter 
+(Mirena, 
+birth control 
+Liletta, Skyla, 
+pills. 
+86 
+
+ 
+Kyleena, 
+Levonorgestr 
+If respondent 
+el IUD, 
+reports “other 
+ParaGard, 
+method,” ask 
+copper IUD) 
+respondent to 
+05 Shots 
+“please be 
+(Depo­
+specific” and 
+Provera) 
+ensure that 
+06 
+their response 
+Prescription 
+does not fit 
+birth control 
+into another 
+pills, 
+category.  If 
+Contraceptiv 
+response does 
+e Ring 
+fit into 
+(NuvaRing, 
+another 
+ElyRyng, 
+category, 
+Annovera), 
+please mark 
+Contraceptiv 
+appropriately. 
+e patch 
+(Ortho Evra, 
+Xulane, 
+Twirla, 
+Zafemy) 
+07 Over the 
+counter birth 
+control pills 
+(Opill) 
+08 Condoms 
+(male or 
+female) 
+09 
+Diaphragm, 
+vaginal gel 
+(Phexxi), 
+cervical cap, 
+sponge, 
+foam, jelly, 
+film, or 
+cream 
+10 Had sex at 
+a time when 
+less likely to 
+get pregnant 
+(rhythm 
+method, 
+natural 
+family 
+planning, 
+apps for 
+87 
+
+ 
+contraceptio 
+n) 
+11 
+Withdrawal 
+or pulling out 
+12 
+Emergency 
+contraceptio 
+n or the 
+morning 
+after pill 
+(such as Plan 
+B or ella) 
+13 Other 
+method 
+Do not read: 
+77 Don’t 
+know/Not 
+sure 
+99 Refused 
+MFP.04 
+Some 
+reasons 
+people 
+might not 
+do 
+anything to 
+keep from 
+getting 
+pregnant 
+might 
+include 
+wanting a 
+pregnancy, 
+not being 
+able to pay 
+for birth 
+control, or 
+not 
+thinking 
+that they 
+can get 
+pregnant. 
+What was 
+your main 
+reason for 
+not doing 
+anything to 
+prevent 
+pregnancy 
+the last 
+Read if 
+necessary 
+01 You didn’t 
+think you 
+were going 
+to have 
+sex/no 
+regular 
+partner 
+02 You just 
+didn’t think 
+about it 
+03 You 
+wanted a 
+pregnancy 
+04 You didn’t 
+care if you 
+got pregnant 
+05 You or 
+your partner 
+didn’t want 
+to use birth 
+control (side 
+effects, don’t 
+like birth 
+control) 
+06 You had 
+trouble 
+getting or 
+paying for 
+If respondent 
+reports “other 
+reason,” ask 
+respondent to 
+“please 
+specify” and 
+ensure that 
+their response 
+does not fit 
+into another 
+category.  If 
+response does 
+fit into 
+another 
+category, 
+please mark 
+appropriately. 
+88 
+
+ 
+time you 
+had sexual 
+intercourse 
+? 
+birth control 
+07 You didn’t 
+trust giving 
+out your 
+personal 
+information 
+to medical 
+personnel 
+08 Didn’t 
+think you or 
+your partner 
+could get 
+pregnant 
+(infertile or 
+too old) 
+09 You were 
+using 
+withdrawal 
+or “pulling 
+out” 
+10 You had 
+your tubes 
+tied 
+(sterilization) 
+11 Your 
+partner had a 
+vasectomy 
+(sterilization) 
+12 You were 
+breast­
+feeding or 
+you just had 
+a baby 
+14 Other 
+reasons 
+Do not read: 
+77 Don’t 
+know/Not 
+sure 
+99 Refused 
+89 
+
+ 
+Module 20: HPV - Vaccination 
+Question 
+Question text 
+Variable 
+Responses 
+SKIP INFO/ 
+Interviewer Note (s) 
+Columns 
+Number 
+names 
+(DO NOT 
+CATI Note 
+READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+To be asked 
+of 
+respondents 
+between the 
+ages of 18 
+and 49 years 
+otherwise, 
+go to next 
+module 
+MHPV.01 Have you 
+ever had an 
+1 Yes 
+Human Papillomavirus 
+2 No 
+Go to next 
+H.P.V. 
+3 Doctor 
+module 
+(Human Pap·uh·loh·muh 
+vaccination? 
+refused 
+virus); Gardasil 
+when asked 
+(Gar·duh· seel); Cervarix 
+7 Don’t 
+(Sir·var· icks) 
+know / Not 
+sure 
+Read if necessary: A 
+9 Refused 
+vaccine to prevent the 
+human papillomavirus 
+or H.P.V. infection is 
+available and is called 
+the cervical cancer or 
+genital warts vaccine, 
+H.P.V. shot, [Fill: if 
+female GARDASIL or 
+CERVARIX; if male: 
+GARDASIL].  
+If respondent 
+comments that this 
+question was already 
+asked, clarify that the 
+earlier question was 
+about HPV testing, 
+and this question is 
+about vaccination. 
+90 
+
+ 
+MHPV.02 How many 
+H.P.V. shots 
+did you 
+receive? 
+_ _ Number 
+of shots (1­
+2) 
+3 All shots 
+77 Don’t 
+know / Not 
+sure 
+99 Refused 
+91 
+
+ 
+Module 21: Shingles Vaccination 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note (s) 
+Column(s) 
+If age ≤ 49 
+Go to next 
+module. 
+MSHNG.01 Have you ever 
+had the 
+shingles or 
+zoster 
+vaccine? 
+1 Yes 
+2 No 
+7 Don’t know / 
+Not sure 
+9 Refused 
+Shingles is an illness 
+that results in a rash 
+or blisters on the 
+skin and is usually 
+painful. There are 
+two vaccines that 
+have been used for 
+shingles. The first 
+was Zostavax®, 
+which required one 
+shot and was 
+available in the U.S. 
+from 2006 through 
+2020. The other is 
+Shingrix, which been 
+available since 2017 
+and requires two 
+shots. 
+92 
+
+ 
+Module 22: COVID Vaccination 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer 
+Note (s) 
+Comments 
+MCOV.01 
+Have you received at 
+least one dose of a 
+COVID-19 
+vaccination? 
+1 Yes 
+Go to 
+MCOV.02 
+2 No 
+Go to next 
+section 
+7 Don’t 
+know / Not 
+sure 
+9 Refused 
+Go to next 
+section 
+MCOV.02 
+During what month 
+and year did you 
+receive your most 
+recent COVID-19 
+vaccine? 
+_ _ / _ _ _ _ 
+Month / Year 
+77/7777 = 
+Don’t 
+know/Not 
+sure 
+99/9999 = 
+Refused 
+Go to next 
+section 
+Module 23: Social Determinants 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+OTHERWISE 
+NOTED) 
+SKIP INFO/ 
+CATI Note 
+Interviewer 
+Note (s) 
+Column(s) 
+MSDHE.01 In general, how 
+satisfied are you 
+with your life? 
+Are you.. 
+Read: 
+1 Very 
+satisfied 
+2 Satisfied 
+3 Dissatisfied 
+4 Very 
+dissatisfied 
+7 Don’t 
+know/not 
+sure 
+9 Refused 
+93 
+
+ 
+MSDHE.02 How often do 
+you get the 
+social and 
+emotional 
+support that you 
+need? Is that… 
+Read: 
+1 Always 
+2 Usually 
+3 Sometimes 
+4 Rarely 
+5 Never 
+7 Don’t 
+know/not 
+sure 
+9 Refused 
+MSDHE.03 How often do 
+you feel lonely? 
+Is it… 
+Read: 
+1 Always 
+2 Usually 
+3 Sometimes 
+4 Rarely 
+5 Never 
+7 Don’t 
+know/not 
+sure 
+9 Refused 
+MSDHE.04 In the past 12 
+months have 
+you lost 
+employment or 
+had hours 
+reduced? 
+1 Yes 
+2 No 
+7 Don’t 
+Know/ Not 
+sure 
+9 Refused 
+MSDHE.05 During the past 
+1 Yes 
+2 No 
+7 Don’t 
+Know/ Not 
+sure 
+9 Refused 
+12 months, have 
+you received 
+food stamps, 
+also called SNAP, 
+the 
+Supplemental 
+Nutrition 
+Assistance 
+Program on an 
+EBT card? 
+MSDHE.06 During the past 
+12 months how 
+often did the 
+food that you 
+bought not last, 
+and you didn’t 
+Read: 
+1 Always 
+2 Usually 
+3 Sometimes 
+4 Rarely 
+5 Never 
+94 
+
+ 
+have money to 
+get more? Was 
+that… 
+7 Don’t 
+know/not 
+sure 
+9 Refused 
+MSDHE.07 During the last 
+1 Yes 
+2 No 
+7 Don’t 
+Know/ Not 
+sure 
+9 Refused 
+12 months, was 
+there a time 
+when you were 
+not able to pay 
+your mortgage, 
+rent or utility 
+bills? 
+MSDHE.08 During the last 
+12 months was 
+there a time 
+when an 
+electric, gas, oil, 
+or water 
+company 
+threatened to 
+shut off 
+services? 
+1 Yes 
+2 No 
+7 Don’t 
+Know/ Not 
+sure 
+9 Refused 
+MSDHE.09 During the past 
+1 Yes 
+2 No 
+7 Don’t 
+Know/ Not 
+sure 
+9 Refused 
+12 months has a 
+lack of reliable 
+transportation 
+kept you from 
+medical 
+appointments, 
+meetings, work, 
+or from getting 
+things needed 
+for daily living? 
+95 
+
+ 
+MSDHE.10 How safe from 
+crime do you 
+consider your 
+neighborhood to 
+be? Would you 
+say… 
+Read: 
+1 Extremely 
+safe 
+2 Safe 
+3 Unsafe 
+4 Extremely 
+unsafe 
+7 Don’t 
+know/not 
+sure 
+9 Refused 
+Module 24: Random Child Selection 
+Question 
+Question 
+Number 
+text 
+Variable 
+names 
+Responses 
+SKIP INFO/ 
+CATI Note 
+(DO NOT READ 
+UNLESS 
+OTHERWISE 
+NOTED) 
+Interviewer 
+Note (s) 
+Column(s) 
+Intro text 
+and 
+screening 
+If CDEM.14 
+If CDEM.14 = 
+= 1, 
+88, or 99 (No 
+Interviewer 
+children under 
+please read: 
+age 18 in the 
+Previously, 
+household, or 
+you 
+Refused), go to 
+indicated 
+next module. 
+there was 
+one child 
+CATI 
+age 17 or 
+INSTRUCTION: 
+younger in 
+RANDOMLY 
+your 
+SELECT ONE 
+household. 
+OF THE 
+I would like 
+CHILDREN. 
+to ask you 
+This is the Xth 
+some 
+child. Please 
+questions 
+substitute Xth 
+about that 
+child’s number 
+child. 
+in all questions 
+below. 
+If CDEM.14 
+INTERVIEWER 
+is >1 and 
+PLEASE READ: I 
+CDEM.14 
+have some 
+96 
+
+ 
+does not 
+additional 
+equal 88 or 
+questions 
+99, 
+about one 
+Interviewer 
+specific child. 
+please read: 
+The child I will 
+Previously, 
+be referring to 
+you 
+is the Xth 
+indicated 
+[CATI: please 
+there were 
+fill in correct 
+[number] 
+number] child 
+children age 
+in your 
+17 or 
+household. All 
+younger in 
+following 
+your 
+questions 
+household. 
+about children 
+Think about 
+will be about 
+those 
+the Xth [CATI: 
+[number] 
+please fill in] 
+children in 
+child. 
+order of 
+their birth, 
+from oldest 
+to youngest.
+The oldest 
+child is the 
+first child 
+and the 
+youngest 
+child is the 
+last. Please 
+include 
+children 
+with the 
+same birth 
+date, 
+including 
+twins, in the 
+order of 
+their birth. 
+  
+MRCS.01 
+What is the 
+_ _ /_ _ _ _ Code 
+birth month 
+month and year 
+and year of 
+77/ 7777 Don’t 
+the [Xth] 
+know / Not sure 
+child? 
+99/ 9999 
+Refused 
+MRCS.02 
+Is the child a 
+1 Boy 
+boy or a 
+2 Girl 
+girl? 
+9 Refused 
+97 
+
+ 
+MRCS.03 
+Is the child 
+Hispanic, 
+Latino/a, or 
+Spanish 
+origin? 
+Read if response 
+If yes, ask: Are 
+they… 
+is yes: 
+1 Mexican, 
+Mexican 
+American, 
+Chicano/a 
+2 Puerto Rican 
+3 Cuban 
+4 Another 
+Hispanic, 
+Latino/a, or 
+Spanish origin 
+Do not read: 
+5 No 
+7 Don’t know / 
+Not sure 
+9 Refused 
+MRCS.04 
+Which one 
+or more of 
+the 
+following 
+would you 
+say is the 
+race of the 
+child? 
+10 White 
+20 Black or 
+African 
+American 
+30 American 
+Indian or Alaska 
+Native 
+40 Asian 
+41 Asian Indian 
+42 Chinese 
+43 Filipino 
+44 Japanese 
+45 Korean 
+46 Vietnamese 
+47 Other Asian 
+50 Pacific 
+Islander 
+51 Native 
+Hawaiian 
+52 Guamanian 
+or Chamorro 
+53 Samoan 
+54 Other Pacific 
+Islander 
+Do not read: 
+60 Other 
+88 No additional 
+choices 
+77 Don’t know / 
+Not sure 
+99 Refused 
+Select all that 
+apply 
+If 40 (Asian) or 
+50 (Pacific 
+Islander) is 
+selected read 
+and code 
+subcategories 
+underneath 
+major heading. 
+98 
+
+ 
+MRCS.05 
+How are you 
+related to 
+the child? 
+Are you a--
+Please read: 
+1 Parent 
+(include 
+biologic, step, or 
+adoptive parent) 
+2 Grandparent 
+3 Foster parent 
+or guardian 
+4 Sibling 
+(include 
+biologic, step, 
+and adoptive 
+sibling) 
+5 Other relative 
+6 Not related in 
+any way 
+Do not read: 
+7 Don’t know / 
+Not sure 
+9 Refused 
+Module 25: Childhood Asthma Prevalence 
+Question 
+Number 
+Question text 
+Variable 
+names 
+Responses 
+(DO NOT 
+READ UNLESS 
+SKIP INFO/ 
+CATI Note 
+Interviewer Note 
+(s) 
+Column(s) 
+OTHERWISE 
+NOTED) 
+If response to 
+CDEM.14 = 
+88 (None) or 
+99 (Refused), 
+go to next 
+module. 
+MCAP.01 
+The next two 
+questions are 
+about the Xth 
+1 Yes 
+Fill in correct 
+[Xth] 
+number. 
+child. 
+Has a doctor, 
+nurse or other 
+health 
+professional 
+EVER said that 
+2 No 
+7 Don’t know/ 
+not sure 
+9 Refused 
+Go to next 
+module 
+99 
+
+ 
+the child has 
+asthma? 
+MCAP.02 
+Does the child 
+1 Yes 
+still have 
+2 No 
+asthma? 
+7 Don’t know/ 
+not sure 
+9 Refused 
+Closing Statement 
+Read 
+That was my last question. Everyone’s answers will be combined to help us provide information about the 
+health practices of people in this state. Thank you very much for your time and cooperation. 
+100 

@@ -1,0 +1,337 @@
+year,state,questionnaire,disposition,category,n,domain_n,weighted_pct
+2025,Alaska,10.0,Completed,Complete eye pair,124,144,89.3037350006787
+2025,Alaska,10.0,Completed,Explicit eye unknown or refusal,20,144,10.696264999321317
+2025,Alaska,10.0,Partial,Complete eye pair,10,13,65.2239255912611
+2025,Alaska,10.0,Partial,Explicit eye unknown or refusal,3,13,34.7760744087389
+2025,Alaska,20.0,Completed,Complete eye pair,372,403,92.16498398723019
+2025,Alaska,20.0,Completed,Explicit eye unknown or refusal,31,403,7.835016012769811
+2025,Alaska,20.0,Partial,All module fields blank,7,59,17.491854159861038
+2025,Alaska,20.0,Partial,Complete eye pair,44,59,74.0388849224198
+2025,Alaska,20.0,Partial,Explicit eye unknown or refusal,8,59,8.469260917719152
+2025,Delaware,10.0,Completed,Complete eye pair,186,202,88.40392623703428
+2025,Delaware,10.0,Completed,Explicit eye unknown or refusal,16,202,11.596073762965714
+2025,Delaware,10.0,Partial,All module fields blank,35,42,88.9749920955873
+2025,Delaware,10.0,Partial,Complete eye pair,6,42,10.122027392233615
+2025,Delaware,10.0,Partial,Explicit eye unknown or refusal,1,42,0.902980512179098
+2025,Delaware,20.0,Completed,Complete eye pair,308,336,91.9453242988172
+2025,Delaware,20.0,Completed,Explicit eye unknown or refusal,28,336,8.054675701182786
+2025,Delaware,20.0,Partial,All module fields blank,77,107,64.3272871324106
+2025,Delaware,20.0,Partial,Both eyes blank with other module data,3,107,1.4654269179229469
+2025,Delaware,20.0,Partial,Complete eye pair,23,107,27.919365590400034
+2025,Delaware,20.0,Partial,Explicit eye unknown or refusal,4,107,6.287920359266413
+2025,Georgia,10.0,Completed,Complete eye pair,244,278,89.9200642421163
+2025,Georgia,10.0,Completed,Explicit eye unknown or refusal,34,278,10.079935757883687
+2025,Georgia,10.0,Partial,Complete eye pair,30,35,89.83358616277077
+2025,Georgia,10.0,Partial,Explicit eye unknown or refusal,5,35,10.166413837229252
+2025,Georgia,20.0,Completed,Complete eye pair,530,589,89.84404708298514
+2025,Georgia,20.0,Completed,Explicit eye unknown or refusal,59,589,10.155952917014854
+2025,Georgia,20.0,Partial,All module fields blank,49,132,40.92597979917241
+2025,Georgia,20.0,Partial,Complete eye pair,72,132,49.01521104293755
+2025,Georgia,20.0,Partial,Explicit eye unknown or refusal,11,132,10.058809157890028
+2025,Illinois,10.0,Completed,Complete eye pair,198,220,91.10282514108226
+2025,Illinois,10.0,Completed,Explicit eye unknown or refusal,22,220,8.897174858917746
+2025,Illinois,10.0,Partial,Complete eye pair,18,20,92.99343837808354
+2025,Illinois,10.0,Partial,Explicit eye unknown or refusal,2,20,7.00656162191648
+2025,Illinois,20.0,Completed,All module fields blank,1,1139,0.09902561740651651
+2025,Illinois,20.0,Completed,Complete eye pair,1072,1139,93.61066707133425
+2025,Illinois,20.0,Completed,Explicit eye unknown or refusal,66,1139,6.290307311259224
+2025,Illinois,20.0,Partial,All module fields blank,35,171,16.66631506613136
+2025,Illinois,20.0,Partial,Complete eye pair,129,171,79.8498103560106
+2025,Illinois,20.0,Partial,Explicit eye unknown or refusal,7,171,3.4838745778580478
+2025,Indiana,10.0,Completed,Complete eye pair,118,140,81.57657364268829
+2025,Indiana,10.0,Completed,Explicit eye unknown or refusal,22,140,18.423426357311758
+2025,Indiana,10.0,Partial,Complete eye pair,17,20,78.30957075157468
+2025,Indiana,10.0,Partial,Explicit eye unknown or refusal,3,20,21.690429248425325
+2025,Indiana,20.0,Completed,Complete eye pair,674,750,90.66647394851309
+2025,Indiana,20.0,Completed,Explicit eye unknown or refusal,76,750,9.333526051486915
+2025,Indiana,20.0,Partial,All module fields blank,33,157,26.155090570025695
+2025,Indiana,20.0,Partial,Complete eye pair,108,157,65.32952594735158
+2025,Indiana,20.0,Partial,Explicit eye unknown or refusal,16,157,8.515383482622704
+2025,Iowa,10.0,Completed,Complete eye pair,174,202,87.98044644938847
+2025,Iowa,10.0,Completed,Explicit eye unknown or refusal,28,202,12.019553550611526
+2025,Iowa,10.0,Partial,Complete eye pair,16,22,72.78709122485412
+2025,Iowa,10.0,Partial,Explicit eye unknown or refusal,6,22,27.212908775145905
+2025,Iowa,20.0,Completed,Complete eye pair,733,794,91.94433744801496
+2025,Iowa,20.0,Completed,Explicit eye unknown or refusal,61,794,8.055662551985048
+2025,Iowa,20.0,Partial,All module fields blank,27,107,21.40532780198564
+2025,Iowa,20.0,Partial,Complete eye pair,67,107,68.73559738628059
+2025,Iowa,20.0,Partial,Explicit eye unknown or refusal,13,107,9.859074811733764
+2025,Maine,11.0,Completed,Complete eye pair,148,172,91.06942190292848
+2025,Maine,11.0,Completed,Explicit eye unknown or refusal,24,172,8.93057809707152
+2025,Maine,11.0,Partial,Complete eye pair,21,29,86.47790493847012
+2025,Maine,11.0,Partial,Explicit eye unknown or refusal,8,29,13.522095061529882
+2025,Maine,12.0,Completed,Complete eye pair,167,199,84.38386897100355
+2025,Maine,12.0,Completed,Explicit eye unknown or refusal,32,199,15.61613102899645
+2025,Maine,12.0,Partial,Complete eye pair,24,28,88.70962204588575
+2025,Maine,12.0,Partial,Explicit eye unknown or refusal,4,28,11.29037795411426
+2025,Maine,20.0,Completed,All module fields blank,1,1,100.0
+2025,Maine,20.0,Partial,All module fields blank,10,10,100.00000000000001
+2025,Maine,21.0,Completed,Complete eye pair,453,513,88.80481412492098
+2025,Maine,21.0,Completed,Explicit eye unknown or refusal,60,513,11.195185875079035
+2025,Maine,21.0,Partial,Complete eye pair,98,116,86.91885635076176
+2025,Maine,21.0,Partial,Explicit eye unknown or refusal,18,116,13.081143649238252
+2025,Maine,22.0,Completed,Complete eye pair,406,488,87.21225407135984
+2025,Maine,22.0,Completed,Explicit eye unknown or refusal,82,488,12.787745928640174
+2025,Maine,22.0,Partial,Complete eye pair,108,132,84.12859442305982
+2025,Maine,22.0,Partial,Explicit eye unknown or refusal,24,132,15.87140557694017
+2025,Michigan,11.0,Completed,Complete eye pair,145,180,80.22263428970453
+2025,Michigan,11.0,Completed,Explicit eye unknown or refusal,35,180,19.777365710295474
+2025,Michigan,11.0,Partial,Complete eye pair,10,14,75.82646769078748
+2025,Michigan,11.0,Partial,Explicit eye unknown or refusal,4,14,24.17353230921251
+2025,Michigan,12.0,Completed,Complete eye pair,156,191,83.9966147136834
+2025,Michigan,12.0,Completed,Explicit eye unknown or refusal,35,191,16.003385286316604
+2025,Michigan,12.0,Partial,Complete eye pair,18,23,75.65516907013196
+2025,Michigan,12.0,Partial,Explicit eye unknown or refusal,5,23,24.344830929868067
+2025,Michigan,13.0,Completed,Complete eye pair,172,197,87.54707464514021
+2025,Michigan,13.0,Completed,Explicit eye unknown or refusal,25,197,12.452925354859799
+2025,Michigan,13.0,Partial,Complete eye pair,11,16,76.48408172867332
+2025,Michigan,13.0,Partial,Explicit eye unknown or refusal,5,16,23.51591827132669
+2025,Michigan,20.0,Completed,All module fields blank,1,1,100.0
+2025,Michigan,20.0,Partial,All module fields blank,20,20,100.0
+2025,Michigan,21.0,Completed,Complete eye pair,227,265,84.99947382390968
+2025,Michigan,21.0,Completed,Explicit eye unknown or refusal,38,265,15.000526176090318
+2025,Michigan,21.0,Partial,Complete eye pair,55,62,88.08305874377906
+2025,Michigan,21.0,Partial,Explicit eye unknown or refusal,7,62,11.916941256220927
+2025,Michigan,22.0,Completed,Complete eye pair,223,249,90.567194579684
+2025,Michigan,22.0,Completed,Explicit eye unknown or refusal,26,249,9.432805420316026
+2025,Michigan,22.0,Partial,Complete eye pair,34,41,84.24107827144557
+2025,Michigan,22.0,Partial,Explicit eye unknown or refusal,7,41,15.758921728554432
+2025,Michigan,23.0,Completed,Complete eye pair,261,292,89.01320022039998
+2025,Michigan,23.0,Completed,Explicit eye unknown or refusal,31,292,10.986799779600025
+2025,Michigan,23.0,Partial,Complete eye pair,37,42,88.5883068374243
+2025,Michigan,23.0,Partial,Explicit eye unknown or refusal,5,42,11.4116931625757
+2025,Missouri,10.0,Completed,Complete eye pair,165,194,86.90002765526448
+2025,Missouri,10.0,Completed,Explicit eye unknown or refusal,29,194,13.09997234473555
+2025,Missouri,10.0,Partial,Complete eye pair,11,14,81.3579439386939
+2025,Missouri,10.0,Partial,Explicit eye unknown or refusal,3,14,18.64205606130611
+2025,Missouri,20.0,Completed,Complete eye pair,456,537,88.48648067108932
+2025,Missouri,20.0,Completed,Explicit eye unknown or refusal,81,537,11.513519328910663
+2025,Missouri,20.0,Partial,All module fields blank,52,84,66.27371772304355
+2025,Missouri,20.0,Partial,Complete eye pair,26,84,29.807054857180862
+2025,Missouri,20.0,Partial,Explicit eye unknown or refusal,6,84,3.9192274197755594
+2025,Montana,10.0,Completed,Complete eye pair,157,178,85.96438206503242
+2025,Montana,10.0,Completed,Explicit eye unknown or refusal,21,178,14.035617934967574
+2025,Montana,10.0,Partial,Complete eye pair,17,17,100.0
+2025,Montana,20.0,Completed,Complete eye pair,389,441,87.3819770920137
+2025,Montana,20.0,Completed,Explicit eye unknown or refusal,52,441,12.618022907986315
+2025,Montana,20.0,Partial,All module fields blank,6,52,9.978711936912013
+2025,Montana,20.0,Partial,Complete eye pair,36,52,60.56766416424035
+2025,Montana,20.0,Partial,Explicit eye unknown or refusal,10,52,29.45362389884763
+2025,New Hampshire,10.0,Completed,Complete eye pair,410,462,91.19048130320937
+2025,New Hampshire,10.0,Completed,Explicit eye unknown or refusal,52,462,8.809518696790642
+2025,New Hampshire,10.0,Partial,Complete eye pair,40,45,84.95579685281852
+2025,New Hampshire,10.0,Partial,Explicit eye unknown or refusal,5,45,15.044203147181468
+2025,New Hampshire,20.0,Completed,Complete eye pair,262,291,90.35175163472773
+2025,New Hampshire,20.0,Completed,Explicit eye unknown or refusal,29,291,9.648248365272242
+2025,New Hampshire,20.0,Partial,All module fields blank,8,49,12.016302789236581
+2025,New Hampshire,20.0,Partial,Complete eye pair,35,49,78.4563900952094
+2025,New Hampshire,20.0,Partial,Explicit eye unknown or refusal,6,49,9.527307115554011
+2025,New Jersey,10.0,Completed,Complete eye pair,93,111,82.83573906290887
+2025,New Jersey,10.0,Completed,Explicit eye unknown or refusal,18,111,17.164260937091115
+2025,New Jersey,10.0,Partial,Complete eye pair,18,20,97.89097617522596
+2025,New Jersey,10.0,Partial,Explicit eye unknown or refusal,2,20,2.1090238247740407
+2025,New Jersey,20.0,Completed,Complete eye pair,514,582,88.85413865203382
+2025,New Jersey,20.0,Completed,Explicit eye unknown or refusal,68,582,11.145861347966166
+2025,New Jersey,20.0,Partial,All module fields blank,28,152,24.106405855529065
+2025,New Jersey,20.0,Partial,Complete eye pair,110,152,68.0577963504076
+2025,New Jersey,20.0,Partial,Explicit eye unknown or refusal,14,152,7.835797794063347
+2025,New Mexico,10.0,Completed,Complete eye pair,49,56,64.74676629452162
+2025,New Mexico,10.0,Completed,Explicit eye unknown or refusal,7,56,35.25323370547838
+2025,New Mexico,10.0,Partial,Complete eye pair,15,16,96.38430445569826
+2025,New Mexico,10.0,Partial,Explicit eye unknown or refusal,1,16,3.615695544301739
+2025,New Mexico,20.0,Completed,Complete eye pair,292,323,90.21071895738562
+2025,New Mexico,20.0,Completed,Explicit eye unknown or refusal,31,323,9.789281042614364
+2025,New Mexico,20.0,Partial,All module fields blank,20,109,24.451498034377405
+2025,New Mexico,20.0,Partial,Complete eye pair,82,109,69.02737554016412
+2025,New Mexico,20.0,Partial,Explicit eye unknown or refusal,7,109,6.521126425458479
+2025,North Carolina,10.0,Completed,Complete eye pair,80,96,88.41237234474588
+2025,North Carolina,10.0,Completed,Explicit eye unknown or refusal,16,96,11.587627655254114
+2025,North Carolina,10.0,Partial,Complete eye pair,4,6,61.5378489356604
+2025,North Carolina,10.0,Partial,Explicit eye unknown or refusal,2,6,38.4621510643396
+2025,North Carolina,20.0,Completed,All module fields blank,1,344,0.21000538156991064
+2025,North Carolina,20.0,Completed,Complete eye pair,303,344,89.50394937424463
+2025,North Carolina,20.0,Completed,Explicit eye unknown or refusal,40,344,10.286045244185452
+2025,North Carolina,20.0,Partial,All module fields blank,43,68,49.75675421759721
+2025,North Carolina,20.0,Partial,Complete eye pair,25,68,50.2432457824028
+2025,North Dakota,10.0,Completed,Complete eye pair,171,200,83.39695340095915
+2025,North Dakota,10.0,Completed,Explicit eye unknown or refusal,29,200,16.603046599040866
+2025,North Dakota,10.0,Partial,Complete eye pair,24,27,78.88080820379824
+2025,North Dakota,10.0,Partial,Explicit eye unknown or refusal,3,27,21.11919179620178
+2025,North Dakota,20.0,Completed,Complete eye pair,455,512,87.09305567187904
+2025,North Dakota,20.0,Completed,Explicit eye unknown or refusal,57,512,12.906944328120959
+2025,North Dakota,20.0,Partial,All module fields blank,17,88,24.936562831669292
+2025,North Dakota,20.0,Partial,Complete eye pair,58,88,61.95609433420163
+2025,North Dakota,20.0,Partial,Explicit eye unknown or refusal,13,88,13.10734283412908
+2025,Tennessee,10.0,Completed,Complete eye pair,160,191,84.98118903148249
+2025,Tennessee,10.0,Completed,Explicit eye unknown or refusal,31,191,15.018810968517517
+2025,Tennessee,10.0,Partial,Complete eye pair,12,17,53.437574731445494
+2025,Tennessee,10.0,Partial,Explicit eye unknown or refusal,5,17,46.562425268554506
+2025,Tennessee,20.0,Completed,Complete eye pair,517,616,83.75718059363874
+2025,Tennessee,20.0,Completed,Explicit eye unknown or refusal,99,616,16.24281940636125
+2025,Tennessee,20.0,Partial,All module fields blank,29,117,40.020370087986414
+2025,Tennessee,20.0,Partial,Complete eye pair,72,117,48.824020158762934
+2025,Tennessee,20.0,Partial,Explicit eye unknown or refusal,16,117,11.155609753250625
+2025,Texas,10.0,Completed,Complete eye pair,154,178,88.49826041698836
+2025,Texas,10.0,Completed,Explicit eye unknown or refusal,24,178,11.501739583011638
+2025,Texas,10.0,Partial,Complete eye pair,13,18,84.1245436039574
+2025,Texas,10.0,Partial,Explicit eye unknown or refusal,5,18,15.875456396042576
+2025,Texas,20.0,Completed,Complete eye pair,514,571,91.18520751806014
+2025,Texas,20.0,Completed,Explicit eye unknown or refusal,57,571,8.814792481939858
+2025,Texas,20.0,Partial,All module fields blank,96,164,64.96652353729198
+2025,Texas,20.0,Partial,Complete eye pair,58,164,31.87418568340649
+2025,Texas,20.0,Partial,Explicit eye unknown or refusal,10,164,3.1592907793015383
+2025,Washington,10.0,Completed,Complete eye pair,433,503,88.13630188850149
+2025,Washington,10.0,Completed,Explicit eye unknown or refusal,70,503,11.86369811149852
+2025,Washington,10.0,Partial,Complete eye pair,32,36,78.86422135031373
+2025,Washington,10.0,Partial,Explicit eye unknown or refusal,4,36,21.1357786496863
+2025,Washington,20.0,Completed,Complete eye pair,1457,1648,87.51718128075973
+2025,Washington,20.0,Completed,Explicit eye unknown or refusal,191,1648,12.48281871924027
+2025,Washington,20.0,Partial,All module fields blank,35,165,20.903206949734972
+2025,Washington,20.0,Partial,Complete eye pair,111,165,64.67587513155722
+2025,Washington,20.0,Partial,Explicit eye unknown or refusal,19,165,14.420917918707818
+2025,Wisconsin,10.0,Completed,Complete eye pair,643,757,84.77597937401215
+2025,Wisconsin,10.0,Completed,Explicit eye unknown or refusal,114,757,15.224020625987848
+2025,Wisconsin,10.0,Partial,All module fields blank,98,171,61.26977347488794
+2025,Wisconsin,10.0,Partial,Both eyes blank with other module data,6,171,3.059592723109068
+2025,Wisconsin,10.0,Partial,Complete eye pair,47,171,28.00084130861002
+2025,Wisconsin,10.0,Partial,Explicit eye unknown or refusal,17,171,6.8094341842309865
+2025,Wisconsin,10.0,Partial,One eye blank with module data,3,171,0.8603583091619617
+2025,Wisconsin,20.0,Completed,Complete eye pair,653,768,86.33218478265152
+2025,Wisconsin,20.0,Completed,Explicit eye unknown or refusal,115,768,13.667815217348467
+2025,Wisconsin,20.0,Partial,All module fields blank,135,216,63.09448224705269
+2025,Wisconsin,20.0,Partial,Both eyes blank with other module data,4,216,1.0277521687691236
+2025,Wisconsin,20.0,Partial,Complete eye pair,62,216,28.452263436802525
+2025,Wisconsin,20.0,Partial,Explicit eye unknown or refusal,11,216,6.202465039932972
+2025,Wisconsin,20.0,Partial,One eye blank with module data,4,216,1.2230371074427213
+2025,Wyoming,10.0,Completed,Complete eye pair,215,233,93.65571693099616
+2025,Wyoming,10.0,Completed,Explicit eye unknown or refusal,18,233,6.344283069003838
+2025,Wyoming,10.0,Partial,All module fields blank,25,28,85.25512106560677
+2025,Wyoming,10.0,Partial,Both eyes blank with other module data,1,28,4.829746741918211
+2025,Wyoming,10.0,Partial,Complete eye pair,2,28,9.915132192475017
+2025,Wyoming,20.0,Completed,Complete eye pair,295,325,90.66365932295588
+2025,Wyoming,20.0,Completed,Explicit eye unknown or refusal,30,325,9.336340677044134
+2025,Wyoming,20.0,Partial,All module fields blank,36,52,72.19884644780292
+2025,Wyoming,20.0,Partial,Both eyes blank with other module data,2,52,3.773018250979695
+2025,Wyoming,20.0,Partial,Complete eye pair,12,52,20.001243316658222
+2025,Wyoming,20.0,Partial,Explicit eye unknown or refusal,2,52,4.02689198455916
+2022,Delaware,10.0,Completed,Complete eye pair,131,153,89.96404785249436
+2022,Delaware,10.0,Completed,Explicit eye unknown or refusal,22,153,10.035952147505652
+2022,Delaware,10.0,Partial,Complete eye pair,24,27,93.22732866535043
+2022,Delaware,10.0,Partial,Explicit eye unknown or refusal,3,27,6.772671334649584
+2022,Delaware,20.0,Completed,Complete eye pair,301,352,84.11967872627541
+2022,Delaware,20.0,Completed,Explicit eye unknown or refusal,51,352,15.880321273724586
+2022,Delaware,20.0,Partial,All module fields blank,11,76,11.456839481200799
+2022,Delaware,20.0,Partial,Complete eye pair,52,76,69.8506425320024
+2022,Delaware,20.0,Partial,Explicit eye unknown or refusal,13,76,18.69251798679679
+2022,Georgia,10.0,Completed,Complete eye pair,445,528,82.61627900665869
+2022,Georgia,10.0,Completed,Explicit eye unknown or refusal,83,528,17.383720993341317
+2022,Georgia,10.0,Partial,Complete eye pair,70,92,83.29080298538979
+2022,Georgia,10.0,Partial,Explicit eye unknown or refusal,22,92,16.70919701461022
+2022,Georgia,20.0,Completed,Complete eye pair,579,665,83.88679905741873
+2022,Georgia,20.0,Completed,Explicit eye unknown or refusal,86,665,16.113200942581255
+2022,Georgia,20.0,Partial,All module fields blank,68,238,41.81019142322339
+2022,Georgia,20.0,Partial,Complete eye pair,151,238,53.27040149687081
+2022,Georgia,20.0,Partial,Explicit eye unknown or refusal,19,238,4.919407079905806
+2022,Indiana,10.0,Completed,Complete eye pair,360,415,86.01852741529589
+2022,Indiana,10.0,Completed,Explicit eye unknown or refusal,55,415,13.981472584704111
+2022,Indiana,10.0,Partial,Complete eye pair,87,95,94.66442374771746
+2022,Indiana,10.0,Partial,Explicit eye unknown or refusal,8,95,5.335576252282572
+2022,Indiana,20.0,Completed,Complete eye pair,818,937,87.535943905954
+2022,Indiana,20.0,Completed,Explicit eye unknown or refusal,119,937,12.464056094046008
+2022,Indiana,20.0,Partial,All module fields blank,28,226,11.180609118817236
+2022,Indiana,20.0,Partial,Complete eye pair,175,226,78.19645601157627
+2022,Indiana,20.0,Partial,Explicit eye unknown or refusal,23,226,10.622934869606517
+2022,Maine,11.0,Completed,Complete eye pair,303,343,88.29006645215777
+2022,Maine,11.0,Completed,Explicit eye unknown or refusal,40,343,11.709933547842226
+2022,Maine,11.0,Partial,Complete eye pair,11,13,87.91059272852061
+2022,Maine,11.0,Partial,Explicit eye unknown or refusal,2,13,12.089407271479388
+2022,Maine,12.0,Completed,Complete eye pair,259,310,83.8471294320571
+2022,Maine,12.0,Completed,Explicit eye unknown or refusal,51,310,16.152870567942905
+2022,Maine,12.0,Partial,Complete eye pair,10,14,80.25959765714987
+2022,Maine,12.0,Partial,Explicit eye unknown or refusal,4,14,19.74040234285015
+2022,Maine,20.0,Completed,All module fields blank,1,1,100.0
+2022,Maine,20.0,Partial,All module fields blank,9,9,100.0
+2022,Maine,21.0,Completed,Complete eye pair,265,287,92.46811732804063
+2022,Maine,21.0,Completed,Explicit eye unknown or refusal,22,287,7.531882671959362
+2022,Maine,21.0,Partial,Complete eye pair,26,29,79.94375112507716
+2022,Maine,21.0,Partial,Explicit eye unknown or refusal,3,29,20.056248874922815
+2022,Maine,22.0,Completed,Complete eye pair,265,311,84.03044745082568
+2022,Maine,22.0,Completed,Explicit eye unknown or refusal,46,311,15.969552549174319
+2022,Maine,22.0,Partial,Complete eye pair,17,20,90.14591882417758
+2022,Maine,22.0,Partial,Explicit eye unknown or refusal,3,20,9.854081175822412
+2022,Mississippi,10.0,Completed,Complete eye pair,60,72,87.59202530059765
+2022,Mississippi,10.0,Completed,Explicit eye unknown or refusal,12,72,12.40797469940235
+2022,Mississippi,10.0,Partial,Complete eye pair,8,11,49.926757113888215
+2022,Mississippi,10.0,Partial,Explicit eye unknown or refusal,3,11,50.07324288611179
+2022,Mississippi,20.0,Completed,All module fields blank,2,544,0.24434710508396024
+2022,Mississippi,20.0,Completed,Complete eye pair,447,544,82.127273145499
+2022,Mississippi,20.0,Completed,Explicit eye unknown or refusal,95,544,17.628379749417025
+2022,Mississippi,20.0,Partial,All module fields blank,18,75,25.80648062355072
+2022,Mississippi,20.0,Partial,Complete eye pair,49,75,68.40516271381793
+2022,Mississippi,20.0,Partial,Explicit eye unknown or refusal,8,75,5.788356662631353
+2022,Missouri,10.0,Completed,Complete eye pair,272,340,81.2701824002404
+2022,Missouri,10.0,Completed,Explicit eye unknown or refusal,68,340,18.72981759975958
+2022,Missouri,10.0,Partial,Complete eye pair,11,14,79.89720206499356
+2022,Missouri,10.0,Partial,Explicit eye unknown or refusal,3,14,20.102797935006414
+2022,Missouri,20.0,Completed,Complete eye pair,548,633,88.0491736042865
+2022,Missouri,20.0,Completed,Explicit eye unknown or refusal,85,633,11.950826395713502
+2022,Missouri,20.0,Partial,All module fields blank,29,56,65.22807556387093
+2022,Missouri,20.0,Partial,Complete eye pair,21,56,30.57811710374389
+2022,Missouri,20.0,Partial,Explicit eye unknown or refusal,6,56,4.193807332385169
+2022,Nevada,10.0,Completed,Complete eye pair,52,58,80.80488013853993
+2022,Nevada,10.0,Completed,Explicit eye unknown or refusal,6,58,19.19511986146009
+2022,Nevada,10.0,Partial,Complete eye pair,16,21,73.16212086640465
+2022,Nevada,10.0,Partial,Explicit eye unknown or refusal,5,21,26.83787913359535
+2022,Nevada,20.0,Completed,Complete eye pair,197,224,89.68845616990214
+2022,Nevada,20.0,Completed,Explicit eye unknown or refusal,27,224,10.311543830097857
+2022,Nevada,20.0,Partial,All module fields blank,25,93,26.191724334649596
+2022,Nevada,20.0,Partial,Complete eye pair,56,93,57.545795804699864
+2022,Nevada,20.0,Partial,Explicit eye unknown or refusal,12,93,16.262479860650544
+2022,North Dakota,10.0,Completed,All module fields blank,60,169,37.250246513570424
+2022,North Dakota,10.0,Completed,Complete eye pair,102,169,59.95896695866917
+2022,North Dakota,10.0,Completed,Explicit eye unknown or refusal,7,169,2.790786527760407
+2022,North Dakota,10.0,Partial,All module fields blank,19,32,47.79803760048878
+2022,North Dakota,10.0,Partial,Complete eye pair,10,32,37.946656924868556
+2022,North Dakota,10.0,Partial,Explicit eye unknown or refusal,3,32,14.255305474642649
+2022,North Dakota,20.0,Completed,All module fields blank,66,267,22.856749397481423
+2022,North Dakota,20.0,Completed,Complete eye pair,171,267,61.18294478970007
+2022,North Dakota,20.0,Completed,Explicit eye unknown or refusal,30,267,15.960305812818488
+2022,North Dakota,20.0,Partial,All module fields blank,24,42,58.83869570451033
+2022,North Dakota,20.0,Partial,Complete eye pair,17,42,40.11648075865433
+2022,North Dakota,20.0,Partial,Explicit eye unknown or refusal,1,42,1.044823536835332
+2022,South Carolina,10.0,Completed,Complete eye pair,486,575,85.97986900312955
+2022,South Carolina,10.0,Completed,Explicit eye unknown or refusal,89,575,14.020130996870446
+2022,South Carolina,10.0,Partial,Complete eye pair,117,141,83.70690496897795
+2022,South Carolina,10.0,Partial,Explicit eye unknown or refusal,24,141,16.29309503102204
+2022,South Carolina,20.0,Completed,Complete eye pair,640,728,88.10188418629531
+2022,South Carolina,20.0,Completed,Explicit eye unknown or refusal,88,728,11.898115813704688
+2022,South Carolina,20.0,Partial,All module fields blank,33,209,16.465892352163205
+2022,South Carolina,20.0,Partial,Complete eye pair,157,209,75.96405425167258
+2022,South Carolina,20.0,Partial,Explicit eye unknown or refusal,19,209,7.570053396164209
+2022,South Dakota,10.0,Completed,Complete eye pair,219,255,86.37804941070627
+2022,South Dakota,10.0,Completed,Explicit eye unknown or refusal,36,255,13.621950589293744
+2022,South Dakota,20.0,Completed,All module fields blank,2,692,0.11451976773457469
+2022,South Dakota,20.0,Completed,Complete eye pair,618,692,91.20642977643577
+2022,South Dakota,20.0,Completed,Explicit eye unknown or refusal,72,692,8.679050455829652
+2022,South Dakota,20.0,Partial,All module fields blank,14,36,79.91628683809725
+2022,South Dakota,20.0,Partial,Complete eye pair,21,36,18.928626477538124
+2022,South Dakota,20.0,Partial,Explicit eye unknown or refusal,1,36,1.1550866843646617
+2022,Vermont,10.0,Completed,Complete eye pair,184,220,80.1275738417158
+2022,Vermont,10.0,Completed,Explicit eye unknown or refusal,36,220,19.872426158284203
+2022,Vermont,10.0,Partial,Complete eye pair,29,35,86.73323990596082
+2022,Vermont,10.0,Partial,Explicit eye unknown or refusal,6,35,13.266760094039176
+2022,Vermont,20.0,Completed,Complete eye pair,394,471,81.96947427833881
+2022,Vermont,20.0,Completed,Explicit eye unknown or refusal,77,471,18.03052572166119
+2022,Vermont,20.0,Partial,All module fields blank,5,108,2.1047085231264044
+2022,Vermont,20.0,Partial,Complete eye pair,86,108,84.70846547698675
+2022,Vermont,20.0,Partial,Explicit eye unknown or refusal,17,108,13.18682599988686
+2022,Wisconsin,10.0,Completed,Complete eye pair,382,466,79.15032233556182
+2022,Wisconsin,10.0,Completed,Explicit eye unknown or refusal,84,466,20.849677664438175
+2022,Wisconsin,10.0,Partial,Complete eye pair,106,128,79.871686459813
+2022,Wisconsin,10.0,Partial,Explicit eye unknown or refusal,22,128,20.128313540186983
+2022,Wisconsin,20.0,Completed,All module fields blank,1,664,0.12910135846924273
+2022,Wisconsin,20.0,Completed,Complete eye pair,554,664,83.45729189178911
+2022,Wisconsin,20.0,Completed,Explicit eye unknown or refusal,109,664,16.41360674974164
+2022,Wisconsin,20.0,Partial,All module fields blank,18,248,8.028977138493833
+2022,Wisconsin,20.0,Partial,Complete eye pair,189,248,75.4314555240245
+2022,Wisconsin,20.0,Partial,Explicit eye unknown or refusal,41,248,16.539567337481657

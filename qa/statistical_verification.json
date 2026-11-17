@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "checks": [
+    "2025: 100 random original XPT records matched every extracted field and survey identifier",
+    "2025: all seven paired classification percentages independently matched direct raw weighted counts and partition identities",
+    "2025: Taylor variances independently matched explicit within-stratum centered PSU sums; singleton omission sensitivity recorded",
+    "2025: binary sensitivity cost-barrier differences and SEs matched finite-difference gradients and independent stratum sums",
+    "2025: independently refitted joint model, both adjusted disparities and gap-change SEs matched using numerical derivatives and explicit strata",
+    "2025: independent response models and finite-difference variances matched six core-only and insulin-augmented IPW estimates and SEs; influence ratios reconciled with their numerator and denominator",
+    "2022: 100 random original XPT records matched every extracted field and survey identifier",
+    "2022: all seven paired classification percentages independently matched direct raw weighted counts and partition identities",
+    "2022: Taylor variances independently matched explicit within-stratum centered PSU sums; singleton omission sensitivity recorded",
+    "2022: binary sensitivity cost-barrier differences and SEs matched finite-difference gradients and independent stratum sums",
+    "2022: independently refitted joint model, both adjusted disparities and gap-change SEs matched using numerical derivatives and explicit strata",
+    "2022: independent response models and finite-difference variances matched six core-only and insulin-augmented IPW estimates and SEs; influence ratios reconciled with their numerator and denominator"
+  ]
+}

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="689.76pt" height="497.137486pt" viewBox="0 0 689.76 497.137486" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-17T00:16:12.533560</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 497.137486 
+L 689.76 497.137486 
+L 689.76 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 29.430826 153.53321 
+L 297.885138 153.53321 
+Q 300.342385 153.53321 300.342385 149.98505 
+L 300.342385 81.68297 
+Q 300.342385 78.13481 297.885138 78.13481 
+L 29.430826 78.13481 
+Q 26.973578 78.13481 26.973578 81.68297 
+L 26.973578 149.98505 
+Q 26.973578 153.53321 29.430826 153.53321 
+z
+" clip-path="url(#p6ebbb8f993)" style="fill: #edf4f9; stroke: #153d64; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 29.430826 251.10761 
+L 297.885138 251.10761 
+Q 300.342385 251.10761 300.342385 247.55945 
+L 300.342385 179.25737 
+Q 300.342385 175.70921 297.885138 175.70921 
+L 29.430826 175.70921 
+Q 26.973578 175.70921 26.973578 179.25737 
+L 26.973578 247.55945 
+Q 26.973578 251.10761 29.430826 251.10761 
+z
+" clip-path="url(#p6ebbb8f993)" style="fill: #edf4f9; stroke: #153d64; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 29.430826 348.68201 
+L 297.885138 348.68201 
+Q 300.342385 348.68201 300.342385 345.13385 
+L 300.342385 276.83177 
+Q 300.342385 273.28361 297.885138 273.28361 
+L 29.430826 273.28361 
+Q 26.973578 273.28361 26.973578 276.83177 
+L 26.973578 345.13385 
+Q 26.973578 348.68201 29.430826 348.68201 
+z
+" clip-path="url(#p6ebbb8f993)" style="fill: #edf4f9; stroke: #153d64; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 29.430826 446.25641 
+L 297.885138 446.25641 
+Q 300.342385 446.25641 300.342385 442.70825 
+L 300.342385 374.40617 
+Q 300.342385 370.85801 297.885138 370.85801 
+L 29.430826 370.85801 
+Q 26.973578 370.85801 26.973578 374.40617 
+L 26.973578 442.70825 
+Q 26.973578 446.25641 29.430826 446.25641 
+z
+" clip-path="url(#p6ebbb8f993)" style="fill: #ddece9; stroke: #153d64; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(114.890716 112.123678)">Public survey file</text>
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(129.141966 126.272858)">n = 356,158</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 163.657982 155.530999 
+Q 163.657982 166.838686 163.657982 176.692929 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 166.057982 171.892929 
+L 163.657982 176.692929 
+L 161.257982 171.892929 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(92.850638 209.698205)">20 full-module US states</text>
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(82.533919 223.847131)">All respondents n = 149,032</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 163.657982 253.105399 
+Q 163.657982 264.413086 163.657982 274.267329 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 166.057982 269.467329 
+L 163.657982 274.267329 
+L 161.257982 269.467329 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(62.115794 307.272478)">Diagnosed nongestational diabetes</text>
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(133.238997 321.421658)">n = 21,211</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 163.657982 350.679799 
+Q 163.657982 361.987486 163.657982 371.841729 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 166.057982 367.041729 
+L 163.657982 371.841729 
+L 161.257982 367.041729 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(71.540794 404.846878)">Complete eye-care recency pair</text>
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(132.756575 418.996058)">n = 17,806</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'Arial'; fill: #53616c" transform="translate(106.489779 471.945698)">Incomplete pairs: 3,405</text>
+    <text style="font-size: 11px; font-family: 'Arial'; fill: #53616c" transform="translate(55.437747 483.917866)">Retained as a separate missingness domain</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial'; text-anchor: middle" x="163.657982" y="21.00041" transform="rotate(-0 163.657982 21.00041)">2025 BRFSS</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_9">
+    <path d="M 391.874862 153.53321 
+L 660.329174 153.53321 
+Q 662.786422 153.53321 662.786422 149.98505 
+L 662.786422 81.68297 
+Q 662.786422 78.13481 660.329174 78.13481 
+L 391.874862 78.13481 
+Q 389.417615 78.13481 389.417615 81.68297 
+L 389.417615 149.98505 
+Q 389.417615 153.53321 391.874862 153.53321 
+z
+" clip-path="url(#p74aa938622)" style="fill: #edf4f9; stroke: #153d64; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 391.874862 251.10761 
+L 660.329174 251.10761 
+Q 662.786422 251.10761 662.786422 247.55945 
+L 662.786422 179.25737 
+Q 662.786422 175.70921 660.329174 175.70921 
+L 391.874862 175.70921 
+Q 389.417615 175.70921 389.417615 179.25737 
+L 389.417615 247.55945 
+Q 389.417615 251.10761 391.874862 251.10761 
+z
+" clip-path="url(#p74aa938622)" style="fill: #edf4f9; stroke: #153d64; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 391.874862 348.68201 
+L 660.329174 348.68201 
+Q 662.786422 348.68201 662.786422 345.13385 
+L 662.786422 276.83177 
+Q 662.786422 273.28361 660.329174 273.28361 
+L 391.874862 273.28361 
+Q 389.417615 273.28361 389.417615 276.83177 
+L 389.417615 345.13385 
+Q 389.417615 348.68201 391.874862 348.68201 
+z
+" clip-path="url(#p74aa938622)" style="fill: #edf4f9; stroke: #153d64; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 391.874862 446.25641 
+L 660.329174 446.25641 
+Q 662.786422 446.25641 662.786422 442.70825 
+L 662.786422 374.40617 
+Q 662.786422 370.85801 660.329174 370.85801 
+L 391.874862 370.85801 
+Q 389.417615 370.85801 389.417615 374.40617 
+L 389.417615 442.70825 
+Q 389.417615 446.25641 391.874862 446.25641 
+z
+" clip-path="url(#p74aa938622)" style="fill: #ddece9; stroke: #153d64; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(477.334753 112.123678)">Public survey file</text>
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(491.586003 126.272858)">n = 445,132</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 526.102018 155.530999 
+Q 526.102018 166.838686 526.102018 176.692929 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 528.502018 171.892929 
+L 526.102018 176.692929 
+L 523.702018 171.892929 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(455.294675 209.698205)">12 full-module US states</text>
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(448.592565 223.847131)">All respondents n = 90,901</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 526.102018 253.105399 
+Q 526.102018 264.413086 526.102018 274.267329 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 528.502018 269.467329 
+L 526.102018 274.267329 
+L 523.702018 269.467329 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(424.559831 307.272478)">Diagnosed nongestational diabetes</text>
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(495.200612 321.421658)">n = 12,768</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 526.102018 350.679799 
+Q 526.102018 361.987486 526.102018 371.841729 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 528.502018 367.041729 
+L 526.102018 371.841729 
+L 523.702018 367.041729 
+" style="fill: none; stroke: #153d64; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(433.984831 404.846878)">Complete eye-care recency pair</text>
+    <text style="font-size: 13px; font-family: 'Arial'" transform="translate(495.200612 418.996058)">n = 10,568</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'Arial'; fill: #53616c" transform="translate(468.933815 471.945698)">Incomplete pairs: 2,200</text>
+    <text style="font-size: 11px; font-family: 'Arial'; fill: #53616c" transform="translate(417.881784 483.917866)">Retained as a separate missingness domain</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial'; text-anchor: middle" x="526.102018" y="21.00041" transform="rotate(-0 526.102018 21.00041)">2022 BRFSS</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6ebbb8f993">
+   <rect x="10.08" y="36.00041" width="307.155963" height="443.52"/>
+  </clipPath>
+  <clipPath id="p74aa938622">
+   <rect x="372.524037" y="36.00041" width="307.155963" height="443.52"/>
+  </clipPath>
+ </defs>
+</svg>
